@@ -12,6 +12,8 @@ Wygląd zewnętrzny: Najbardziej charakterystyczną cechą wyglądu Twi'leków s
 
 - **Lekku** – Twi’lek może skrycie porozumiewać się z innym przedstawicielem rasy, jednak lekku jest także jego słabym punktem. Łatwo go za nie złapać, a uszkodzenie może doprowadzić do śmierci.
 
+{ #39d7ef}
+
 - **Widzenie w słabym świetle** – kary z tego tytułu mniejsze o połowę.
 
 - **Wysoka odporność na toksyny i trucizny**

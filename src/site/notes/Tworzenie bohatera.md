@@ -4,11 +4,10 @@
 
 [[Tworzenie bohatera/Gatunki\|Gatunki]]
 [[Tworzenie bohatera/Profesje\|Profesje]]
-Współczynniki
-Umiejętności
+[[Tworzenie bohatera/Współczynniki\|Współczynniki]]
+[[Tworzenie bohatera/Umiejętności\|Umiejętności]]
 Sztuczki
 Wyposażenie
-
 
 
 W czasie gry będziesz miał możliwość wcielić się w postać świata Gwiezdnych Wojen, która od podstaw może być wymyślona przez ciebie! Każdy bohater musi zostać opisany liczbami i statystykami a pomoże ci w tym poniższy poradnik.

@@ -12,7 +12,7 @@ Mają wielkie czaszki i równie duże mózgi. Swój rozwój zawdzięczają wielu
 
 - **Medytacja** – Bithowie nie odczuwają potrzeby snu. Zamiast tego medytują. 4 godzinna medytacja pozwala wypocząć im w taki sam sposób jak 8 godzinny sen innym rasom. Przy tym, w czasie medytacji pozostają czujni.
 
-- **Czuły węch** – Bithowie mają doskonale rozwinięty węch. Testy Zmysłów oparte o węch są łatwiejsze o 3.
+- **Czuły węch** – Bithowie mają doskonale rozwinięty węch. Testy [[Tworzenie bohatera/Współczynniki#^f66138\|Zmysłów]] oparte o węch są łatwiejsze o 3.
 
 | **Bithowie**                 |                                                     |
 | ---------------------------- | --------------------------------------------------- |
