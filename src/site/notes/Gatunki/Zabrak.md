@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gatunki/zabrak/"}
+{"dg-publish":true,"permalink":"/gatunki/zabrak/","dgPassFrontmatter":true}
 ---
 
 +1 Budowa

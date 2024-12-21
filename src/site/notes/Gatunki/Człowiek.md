@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gatunki/czlowiek/"}
+{"dg-publish":true,"permalink":"/gatunki/czlowiek/","dgPassFrontmatter":true}
 ---
 
 +1 dowolny

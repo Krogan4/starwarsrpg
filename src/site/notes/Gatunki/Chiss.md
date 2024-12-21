@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gatunki/chiss/"}
+{"dg-publish":true,"permalink":"/gatunki/chiss/","dgPassFrontmatter":true}
 ---
 
 +1 Intelekt

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gatunki/twi-lek/"}
+{"dg-publish":true,"permalink":"/gatunki/twi-lek/","dgPassFrontmatter":true}
 ---
 
 +1 Zręczność
