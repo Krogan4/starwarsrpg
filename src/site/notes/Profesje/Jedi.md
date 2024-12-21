@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/profesje/jedi/","dgPassFrontmatter":true}
 ---
 
-„Nie ma emocji - jest spokój.
-Nie ma ignorancji - jest wiedza.
-Nie ma namiętności - jest pogoda ducha.
-Nie ma chaosu - jest harmonia” – Odan Urra (Kodeks Jedi)
+„*Nie ma emocji - jest spokój.*
+*Nie ma ignorancji - jest wiedza.*
+*Nie ma namiętności - jest pogoda ducha.*
+*Nie ma chaosu - jest harmonia*” – Odan Urra (Kodeks Jedi)
 
 ![Pasted image 20241221155131.png](/img/user/Obrazy/Pasted%20image%2020241221155131.png)
 
@@ -17,8 +17,8 @@ Podczas pierwszego etapu szkolenia na Jedi kandydat jest nazywany adeptem lub m�
 
 Zaczyna z podstawowym mieczem świetlnym dowolnego koloru (lub shoto) oraz szarą szatą. Zaczyna ze znajomością Shii-Cho. Zaczyna także z premią do Arkana Mocy wynoszącą 5.
 
-Cechy (wybierz jedną): [**Do grania jako Jedi wymagane jest min. 12 Wrażliwości na Moc**]
+**Cechy** (wybierz jedną): [**Do grania jako Jedi wymagane jest min. 12 Wrażliwości na Moc**]
 
-- Obrońca Jedi – Jedi, który wybrał tę cechę poświęcił się bezpośredniej walce z siłami zła i z Ciemną Stroną Mocy. Ćwiczył swe ciało i walkę mieczem, by stać w pierwszej linii na froncie. Zaczyna znając jedną dodatkową technikę walki, której wymagania spełnia oraz umiejętnościami krótka broń ręczna i długa broń ręczna na 1 poziomie.
+- **Obrońca Jedi** – Jedi, który wybrał tę cechę poświęcił się bezpośredniej walce z siłami zła i z Ciemną Stroną Mocy. Ćwiczył swe ciało i walkę mieczem, by stać w pierwszej linii na froncie. Zaczyna znając jedną dodatkową technikę walki, której wymagania spełnia oraz umiejętnościami krótka broń ręczna i długa broń ręczna na 1 poziomie.
 
-- Negocjator Jedi – Jedi, który wybrał tę cechę poświęcił się przywracaniu równowagi we wszechświecie, szczególnie metodami dyplomatycznymi. Aby lepiej opanować moc, koncentrował się na ćwiczeniu umysłu i zgłębianiu filozoficznych rozterek niż walce fizycznej. Zaczyna z wszystkimi umiejętnościami opierającymi się o Moc oraz Niezłomność na 1 poziomie.
+- **Negocjator Jedi** – Jedi, który wybrał tę cechę poświęcił się przywracaniu równowagi we wszechświecie, szczególnie metodami dyplomatycznymi. Aby lepiej opanować moc, koncentrował się na ćwiczeniu umysłu i zgłębianiu filozoficznych rozterek niż walce fizycznej. Zaczyna z wszystkimi umiejętnościami opierającymi się o Moc oraz Niezłomność na 1 poziomie.

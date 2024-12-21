@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/profesje/lowca-nagrod/","dgPassFrontmatter":true}
 ---
 
-„Mój czas jest cenny. Nie interesuje mnie czemu chcesz go dopaść, chyba że zapłacisz mi ekstra za słuchanie tych bzdur. Głowę przyniosę ci tak czy inaczej.”
+„*Mój czas jest cenny. Nie interesuje mnie czemu chcesz go dopaść, chyba że zapłacisz mi ekstra za słuchanie tych bzdur. Głowę przyniosę ci tak czy inaczej.*”
 
 ![Pasted image 20241221154329.png](/img/user/Obrazy/Pasted%20image%2020241221154329.png)
 
@@ -10,8 +10,8 @@
 
 Łowca nagród zaczyna z 20% zniżką na poniższe artykuły: noktowizor, dowolny hełm, dowolny pancerz, dowolny pistolet blasterowy, granaty, makrolornetka i zestaw sensorów. Zaczyna także z premią do Znajomości półświatka wynoszącą 5.
 
-Cechy (wybierz jedną):
+**Cechy** (wybierz jedną):
 
-- Żywy jest wart więcej – Łowca nagród z tą cechą wyspecjalizował się w takim załatwianiu spraw, aby nie uśmiercić swojego celu. Test celowania w kończyny celu wiąże się z redukcją kary za lokalizację o 1.
+- **Żywy jest wart więcej** – Łowca nagród z tą cechą wyspecjalizował się w takim załatwianiu spraw, aby nie uśmiercić swojego celu. Test celowania w kończyny celu wiąże się z redukcją kary za lokalizację o 1.
 
-- To moja skóra – Łowca nagród, który wybrał tę cechę niemal nie rozstaje się ze swoim pancerzem, dlatego wszystkie kary za noszony pancerz zmniejszają się o 1.
+- **To moja skóra** – Łowca nagród, który wybrał tę cechę niemal nie rozstaje się ze swoim pancerzem, dlatego wszystkie kary za noszony pancerz zmniejszają się o 1.

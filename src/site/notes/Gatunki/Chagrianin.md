@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gatunki/chagrianin/","dgPassFrontmatter":true}
 ---
 
-+1 Charakter
++1 **Charakter**
 ![Pasted image 20241221153918.png](/img/user/Obrazy/Pasted%20image%2020241221153918.png)
 
 Chagrianie to humanoidalna, ziemnowodna rasa zamieszkująca planetę Champalę. Chagrianie są wysoką, z reguły potężnie zbudowaną rasą. Ich najbardziej charakterystyczną cechą są rogi. U obu płci występują ruchorogi, które wyrastają z wyrostków znajdujących się po obu stronach głowy. Mogą one rosnąć do znacznych długości, a z wiekiem stają się coraz twardsze. Mężczyźni posiadają dodatkową parę rogów wyrastającą z czaszki, której używali w dawnych czasach w walkach o samicę. Kobiety natomiast mają w tym miejscu długi grzebień, który zaczyna się u czubka głowy i kończy u podstawy szyi. Skóra Chagrian przybiera różne odcienie błękitu, podobnie jak ich krew.
@@ -11,25 +11,24 @@ Mogą oni przetrwać zarówno na lądzie, jak i w wodzie. Dzięki procesom ewolu
 
 Typowy Chagrianin jest osobą ściśle przestrzegającą prawa i spokojną, czasem wręcz stoicką. Rasa zawsze żyła w dostatku, więc wśród jej przedstawicieli rzadko zdarzają się istoty skąpe i chciwe. Lubią oni ponadto przebywać w obszarach o dużym zaludnieniu, gdzie mogą spotykać się z innymi. Nie obca była im jednak próżność.
 
-Reguły specjalne:
+**Reguły specjalne:**
 
-·         Widzenie w ciemności – kary z tego tytuły mniejsze o ¾.
+- **Widzenie w ciemności** – kary z tego tytuły mniejsze o ¾.
 
-·         +1 do Perswazji
+- +1 do **Perswazji**
 
-·         +2 do Wypatrywania
+- +2 do **Wypatrywania**
 
-·         Wysoka odporność na promieniowanie
+- **Wysoka odporność na promieniowanie**
 
-·         Umiejętność oddychania pod wodą
+- **Umiejętność oddychania pod wodą**
 
-|   |   |
-|---|---|
-|**Changrianie**|   |
-|**Planeta macierzysta:**|Champala|
-|**Język:**|Chagri|
-|**Kolor skóry:**|Różne odcienie niebieskiego|
-|**Kolor oczu:**|Niebieskie|
-|**Wzrost:**|170 – 220 cm|
-|**Cechy charakterystyczne:**|Ruchorogi, u samców dodatkowa para|
-|**Długość życia:**|Do 76 lat|
+| **Changrianie**              |                                    |
+| ---------------------------- | ---------------------------------- |
+| **Planeta macierzysta:**     | Champala                           |
+| **Język:**                   | Chagri                             |
+| **Kolor skóry:**             | Różne odcienie niebieskiego        |
+| **Kolor oczu:**              | Niebieskie                         |
+| **Wzrost:**                  | 170 – 220 cm                       |
+| **Cechy charakterystyczne:** | Ruchorogi, u samców dodatkowa para |
+| **Długość życia:**           | Do 76 lat                          |
