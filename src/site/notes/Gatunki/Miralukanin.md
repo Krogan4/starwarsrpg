@@ -13,9 +13,9 @@ W roku 3952 BBY na rodzinnej planecie Miralukan odbywało się konklawe Jedi, na
 
 - **Widzenie Mocą** – Miralukanin nie zużywa Punktów Energii na Wzrok Mocy. Mimo braku oczu, domyślnie stosuje się testy Wypatrywania i Nasłuchiwania. Miralukanin nie jest w stanie obserwować swojego otoczenia jednocześnie, jednak nikt nie jest w stanie określić na co spogląda.
 
-- +1 do **Odczuwania**
+- +1 do **[[Tworzenie bohatera/Umiejętności#^7e3f02\|Wyczuwania]]**
 
-- +1 do **Wypatrywania**
+- +1 do **[[Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
 
 | **Miralukanie**              |                                                         |
 | ---------------------------- | ------------------------------------------------------- |

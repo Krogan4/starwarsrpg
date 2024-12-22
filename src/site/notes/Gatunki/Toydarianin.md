@@ -11,7 +11,7 @@ Toydarianie są niskimi istotami, potrafiącymi latać przy pomocy niewielkich s
 
 - **Latanie** – Toydorianie mają skrzydła a ich ciała wypełnia gaz, także są w stanie bardzo szybko latać. Latanie nie męczy ich bardziej niż chód.
 
-- **Odporność na kontrolę umysłu** – Toydorianie są odporni na umiejętności Wpływu, dlatego Poziom Trudności testu Wpływu na Toydorianina wiąże się z utrudnieniem -7.
+- **Odporność na kontrolę umysłu** – Toydorianie są odporni na umiejętności [[Tworzenie bohatera/Umiejętności#^a7b76a\|Wpływu]], dlatego Poziom Trudności testu Wpływu na Toydorianina wiąże się z utrudnieniem -7.
 
 | **Toydorianie**          |                                   |
 | ------------------------ | --------------------------------- |

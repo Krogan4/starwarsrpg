@@ -17,7 +17,7 @@ Kel Dorowie miewają tendencję do bycia stosunkowo cichymi, ale troskliwymi stw
 
 - **Oddychanie oparte na helu** – skład powietrza przystępny dla większości gatunków dla Kel Dorów jest zabójczy
 
-- + 2 do **Nasłuchiwania**
+- + 2 do **[[Tworzenie bohatera/Umiejętności#^ba32e1\|Nasłuchiwania]]**
 
 | **Kel Dorowie**              |                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------- |

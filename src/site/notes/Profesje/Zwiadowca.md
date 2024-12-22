@@ -11,6 +11,6 @@ Zwiadowca zaczyna wyposażony w siatkę maskującą wybranego typu (dżungla, ś
 
 **Cechy** (wybierz jedną):
 
-- **Rozpoznawanie stworzeń** – zwiadowca spędził w terenie tyle czasu, że tropienie i łowiectwo to dla niego chleb powszechni. Dostaje jeden sukces w jakimkolwiek teście tropienia i identyfikacji przeciwnika.
+- **Rozpoznawanie stworzeń** – zwiadowca spędził w terenie tyle czasu, że tropienie i łowiectwo to dla niego chleb powszechni. Dostaje jeden sukces w jakimkolwiek teście [[Tworzenie bohatera/Umiejętności#^e3cbc0\|Tropienia]] i [[Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]].
 
 - **Obca kultura** – zwiadowca z tą cechą nie ma problemów z porozumieniem się z prymitywnymi lub nieufnymi cywilizacjami, które napotka na swej drodze nawet, jeżeli nie potrafią porozumiewać się wspólnym językiem. Dla zwiadowcy wszelkie testy związane z kontaktem z nową cywilizacją są łatwiejsze o poziom oraz bezproblemowo dogaduje się z nimi w prostych kwestiach, gdy nie ma z nimi wspólnego języka.

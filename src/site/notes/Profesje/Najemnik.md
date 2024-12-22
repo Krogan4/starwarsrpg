@@ -13,4 +13,4 @@ Najemnik zaczyna z 20% zniżką na dowolny pistolet blasterowy, lekki pancerz, b
 
 - **Reputacja** – najemnik zaczyna z Reputacją o 15 punktów większą. Dodatkowo każdy punkt kosztuje go tylko 20PD.
 
-- **Maszyna do zabijania** – najemnik może wejść w tryb maszyny do zabijania, dzięki czemu podnosi jeden współczynnik o 2 punkty wyłącznie do testów w walce. Po godzinie bonus znika, zaś najemnik otrzymuję karę -4 ze zmęczenia (znika 1 na godzinę). Cechy można użyć ponownie dopiero po pełnym wypoczęciu.
+- **Maszyna do zabijania** – najemnik może wejść w tryb maszyny do zabijania, dzięki czemu podnosi jeden [[Tworzenie bohatera/Współczynniki\|Współczynnik]] o 2 punkty wyłącznie do testów w walce. Po godzinie bonus znika, zaś najemnik otrzymuję karę -4 ze zmęczenia (znika 1 na godzinę). Cechy można użyć ponownie dopiero po pełnym wypoczęciu.

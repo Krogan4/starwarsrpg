@@ -15,7 +15,7 @@ Na ich ojczystej planecie żyje wiele niebezpiecznych stworzeń, stąd Rodianie 
 
 - **Widzenie w podczerwieni** – Rodianin jest w stanie dostrzec promieniowanie cieplne emitowane przez żywe organizmy.
 
-- +1 do **Kondycji**
+- +1 do **[[Tworzenie bohatera/Umiejętności#^6d259f\|Kondycji]]**
 
 | **Rodianie**                 |                                                                   |
 | ---------------------------- | ----------------------------------------------------------------- |

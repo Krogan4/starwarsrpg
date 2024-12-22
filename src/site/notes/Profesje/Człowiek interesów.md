@@ -11,6 +11,6 @@ Człowiek interesów zaczyna wyposażony w ubranie eleganckie ubranie (np. garni
 
 **Cechy** (wybierz jedną):
 
-- **Propozycja nie do odrzucenia** – człowiek interesów potrafi sprawić, aby jego potencjalny klient uświadomił sobie, jak bardzo potrzebuje towarów czy usług oferowanych przez człowieka interesów. Zawsze, gdy negocjuje warunki kontraktu dostaje 1 darmowy sukces perswazji.
+- **Propozycja nie do odrzucenia** – człowiek interesów potrafi sprawić, aby jego potencjalny klient uświadomił sobie, jak bardzo potrzebuje towarów czy usług oferowanych przez człowieka interesów. Zawsze, gdy negocjuje warunki kontraktu dostaje 1 darmowy sukces [[Tworzenie bohatera/Umiejętności#^5e52ee\|Perswazji]].
 
-- **Stalowe nerwy** – ten człowiek interesów niejednokrotnie znajdował się pod presją utraty wszystkiego. Nie musiał być to pistolet blasterowy nad głową. Mogło być to czujne oko szefa czekające na jakikolwiek błąd, by odebrać człowiekowi interesów posadę. Dlatego ten – o ile ma jakikolwiek pomysł na **cywilizowane** załatwienie spraw i dogadanie się z drugą stroną – jest odporny na zastraszanie (nie dotyczy umiejętności Wpływu) i nie odczuwa kar związanych ze stresującą sytuacją.
+- **Stalowe nerwy** – ten człowiek interesów niejednokrotnie znajdował się pod presją utraty wszystkiego. Nie musiał być to pistolet blasterowy nad głową. Mogło być to czujne oko szefa czekające na jakikolwiek błąd, by odebrać człowiekowi interesów posadę. Dlatego ten – o ile ma jakikolwiek pomysł na **cywilizowane** załatwienie spraw i dogadanie się z drugą stroną – jest odporny na zastraszanie (nie dotyczy umiejętności [[Tworzenie bohatera/Umiejętności#^a7b76a\|Wpływu]]) i nie odczuwa kar związanych ze stresującą sytuacją.

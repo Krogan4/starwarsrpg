@@ -17,6 +17,6 @@ Zaczyna z premią do Arkana Mocy wynoszącą 5.
 
 **Cechy** (wybierz jedną):
 
-- **Ukrycie** – użytkownik Mocy, który opanował cechę Ukrycie starał się nie chwalić na lewo i prawo tym, że jest w stanie kontrolować Moc, dlatego zaczyna z pierwszym poziomem umiejętności Wyczucie, a także dostaje jeden automatyczny sukces we wszystkich testach ukrywania Mocy.
+- **Ukrycie** – użytkownik Mocy, który opanował cechę Ukrycie starał się nie chwalić na lewo i prawo tym, że jest w stanie kontrolować Moc, dlatego zaczyna z pierwszym poziomem umiejętności [[Tworzenie bohatera/Umiejętności#^7e3f02\|Wyczucie]], a także dostaje jeden automatyczny sukces we wszystkich testach ukrywania Mocy.
 
 - **Zero przypadków** – użytkownik Mocy z tą cechą oparł każdy aspekt swojego życia na Mocy i wykluczył z niego przypadki. Dwa razy na sesję może przerzucić dowolny test.

@@ -11,6 +11,6 @@
 
 **Cechy** (wybierz jedną):
 
-- **Rutyna** – podczas testu morale przed walką, żołnierz automatycznie zdaje test.
+- **Rutyna** – podczas testu [[Tworzenie bohatera/Umiejętności#^ee2a45\|Odwagi]] przed walką, żołnierz automatycznie zdaje test.
 
 - **Walka pozycyjna** – żołnierz z tą cechą nauczył się strzelać zza osłony tak, by nie dostawać żadnych kar wynikających za strzelanie zza osłony.

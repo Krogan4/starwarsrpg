@@ -11,6 +11,6 @@ Złodziej zaczyna wyposażony w zestaw wytrychów i latarkę fuzyjną oraz 20% z
 
 **Cechy** (wybierz jedną):
 
-- **Kot** – złodziej z tą cechą jest tak skuteczny, że w czasie wykonywania testów Skradania lub Ukrywania, zwiększa poziom trudności test Wypatrywania lub Nasłuchiwania u przeciwnika.
+- **Kot** – złodziej z tą cechą jest tak skuteczny, że w czasie wykonywania testów [[Tworzenie bohatera/Umiejętności#^deb32c\|Skradania]] lub [[Tworzenie bohatera/Umiejętności#^075005\|Ukrywania się]], zwiększa poziom trudności test Wypatrywania lub Nasłuchiwania u przeciwnika.
 
-- **Haker** – ten złodziej skupia bardziej się na pokonywaniu cyfrowych zabezpieczeń niż fizycznych przeszkód. Za każdym razem, gdy wykonuje test Hakowania lub Otwierania Zamków elektronicznych, dostaje na czas testu 3 punkty Intelektu.
+- **Haker** – ten złodziej skupia bardziej się na pokonywaniu cyfrowych zabezpieczeń niż fizycznych przeszkód. Za każdym razem, gdy wykonuje test [[Tworzenie bohatera/Umiejętności#^dbc096\|Elektroniki]] lub [[Tworzenie bohatera/Umiejętności#^ecd097\|Otwierania zamków]] elektronicznych, dostaje na czas testu 3 punkty Intelektu.

@@ -15,7 +15,7 @@ Ithorian często bywają nazywani młotogłowymi lub młotami ze względu na cha
 
 - **Wydawanie stereofonicznych dźwięków**
 
-- **Obezwładnianie dźwiękiem** – Ithorianin jest w stanie wydać z siebie potężny krzyk, który powoduje -3 do wszystkich testów osób dookoła na okres 3 tur. Jeżeli istota ma czuły słuch, kara wynosi -5. Dodatkowo, jeżeli Ithorianin jest biegły w Mocy, może spróbować wzmocnić swój krzyk (Wzmocnienie -4) by za pomocą dźwięku odrzucić wszystko dookoła i uszkodzić nawet elementy zrobione ze wzmacnianej stali.
+- **Obezwładnianie dźwiękiem** – Ithorianin jest w stanie wydać z siebie potężny krzyk, który powoduje -3 do wszystkich testów osób dookoła na okres 3 tur. Jeżeli istota ma czuły słuch, kara wynosi -5. Dodatkowo, jeżeli Ithorianin jest biegły w Mocy, może spróbować wzmocnić swój krzyk ([[Tworzenie bohatera/Umiejętności#^047d6c\|Wzmocnienie]] -4) by za pomocą dźwięku odrzucić wszystko dookoła i uszkodzić nawet elementy zrobione ze wzmacnianej stali.
 
 | **Ithorianie**           |                                  |
 | ------------------------ | -------------------------------- |

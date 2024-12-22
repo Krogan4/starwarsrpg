@@ -10,6 +10,6 @@ Medyk zaczyna wyposażony w torbę lekarską i 20% zniżką na artykuły medyczn
 
 **Cechy** (wybierz jedną):
 
-- **Specjalista** – ten medyk wyspecjalizował się w jednej dziedzinie. Gracz musi wybrać specjalizację z poniższej listy. Do wybranej specjalizacji ma zawsze +1 do testów jej leczenia. Specjalizacje: choroby, zatrucia, rany cięte i szarpane, ciała obce (np. odłamki, pociski), poparzenia (w tym blastery i miecze świetlne).
+- **Specjalista** – ten medyk wyspecjalizował się w jednej dziedzinie. Gracz musi wybrać specjalizację z poniższej listy. Do wybranej specjalizacji ma zawsze +1 do testów jej leczenia. Specjalizacje: **choroby**, **zatrucia**, **rany cięte i szarpane**, **ciała obce** (np. odłamki, pociski), **poparzenia** (w tym blastery i miecze świetlne).
 
 - **Gwarancja bezpieczeństwa** – medyk z tą cechą nauczył się doskonale dbać o pacjenta. Nawet, jeżeli nie zda testu pierwszej pomocy lub leczenia, nie pogorszy stanu pacjenta.

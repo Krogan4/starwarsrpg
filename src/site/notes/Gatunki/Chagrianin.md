@@ -15,9 +15,9 @@ Typowy Chagrianin jest osobą ściśle przestrzegającą prawa i spokojną, czas
 
 - **Widzenie w ciemności** – kary z tego tytuły mniejsze o ¾.
 
-- +1 do **Perswazji**
+- +1 do **[[Tworzenie bohatera/Umiejętności#^5e52ee\|Perswazji]]**
 
-- +2 do **Wypatrywania**
+- +2 do **[[Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
 
 - **Wysoka odporność na promieniowanie**
 

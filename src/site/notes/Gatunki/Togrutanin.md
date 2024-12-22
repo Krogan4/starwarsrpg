@@ -19,7 +19,7 @@ Togrutanie byli ludem spokojnym i pokojowym, lecz w walce byli godnymi przeciwni
 
 - **Lekku** – Togrutanin może skrycie porozumiewać się z innym przedstawicielem rasy, jednak lekku jest także jego słabym punktem. Łatwo go za nie złapać, a uszkodzenie może doprowadzić do śmierci.
 
-- +1 do **Nasłuchiwania**.
+- +1 do **[[Tworzenie bohatera/Umiejętności#^ba32e1\|Nasłuchiwania]]**.
 
 | **Togrutanie**               |                                                                       |
 | ---------------------------- | --------------------------------------------------------------------- |

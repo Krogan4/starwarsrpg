@@ -13,4 +13,4 @@ Kierowca zaczyna wyposażony w stój pilota oraz z 20% zniżką na dowolny pojaz
 
 - **Osłona pojazdu** – Kierowca z tą cechą potrafi wykorzystać swój pojazd jako osłonę przed wrogimi atakami. Nie otrzymuje kary do prowadzenia pojazdu za to, że kryje się i pochyla, uzyskując -4 z osłony (jeżeli pozwala na to konstrukcja pojazdu). Wszyscy pasażerowie w prowadzonym przez niego pojeździ otrzymują dodatkowo -1 z osłony.
 
-- **Profesjonalista** – Kierowca z tą cechą podczas wszystkich manewrów pojazdem dodaje +2 do Zręczności.
+- **Profesjonalista** – Kierowca z tą cechą podczas wszystkich manewrów pojazdem dodaje +2 do [[Tworzenie bohatera/Współczynniki#^57335f\|Zręczności]].

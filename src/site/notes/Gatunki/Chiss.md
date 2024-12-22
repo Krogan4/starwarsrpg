@@ -13,7 +13,7 @@ Chissowie są inteligentni i tajemniczy. Wykazują wielkie zainteresowanie sztuk
 
 - **Widzenie w podczerwieni** – Chiss jest w stanie dostrzec promieniowanie cieplne emitowane przez żywe organizmy.
 
-- +1 do **Wypatrywania**
+- +1 do **[[Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
 
 | **Chissowie**                |                                                    |
 | ---------------------------- | -------------------------------------------------- |

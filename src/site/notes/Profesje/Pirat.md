@@ -13,6 +13,6 @@ Pirat zaczyna z 20% zniżką na broń ręczną, lekki blaster i granaty. Zaczyna
 
 **Cechy** (wybierz jedną):
 
-- **Odważny czy głupi?** – Nikt nie jest w stanie przestraszyć pirata, który wybrał tę cechę. Przynajmniej do czasu, aż poważnie go rani. Po prostu pirat nie jest w stanie uwierzyć, że ktoś mógłby mu podskoczyć. Dostaje jeden automatyczny sukces we wszystkich testach Zastraszania i Morale.
+- **Odważny czy głupi?** – Nikt nie jest w stanie przestraszyć pirata, który wybrał tę cechę. Przynajmniej do czasu, aż poważnie go rani. Po prostu pirat nie jest w stanie uwierzyć, że ktoś mógłby mu podskoczyć. Dostaje jeden automatyczny sukces we wszystkich testach [[Tworzenie bohatera/Umiejętności#^e6c31b\|Zastraszania]] i [[Tworzenie bohatera/Umiejętności#^ee2a45\|Odwaga]].
 
 - **Do abordażu!** – Pirat z tą cechą jest mistrzem szturmowania na przeciwnika. Nauczył się zwinnie unikać nadlatujących pocisków i samemu sprawniej odpowiadać ogniem. W czasie biegu kara za strzelanie zmniejsza się o 1 (z -2 do -1) oraz kara przeciwnika do trafienia biegnącego pirata zwiększa się o 1 (z -1 do -2).

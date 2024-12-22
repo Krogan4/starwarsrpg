@@ -6,3 +6,7 @@
 [[Tworzenie bohatera\|Tworzenie bohatera]]
 [[Tworzenie bohatera/Gatunki\|Gatunki]]
 [[Tworzenie bohatera/Profesje\|Profesje]]
+[[Tworzenie bohatera/Sztuczki\|Sztuczki]]
+[[Tworzenie bohatera/Wyposażenie\|Wyposażenie]]
+[[Mechanika\|Mechanika]]
+[[Walka/Walka\|Walka]]

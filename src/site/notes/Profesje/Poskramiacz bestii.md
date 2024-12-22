@@ -8,8 +8,6 @@ Poskramiacz bestii to profesja popularna w niewielu zakątkach Galaktyki. Osoby,
 
 Poskramiacze, którzy próbują żyć z oswajania zwierząt albo pracują dla bogaczy pragnących posiąść niesamowite stworzenia albo najmowani są przez ludności gnębione przez agresywne zwierzęta.
 
-  
-
 Każdy poskramiacz potrafi oswajać i tresować dzikie zwierzęta. Takiemu towarzyszowi może wydać kilka rodzajów poleceń, jak np. „bierz go”, „do nogi”, „cicho”, „leżeć” itp. jednak nie sprawuje nad nim bezpośredniej kontroli.
 
 Poskramiacz zaczyna wyposażony w dowolną broń ręczną.

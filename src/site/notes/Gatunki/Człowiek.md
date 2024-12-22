@@ -10,7 +10,7 @@ Jak wiele innych istot, ludzie mają parę rąk i nóg oraz jedną głowę. Doro
 
 **Reguły specjalne:**
 
-- **Sztuczka przy tworzeniu postaci** – ludzie są najliczniejszym inteligentnym gatunkiem zamieszkującym Galaktykę. Z tego powodu, wybić udaje się tylko najzdolniejszym. Gracz sterujący człowiekiem, może w czasie tworzenia postaci wybrać sztuczkę, której wymagania spełnia.
+- **[[Tworzenie bohatera/Sztuczki\|Sztuczka]] przy tworzeniu postaci** – ludzie są najliczniejszym inteligentnym gatunkiem zamieszkującym Galaktykę. Z tego powodu, wybić udaje się tylko najzdolniejszym. Gracz sterujący człowiekiem, może w czasie tworzenia postaci wybrać sztuczkę, której wymagania spełnia.
 
 | **Ludzie**               |                                                                    |
 | ------------------------ | ------------------------------------------------------------------ |
