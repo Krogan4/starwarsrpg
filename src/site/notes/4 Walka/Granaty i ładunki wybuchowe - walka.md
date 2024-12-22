@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/4-walka/granaty-i-ladunki-wybuchowe-walka/","dgPassFrontmatter":true}
----
-
-**Rzut:** Rzut granatem do 10m nie wiąże się z żadnymi karami. Karę można zmniejszyć przez test rzucania oparty o [[3 Tworzenie bohatera/Umiejętności#^e3b10a\|Budowę]]. Granatem można rzucać nie wychylając się zza osłony – może się to wiązać z dodatkowym utrudnieniem.
-
-**Obrażenia:** Obrażenia zadawane przez każdy granat lub ładunek wybuchowy zmniejszają się stopniowo co stały odcinek promienia eksplozji równy **zasięgowi krytycznemu**. Przy każdym granacie lub ładunku wybuchowym, który zadaje obrażenia podany jest jego **zasięg krytyczny.** Jest to zasięg od epicentrum, w którym zadaje on Rany Krytyczne. Dodatkowo, z każdą jego wielokrotnością poziom zadawanych obrażeń spada. Oznacza to, że granat o zasięgu krytycznym równym 2m będzie zadawał obrażenia krytyczne w obrębie 2m od epicentrum, obrażenia ciężkie w obrębie 4m, obrażenia lekkie w obrębie 6m i draśnięcia (wraz z przewróceniem) w obrębie 8m. Jeżeli postać leży, otrzyma obrażenia poziom niższe (chyba, że jest w epicentrum wybuchu). Jeśli postać od epicentrum oddziela porządna osłona, która ulegnie zniszczeniu, również otrzyma poziom niższe obrażenia – premie kumulują się.
-
-**Uskok przed granatem**: Postać widząca nadlatujący granat może wykonać Test Czujności/Wypatrywania -5 by zorientować się w sytuacji. Następnie może wykonać Test Zręczności, by odskoczyć gdzieś obok lub Test Telekinezy -3 by granat odrzucić w losowym kierunku lub Test Telekinezy -7, by odrzucić granat tam skąd przyleciał – musi zdecydować wcześniej.
