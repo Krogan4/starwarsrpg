@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-wyposazenie/granaty-i-ladunki-wybuchowe/","dgPassFrontmatter":true}
 ---
 
-Zasady walki granatami i ładunkami wybuchowymi opisano [[4 Walka/Granaty i ładunki wybuchowe - walka\|tutaj]]
+Zasady walki granatami i ładunkami wybuchowymi opisano [[4 Walka/0 Walka#^66b935\|tutaj]]
 
 **Lepki granat**
 ![Pasted image 20241222013026.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013026.png)

@@ -25,4 +25,4 @@
 
 **Ekstremalne rzuty:** Jeżeli, w czasie Testu otwartego, na którejkolwiek kości wypadnie 1, poziom trudności staje się o łatwiejszy o 3. Jeżeli wypadnie 20, poziom trudności staje się trudniejszy o 3. Efekty się sumują i nakładają. Rzuty są brane pod uwagę przed modyfikacją ich wyniku o wartość testowanej Umiejętności.
 
-Zarówno Suwak jak i Ekstremalne Rzuty nie mają zastosowania w [[4 Walka/Walka\|Walce]].
+Zarówno Suwak jak i Ekstremalne Rzuty nie mają zastosowania w [[4 Walka/0 Walka\|Walce]].

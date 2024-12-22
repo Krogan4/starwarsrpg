@@ -16,9 +16,9 @@
 ![Pasted image 20241222011531.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011531.png)
 **Pałka elektryczna**
 ![Pasted image 20241222011640.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011640.png)
-[[4 Walka/Efekty#^5d700f\|Porażenie]]
+[[4 Walka/3 Efekty#^5d700f\|Porażenie]]
 **Wibrobicz**
 ![Pasted image 20241222011649.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011649.png)
 **Bicz neuronowy**
 ![Pasted image 20241222011656.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011656.png)
-[[4 Walka/Efekty#^5d700f\|Porażenie]]^184b24
+[[4 Walka/3 Efekty#^5d700f\|Porażenie]]^184b24
