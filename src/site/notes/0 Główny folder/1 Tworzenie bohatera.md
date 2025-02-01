@@ -5,7 +5,7 @@
 [[3 Tworzenie bohatera/Gatunki\|Gatunki]]
 [[3 Tworzenie bohatera/Profesje\|Profesje]]
 [[3 Tworzenie bohatera/Współczynniki\|Współczynniki]]
-[[Umiejętności
+[[3 Tworzenie bohatera/Umiejętności\|Umiejętności]]
 [[3 Tworzenie bohatera/Sztuczki\|Sztuczki]]
 [[3 Tworzenie bohatera/Wyposażenie\|Wyposażenie]]
 

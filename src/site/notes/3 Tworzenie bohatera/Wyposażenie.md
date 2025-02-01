@@ -94,9 +94,9 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                             **Bacta, 1 litr**                             |        100         |                 50%                 |       2       |
 |                              **Komunikator**                              |        200         |                 90%                 |      0,1      |
 |                                **Datapad**                                |       1 000        |                 80%                 |       3       |
-|                             **Makrolornetka**                             |        600         |                 60%                 |      0,8      |
-|                     **Makrolornetka z rejestratorem**                     |       1 500        |                 30%                 |       1       |
-|                        **Lornetka elektroniczna**                         |       1 000        |                 70%                 |       1       |
+|              **[[5 Wyposażenie/Inne wyposażenie#^54745a\|Makrolornetka]]**              |        600         |                 60%                 |      0,8      |
+|      **[[5 Wyposażenie/Inne wyposażenie#^371828\|Makrolornetka z rejestratorem]]**      |       1 500        |                 30%                 |       1       |
+|         **[[5 Wyposażenie/Inne wyposażenie#^3d768b\|Lornetka elektroniczna]]**          |       1 000        |                 70%                 |       1       |
 |                        **Przybornik survivalowy**                         |        1000        |                 50%                 |      10       |
 |                             **Strój pilota**                              |        250         |                 50%                 |       3       |
 |                            **Latarka fuzyjna**                            |         25         |                 80%                 |       2       |

@@ -76,6 +76,18 @@
 { #945298}
 
 
+**Makrolornetka** - niewielkie urządzenie z dwoma wyściełanymi muszlami ocznymi i zamontowanym dalmierzem. Wyświetlacz dostarcza informacji o odległości i wysokości. Standardowo, makrolornetki posiadają prosty tryb noktowizji.
+{ #54745a}
+
+
+Makrolornetka z rejestratorem - makrolornetka, która pozwala zapisać obraz na dysku
+{ #371828}
+
+
+Elektrolornetka - niewielkie urządzenie działające podobnie do makrolornetki, jednak wbudowane wspomaganie wyostrza obraz, dostarcza użytecznych informacji, zawiera lepszy tryb noktowizji a także termowizji.
+{ #3d768b}
+
+
 ## Trucizny
 **Neurotoksyna paraliżująca** – chemiczna substancja, która w ciągu kilku chwil (1 tura) paraliżuje cel. Musi zostać podana do obwodu krwionośnego (np. poprzez dźgnięcie ofiary). Ugodzona ofiara może wykonać Test Kondycji -6. Jeżeli zda, nie zostanie sparaliżowana, ale otrzyma karę -4 do wszystkich akcji. Po każdej następnej turze, poziom trudności Testu Kondycji będzie rósł o 1. Może być nabyta legalnie przez lekarza.
 { #e9e3b1}
