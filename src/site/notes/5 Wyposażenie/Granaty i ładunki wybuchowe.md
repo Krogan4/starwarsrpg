@@ -10,8 +10,8 @@ Zasady walki granatami i ładunkami wybuchowymi opisano [[4 Walka/0 Walka#^66b93
 ![Pasted image 20241222013018.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013018.png)
 **Granat błyskowy**
 ![Pasted image 20241222012925.png](/img/user/6%20Obrazy/Pasted%20image%2020241222012925.png)
-**Granat błyskowy, mocny**
-![Pasted image 20241222012920.png](/img/user/6%20Obrazy/Pasted%20image%2020241222012920.png)
+**Granat wypalający**
+![Pasted image 20250202195650.png](/img/user/6%20Obrazy/Pasted%20image%2020250202195650.png)
 **Granat soniczny**
 ![Pasted image 20241222013005.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013005.png)
 **Granat dymny**

@@ -61,7 +61,7 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                           **Granat zapalający**                           |        350         |       20% (tylko dla wojska)        |       1       |
 |                          **Detonator termiczny**                          |       2 000        |          20% (nielegalny)           |       1       |
 |                            **Granat błyskowy**                            |        200         |                 30%                 |      0,5      |
-|                        **Granat błyskowy, mocny**                         |        400         |       20% (tylko dla wojska)        |      0,5      |
+|                           **Granat wypalający**                           |        400         |       20% (tylko dla wojska)        |      0,5      |
 |                               **Amunicja**                                |                    |                                     |               |
 |                          **Ogniwo energetyczne**                          |         15         |                 90%                 |               |
 |     **Pakiet energetyczny (ogniwo energetyczne + zbiornik z gazem)**      |         40         |                 70%                 |               |
