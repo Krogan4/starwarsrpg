@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-moc/telekineza/teleportacja/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250201015232.png](/img/user/6%20Obrazy/Pasted%20image%2020250201015232.png)
+![Pasted image 20250201192536.png](/img/user/6%20Obrazy/Pasted%20image%2020250201192536.png)
 **Wymagania:** Lewitacja, Bariera Mocy
 **PE:** 12 za każde 5 metrów
 **Test:** -14

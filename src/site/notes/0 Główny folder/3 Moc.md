@@ -52,3 +52,5 @@ Ciemna Strona jest potężna i wola tego kto po nią sięga jest w stanie nagina
 **Redukcja Punktów Ciemnej Strony** – Liczbę Punktów Ciemnej Strony da się redukować, ale nie jest to łatwe. Może to wynikać z aktów altruizmu oraz poświęcenia się dla innych po uprzednim zaakceptowaniu i wyrzeczeniu się dokonanego zła. Należy zważyć na to, że dużo łatwiej zdobywać Punkty niż je tracić i filozofia rekompensowania złych uczynków dobrymi nie będzie skuteczna.
 
 Postać może zdecydować się na wielogodzinną medytację, w czasie której wejdzie do zakamarków swojego umysły, żeby przeżyć swoiste katharsis i odrzucić kłębiące się w niej zło. W ten sposób jest w stanie zredukować nawet do 10 Punktów Ciemnej Strony. Kosztem jest jednak poziom zestrojenia się z Mocą. Taka postać traci niepowracalnie 1 Wrażliwości na Moc
+
+[[6 Moc/Techniki Mocy\|Techniki Mocy]]

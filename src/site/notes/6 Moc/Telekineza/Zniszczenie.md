@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/6-moc/telekineza/zniszczenie/","dgPassFrontmatter":true}
 ---
 
+![Pasted image 20250201192251.png](/img/user/6%20Obrazy/Pasted%20image%2020250201192251.png)
 **Wymagania:** Pchnięcie Mocy ●●○, Bariera Mocy, Tylko Ciemna Strona
 **PE:** 20
 **Test:** -10

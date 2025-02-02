@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-moc/wplyw/medytacja-bitewna/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250201022029.png](/img/user/Pasted%20image%2020250201022029.png)
+![Pasted image 20250201022029.png](/img/user/6%20Obrazy/Pasted%20image%2020250201022029.png)
 **Wymagania:** Nawiedzenie ●○○, Odwaga ●○○
 **PE:** 10 (10 minut)
 **Test:** -7 (Tura)
