@@ -80,12 +80,24 @@
 { #54745a}
 
 
-Makrolornetka z rejestratorem - makrolornetka, która pozwala zapisać obraz na dysku
+**Makrolornetka z rejestratorem** - makrolornetka, która pozwala zapisać obraz na dysku
 { #371828}
 
 
-Elektrolornetka - niewielkie urządzenie działające podobnie do makrolornetki, jednak wbudowane wspomaganie wyostrza obraz, dostarcza użytecznych informacji, zawiera lepszy tryb noktowizji a także termowizji.
+**Elektrolornetka** - niewielkie urządzenie działające podobnie do makrolornetki, jednak wbudowane wspomaganie wyostrza obraz, dostarcza użytecznych informacji, zawiera lepszy tryb noktowizji a także termowizji.
 { #3d768b}
+
+
+**Cichobiegi** - elastyczne obuwie z wytłumioną podeszwą, które tłumi kroki noszącej jej osoby zapewniając premię +3 do Skradania. Zwykle nie wyróżniają się znacząco.
+{ #510091}
+
+
+**Rękawiczka z elektromagnesem** - silny elektromagnes na rękawiczce nie pozwala, by trzymany metalowy przedmiot został wytrącony z dłoni.
+{ #392f19}
+
+
+**Skaner krwi** - niewielkie urządzenie, które przy kontakcie z krwią pacjenta, dostarcza szeregu informacji o ogólnym stanie zdrowia, możliwych chorobach i popularnych truciznach.
+{ #15f615}
 
 
 ## Trucizny

@@ -147,12 +147,15 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |            **[[5 Wyposażenie/Inne wyposażenie#^e2e668\|Purpurowa Śmierć]]**             |       3 000        |          10% (nielegalny)           |      0,1      |
 |             **[[5 Wyposażenie/Inne wyposażenie#^3d4356\|Luneta optyczna]]**             |       2 000        |                 15%                 |       -       |
 |                 **[[5 Wyposażenie/Inne wyposażenie#^0644fd\|Stimpak]]**                 |         50         |                 50%                 |       -       |
-|       **[[5 Wyposażenie/Inne wyposażenie#^1c8be1\|Generator pola maskującego]]**        |       6 000        |                 10%                 |     0,2kg     |
+|       **[[5 Wyposażenie/Inne wyposażenie#^1c8be1\|Generator pola maskującego]]**        |       6 000        |                 10%                 |      0,2      |
 | **[[5 Wyposażenie/Inne wyposażenie#^c68aa6\|Zaawansowany generator pola maskującego]]** |       15 000       |                0,1%                 |      0,3      |
 |                   **Środek przeczyszczający (10 daw)**                    |         10         |                100%                 |       -       |
 |                     **Środek uspokajający (5 dawek)**                     |         10         |                 90%                 |       -       |
 |                  **Mocny środek uspokajający (1 dawka)**                  |         10         |       75% (tylko dla medyków)       |       -       |
 |                   [[5 Wyposażenie/Inne wyposażenie#^945298\|Bagnet]]                    |         50         |                 60%                 |      0,2      |
+|                 [[5 Wyposażenie/Inne wyposażenie#^510091\|Cichobiegi]]                  |         50         |                 50%                 |      0,1      |
+|        [[5 Wyposażenie/Inne wyposażenie#^392f19\|Rękawiczka z elektromagnesem]]         |        100         |                 40%                 |      0,1      |
+|                 [[5 Wyposażenie/Inne wyposażenie#^15f615\|Skaner krwi]]                 |        500         |                 30%                 |       1       |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
