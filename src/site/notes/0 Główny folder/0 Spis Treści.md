@@ -8,5 +8,6 @@
 [[3 Tworzenie bohatera/Profesje\|Profesje]]
 [[3 Tworzenie bohatera/Sztuczki\|Sztuczki]]
 [[3 Tworzenie bohatera/Wyposażenie\|Wyposażenie]]
+[[0 Główny folder/4 Punkty Doświadczenia\|4 Punkty Doświadczenia]]
 [[0 Główny folder/2 Mechanika\|2 Mechanika]]
 [[4 Walka/0 Walka\|0 Walka]]

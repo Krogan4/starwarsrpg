@@ -6,7 +6,7 @@ Formy walki mieczem świetlnym to zbiór kodeksów filozofii walki, sankcjonują
 
 Próba walki mieczem świetlnym nie znając żadnej techniki wiąże się z karami do walki. Dla opanowania którejkolwiek z technik konieczne jest poznanie podstawowej Formy I. Formę walki można zmieniać poza walką; w walce, gdy Agresor i Obrońca jednocześnie odniosą porażki lub przy sytuacjach uwzględnionych przez reguły specjalne.
 
-Każda szkoła walki przedstawiona jest według 3 poziomów zaawansowania: poziom Początkujący, Zaawansowany i Mistrzowski. Większość Jedi uczy się wielu stylów, jednak do perfekcji opanowuje jeden lub dwa. Największe legendy Zakonu zdołały opanować wszystkie style formy walki i utworzyły swoje własne wariacje. Poznanie nowej szkoły walki wymaga wydania 300 PD i musi być wyjaśnione fabularnie. Rozwój stylu walki na poziom Zaawansowany to koszt 300 PD a Mistrzowski 500. Opanowanie niektórych stylów walki wymaga wcześniejszego poznania innych. Postać może opanować Początkujący poziom określonego stylu, gdy pozna Zaawansowany poziom wszystkich wymaganych stylów.
+Każda szkoła walki przedstawiona jest według 3 poziomów zaawansowania: poziom Początkujący, Zaawansowany i Mistrzowski. Większość Jedi uczy się wielu stylów, jednak do perfekcji opanowuje jeden lub dwa. Największe legendy Zakonu zdołały opanować wszystkie style formy walki i utworzyły swoje własne wariacje. Poznanie nowej szkoły walki wymaga wydania 300 PD. Rozwój stylu walki na poziom Zaawansowany to koszt 300 PD a Mistrzowski 500. Opanowanie niektórych stylów walki wymaga wcześniejszego poznania innych. Postać może opanować Początkujący poziom określonego stylu, gdy pozna Zaawansowany poziom wszystkich wymaganych stylów.
 
 ## Forma I (Determinacja)
 
