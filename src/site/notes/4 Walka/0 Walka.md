@@ -21,6 +21,17 @@ MG na bieżąco ocenia, ile Segmentów zajmie Akcja proponowana przez gracza, je
 | **Akcje za 3 segmenty** | Ogień ciągły (test), Rzut dużym przedmiotem (test), Wymiana ogniwa/pakietu energetycznego, Wymiana pojemnika z gazem, Poderwanie się z pozycji leżącej,                                                                                                                                                                                                                       |
 Niektóre Akcje (zaznaczone w tabeli) wymagają wykonania Testu. W czasie walki do testów wykorzystywany jest rzut 1k20 zamiast klasycznego 3k20, a więc przykładowo wynik tego, czy udało nam się trafić przeciwnika po oddaniu jednego strzału zależeć będzie od rzutu jedną kością. Trzema kośćmi rzucimy dopiero, kiedy będziemy chcieli oddać trzy strzały. Wówczas każda kość traktowana jest jako osobny Test.
 
+**Strzał:** Poziom Trudności ustalany jest na podstawie odległości, widoczności, ruchu, warunków i osłony przeciwnika. Dodatkowo, rzut określa lokację trafienia przeciwnika.
+
+| Rzut  | Lokacja                            |
+| ----- | ---------------------------------- |
+| 1-2   | Głowa (obrażenia o poziom większe) |
+| 3-4   | Ręka dominująca                    |
+| 5-6   | Ręka druga                         |
+| 7-15  | Tułów                              |
+| 16-17 | Prawa noga                         |
+| 18-19 | Lewa noga                          |
+
 **Celowanie**: niektóre Akcje takie jak Strzał pozwalają na lepsze przygotowanie się do ich wykonania poprzez Celowanie. Jeżeli postać zdecyduje się przycelować przed strzałem straci jeden lub dwa Segmenty i dopiero wówczas odda strzał, do którego będzie mogła wykorzystać odpowiednio więcej kości. Zatem postać, która poświęci dwa Segmenty na przycelowanie i jeden segment na Strzał będzie mogła rzucić trzema kośćmi. Aby trafić, wystarczy pozytywnie zdany wynik na jednej z nich. Jeżeli Sukces pojawił się na kilku kościach, a ma to wpływ na lokację trafienia, gracz może wybrać którą kość sukcesu wybiera.
 
 **Wyzwalacze i zamrożone segmenty**: Postać może zdecydować się na niewydawanie wszystkich Segmentów już teraz, a zamrożenie ich, by wykorzystać je po pojawieniu się odpowiedniego wyzwalacza. A więc gracz może zdecydować, że chce spoglądać w stronę drzwi i strzelić dopiero, gdy stanie w nich przeciwnik, albo zdetonować zapalnik, gdy pojazd będzie w odległości 50 metrów od niego lub ustalić dowolną inną regułę wyzwalacza. Gdy warunek zostanie spełniony, przerywana jest Tura innej postaci, by postać, która zamroziła Segmenty mogła wykonać swoją Akcję. Należy jednak pamiętać, że w takiej sytuacji Segmenty rozgrywane są naprzemiennie, a więc jeśli gracz zamroził 3 Segmenty, by oddać trzy strzały, gdy tylko pojawi się wróg, wystrzeli tylko raz, a następnie wróg wykona swój 1 Segment, nim gracz wystrzeli drugi raz. Jeżeli warunek wyzwalacza nie pojawił się do ponownej Tury postaci, która go ustaliła, zamrożone Segmenty przepadają.

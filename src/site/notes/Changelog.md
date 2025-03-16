@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 16.03.2025
+- Walka: Tury - Zmieniono system walki. Teraz podstawową jednostką czasu jest Tura, w czasie której można wykonać do 3 Segmentów Akcji.
+- Walka: Wyzwalacze - Utworzono mechaniczną możliwość zaplanowania Akcji, która po osiągnięciu określonych warunków, przerwie ruch innej postaci uczestniczącej w Walce, by zostać zrealizowaną.
+- Walka: Lokacja ran - Dodano informacje odnośnie lokacji ran
+- Walka wręcz: Siłowanie - Poprawiono zasady dotyczące wywołania Siłowania
+- Walka mieczem świetlnym: Obrażenia - zmodyfikowano system obrażeń od miecza świetlnego, który nie wynika już z zupełnie losowego dodatkowego rzutu kością, a jest wynikiem osiągniętych Sukcesów w walce. Spowoduje to częstsze nieśmiercionośne trafienia w walce, ale wprawny mistrz miecza nie będzie musiał polegać wyłącznie na szczęściu podczas próby zabicia przeciwnika.
+- Walka mieczem świetlnym: Rzucanie - zmodyfikowano Test Rzucania mieczem oraz zadawane przez niego obrażenia.
 ## 04.02.2025
 - Umiejętności: Dodano Gadanina (Ch) – umiejętność zagadania ludzi dookoła, zdobycia zaufania, wyciągnięcia od nich informacji. Wcześniej to podpadało pod Perswazje, ale Perswazja to raczej zdolność przekonania kogoś do czegoś - przedstawienia czegoś jako coś rozsądnego.
 - Sztuczki: Zmieniono: Szósty zmysł - Posiadacz tej sztuczki jest w stanie przewidzieć zbliżające się zagrożenie, zanim to się pojawi (Ukryty Test Wyczuwania/Czujności).

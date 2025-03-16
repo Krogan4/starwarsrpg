@@ -3,28 +3,25 @@
 ---
 
 ![Pasted image 20241222022049.png](/img/user/6%20Obrazy/Pasted%20image%2020241222022049.png)
-Walka między dwoma osobami dzierżącymi miecz świetlny odbywa się na podobnych zasadach co zwyczajna walka wręcz z tą różnicą, że zdobycie **Sukcesu** wymaga zdobycia przynajmniej **5 Punktów Przewagi**.
+Walka między dwoma osobami dzierżącymi miecz świetlny, które znają co najmniej jedną Technikę Walki odbywa się na podobnych zasadach co zwyczajna walka wręcz.
 
-Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, trafił i zadał cios. Następnie musi wykonać rzut za Obrażenia. Lokalizację trafienia może wybrać z kości, którymi wygrał.
+Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, trafił i zadał cios. Jeżeli osiągnął 1 Sukces więcej niż przeciwnik, zadał Ranę Lekką, jeżeli osiągnął 2 Sukcesy więcej niż przeciwnik, zadał Ranę Ciężką. Jeżeli osiągnął 3 Sukcesy więcej niż przeciwnik, zadał Ranę Krytyczną. Lokalizację trafienia może wybrać z kości, którymi wygrał .
 
-Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, obronił się i przejął Inicjatywę. Teraz on jest **Atakującym**. Jeżeli zdobył tylko 1 Sukces więcej, wybronił się ale wciąż pozostaje w defensywie.
+Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, zdołał się obronić i przejął inicjatywę. Teraz on jest **Atakującym**. 
 
-Jeżeli strony ze sobą zremisowały, dochodzi do **Siłowania**. Do Siłowania może także dojść w wyniku dodatkowych reguł.
+Jeżeli **Obrońca** zdobył tylko 1 Sukces więcej, dochodzi do **Siłowania**. Do Siłowania może także dojść w wyniku dodatkowych reguł.
 
 **Siłowanie** – gracze wykonują Przeciwstawny Test używanej broni oparty o Budowę. Ten, który wygra, będzie **Agresorem** w następnej rundzie. Niektóre Techniki walki mieczem oferują dodatkową regułę _Wymknięcie_, która pozwala na użycie Zręczności zamiast Budowy.
 
-## Obrażenia od miecza świetlnego
-Każde zetknięcie się z ostrzem miecza świetlnego może być zabójcze. Obrażenia nie są zależne od siły walczącej nim osoby, a od głębokości cięcia. Dlatego po określeniu trafienia i lokalizacji należy zbadać obrażenia. Zależą wyłącznie od szczęścia.
-
-1-2 – Śmierć (tylko przy głowie/tułowiu)
-3-7 – Rana Krytyczna
-8-15 – Rana Ciężka
-16-19 – Rana Lekka
-20 – Draśnięcie
+Jeśli strony ze sobą zremisowały, sytuacja się nie zmieniła. Obrońca wciąż pozostaje w defensywie. 
 
 ## Rzut mieczem świetlnym
-Rzut mieczem świetlnym składa się z dwóch etapów: celnego rzutu i przyciągnięcia miecza z powrotem za pomocą telekinezy. Dlatego najpierw należy wykonać Przeciwstawny Test Rzucania kontra Czujność, a jeżeli udało się trafić, wyrzucić obrażenia z powyższej tabeli -2. W etapie używania telekinezy, można pokierować odpowiednio mieczem, by nadać mu właściwą trajektorię lotu.
-
+Rzut mieczem świetlnym składa się z dwóch etapów: celnego rzutu i przyciągnięcia miecza z powrotem za pomocą telekinezy. Dlatego najpierw należy wykonać Przeciwstawny Test Rzucania kontra Broń (jeżeli przeciwnik używa broni odpornej na miecz świetlny) lub Czujność. 
+Rzut determinuje również lokację trafienia na normalnych zasadach. Obrażenia zależne są od Punktów Przewagi.
+1-2 PP - Draśnięcie
+3-4 PP - Rana Lekka
+5-6 PP - Rana Ciężka
+>6 PP - Rana Krytyczna
 ## Odbijanie pocisków
 Wiązki laserowe jest w stanie odbijać ktokolwiek, kto opanował Shii-Cho. Domyślnie, by odbić pocisk energetyczny lecący w stronę władającego mieczem świetlnym, ten – niezależnie od tego co robi (jeżeli ma możliwość, np. biegnie, skacze, stoi) – musi zdać Test -5 używanej broni. Każdy pocisk, który postać odbija w danej między swoimi ruchami jest trudniejszy do odbicia o -1. Przyjęcie pozycji do odbijania pocisków (1 segment) gwarantuje ułatwienie testu o +3, ale wymaga stania w miejscu. Jeżeli przeciwników jest więcej niż jeden i strzelają z różnych stron, poziom trudności testu zwiększa się o 1 za każdy kierunek (przód, lewa, prawa, tył).
 

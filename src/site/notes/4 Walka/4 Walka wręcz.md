@@ -5,7 +5,7 @@
 ![Pasted image 20241222021410.png](/img/user/6%20Obrazy/Pasted%20image%2020241222021410.png)
 Walka wręcz nie polega na naprzemiennych ciosach z obu stron. Atakuje jedna strona, druga zaś reaguje na ataki broniąc się i próbując przejąć inicjatywę. Walka rozpoczyna się klasycznym Testem **Inicjatywy**, po czym zwycięzca Testu zostaje **Atakującym**. Przegrany natomiast **Obrońcą**. Obaj walczący rzucają **1k20** i do otrzymanego wyniku dodają dodatkowe modyfikatory (np. z broni). Mogą obniżać wynik na kości odpowiednią Umiejętnością. Gdy obaj uznają, że wynik na kości jest ostateczny, sprawdzają kto z nich odniósł więcej **Punktów Sukcesu** – ten ma 1 **Sukces**. Następnie powtarzają ten proces dwa razy – dla pozostałych kości. Dla wszystkich rzutów korzystają z jednej puli Umiejętności.
 
-Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, zadał cios. Większość broni ma rozpisane różne obrażenia w zależności od tego, ile więcej Sukcesów zdobył Atakujący. Lokalizację trafienia Atakujący wybiera z wygranych kości.
+Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, zadał cios. Większość broni ma rozpisane różne obrażenia w zależności od tego, ile więcej Sukcesów zdobył Atakujący. Lokację trafienia Atakujący wybiera spośród kości, na których odniósł Sukces.
 
 Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, zdołał się obronić i przejął inicjatywę. Teraz on jest **Atakującym**. 
 
