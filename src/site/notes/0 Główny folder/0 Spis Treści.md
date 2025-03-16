@@ -11,3 +11,5 @@
 [[0 Główny folder/4 Punkty Doświadczenia\|4 Punkty Doświadczenia]]
 [[0 Główny folder/2 Mechanika\|2 Mechanika]]
 [[4 Walka/0 Walka\|0 Walka]]
+[[4 Walka/4 Walka wręcz\|4 Walka wręcz]]
+[[4 Walka/5 Walka mieczem świetlnym\|5 Walka mieczem świetlnym]]

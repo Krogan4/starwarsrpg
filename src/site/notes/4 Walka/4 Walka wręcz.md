@@ -7,11 +7,13 @@ Walka wręcz nie polega na naprzemiennych ciosach z obu stron. Atakuje jedna str
 
 Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, zadał cios. Większość broni ma rozpisane różne obrażenia w zależności od tego, ile więcej Sukcesów zdobył Atakujący. Lokalizację trafienia Atakujący wybiera z wygranych kości.
 
-Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, zdołał się obronić i przejął inicjatywę. Teraz on jest **Atakującym**. Jeżeli zdobył tylko 1 Sukces więcej, wciąż pozostaje w defensywie.
+Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, zdołał się obronić i przejął inicjatywę. Teraz on jest **Atakującym**. 
 
-Jeżeli strony ze sobą zremisowały, dochodzi do **Siłowania**. Do Siłowania może także dojść w wyniku dodatkowych reguł.
+Jeżeli **Obrońca** zdobył tylko 1 Sukces więcej, dochodzi do **Siłowania**. Do Siłowania może także dojść w wyniku dodatkowych reguł.
 
 **Siłowanie** – gracze wykonują Przeciwstawny Test używanej broni oparty o Budowę. Ten, który wygra, będzie **Agresorem** w następnej rundzie.
+
+Jeśli strony ze sobą zremisowały, sytuacja się nie zmieniła. Obrońca wciąż pozostaje w defensywie. 
 
 ## Walka z wieloma przeciwnikami
 
@@ -33,7 +35,7 @@ Kiedy postać posługująca się dwiema broniami do walki wręcz stanie przeciwk
 
 ## Dystans w walce
 
-Bronie do walki wręcz dzielą się na kilka kategorii według ich długości. Jeśli któryś z walczących ma broń dłuższą niż jego przeciwnik, dostaje Bonus +1 do Testów w walce. Kategorie to: Pięść, Bardzo Krótki, Krótki, Średni, Długi, Bardzo Długi.
+Bronie do walki wręcz dzielą się na kilka kategorii według ich długości. Jeśli któryś z walczących ma broń dłuższą niż jego przeciwnik, dostaje Bonus +1 do Testów w walce. Kategorie to: Dotyk, Bardzo Krótki, Krótki, Średni, Długi, Bardzo Długi.
 
 Korzystanie z długiej broni może wiązać się z dodatkowymi karami podczas walki w tłoku lub w ciasnych pomieszczeniach. Wówczas bronie tracą modyfikator do Zręczności w Obronie oraz dostają kary: Średni -2, Długi -4, Bardzo długi -8.
 
