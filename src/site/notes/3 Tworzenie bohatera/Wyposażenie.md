@@ -8,7 +8,7 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 
 |                                 **Nazwa**                                 | **Cena (kredyty)** |           **Dostępność**            | **Waga (kg)** |
 | :-----------------------------------------------------------------------: | :----------------: | :---------------------------------: | :-----------: |
-|                          **[[5 Wyposażenie/Broń dystansowa\|Broń dystansowa]]**                          | <                  | <                                   |       <       |
+|                          **[[5 Wyposażenie/Broń dystansowa\|Broń dystansowa]]**                          |                    |                                     |               |
 |                          **Pistolet blasterowy**                          |        500         |                 50%                 |       1       |
 |                    **Pistolet blasterowy, podręczny**                     |        250         |          40% (nielegalny)           |      0,5      |
 |                      **Pistolet blasterowy, ciężki**                      |        750         |       20% (tylko dla wojska)        |       2       |
@@ -31,8 +31,8 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                         **Pistolet ogłuszający**                          |        300         |                 30%                 |       1       |
 |                          **Wyrzutnia granatów**                           |        900         |       10% (tylko dla wojska)        |       7       |
 |                             **Dezintegrator**                             |       4 000        |        10% (**nielegalny**)         |      6,5      |
-|                                                                           | <                  | <                                   |       <       |
-|                      **[[5 Wyposażenie/Broń do walki w zwarciu\|Broń do walki w zwarciu]]**                      | <                  | <                                   |       <       |
+|                                                                           |                    |                                     |               |
+|                      **[[5 Wyposażenie/Broń do walki w zwarciu\|Broń do walki w zwarciu]]**                      |                    |                                     |               |
 |                              **Wibroostrze**                              |        250         |                 70%                 |      0,5      |
 |                              **Wibrokastet**                              |        200         |          60% (nielegalny)           |      0,5      |
 |                              **Wibromiecz**                               |        450         | 30% (legalny w niektórych światach) |      1,5      |
@@ -58,15 +58,15 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                          **Detonator termiczny**                          |       2 000        |          20% (nielegalny)           |       1       |
 |                            **Granat błyskowy**                            |        200         |                 30%                 |      0,5      |
 |                           **Granat wypalający**                           |        400         |       20% (tylko dla wojska)        |      0,5      |
-|                                                                           | <                  | <                                   |       <       |
-|                               **Amunicja**                                | <                  | <                                   |       <       |
+|                                                                           |                    |                                     |               |
+|                               **Amunicja**                                |                    |                                     |               |
 |                          **Ogniwo energetyczne**                          |         15         |                 90%                 |               |
 |     **Pakiet energetyczny (ogniwo energetyczne + zbiornik z gazem)**      |         40         |                 70%                 |               |
 |                      **Pocisk odłamkowy, 1 sztuka**                       |         1          |                                     |               |
 |        **Pakiet ogniwo energetyczne + pocisk z plazmą, 10 sztuk**         |        400         |                                     |               |
 |                      **Nabój standardowy, 10 sztuk**                      |         5          |                                     |               |
-|                            **Towary handlowe**                            | <                  | <                                   |       <       |
-|                                                                           | <                  | <                                   |       <       |
+|                                                                           |                    |                                     |               |
+|                            **Towary handlowe**                            |                    |                                     |               |
 |                          **Zwierzę, pospolite**                           |        100         |                                     |               |
 |                          **Zwierzę, egzotyczne**                          |       2 000        |                                     |               |
 |                         **Zwierzę, gospodarcze**                          |        500         |                                     |               |
@@ -83,8 +83,8 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                       **Przyprawa (narkotyk), 1kg**                       |       1 000        |                                     |               |
 |                             **Tekstylia, 1m**                             |         10         |                                     |               |
 |                               **Woda, 1kg**                               |         10         |                                     |               |
-|                                                                           | <                  | <                                   |       <       |
-|                         **[[5 Wyposażenie/Inne wyposażenie\|Inne wyposażenie]]**                          | <                  | <                                   |       <       |
+|                                                                           |                    |                                     |               |
+|                         **[[5 Wyposażenie/Inne wyposażenie\|Inne wyposażenie]]**                          |                    |                                     |               |
 |                  **Płaszcz ochronny przed temperaturą**                   |        100         |                 30%                 |      1,5      |
 |                     **Aparat do oddychania pod wodą**                     |        350         |                 40%                 |      0,2      |
 |                          **Maska do oddychania**                          |        200         |                 40%                 |       2       |
@@ -158,7 +158,7 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
-|                                **Usługi**                                 | <                  | <                                   |       <       |
+|                                **Usługi**                                 |                    |                                     |               |
 |                    **Wyżywienie, dobre (za posiłek)**                     |         50         |                                     |       -       |
 |                  **Wyżywienie, pospolite (za posiłek)**                   |         15         |                                     |       -       |
 |                   **Wyżywienie, kiepskie (za posiłek)**                   |         5          |                                     |       -       |
@@ -175,5 +175,5 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
-|                             **[[5 Wyposażenie/Pancerze\|Pancerze]]**                              | <                  | <                                   |       <       |
-|                        **[[5 Wyposażenie/Tarcze energetyczne\|Tarcze energetyczne]]**                        | <                  | <                                   |       <       |
+|                             **[[5 Wyposażenie/Pancerze\|Pancerze]]**                              |                    |                                     |               |
+|                        **[[5 Wyposażenie/Tarcze energetyczne\|Tarcze energetyczne]]**                        |                    |                                     |               |
