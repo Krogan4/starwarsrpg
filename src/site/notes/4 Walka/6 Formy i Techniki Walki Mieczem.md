@@ -13,7 +13,7 @@ Poznanie nowej szkoły walki wymaga wydania 400 PD.
 ## [[Formy Walki Mieczem/Forma I (Determinacja)\|Forma I (Determinacja)]]
 Bonusy: 
 Brak; brak kar za walkę biczem świetlnym (wariant nauczany osobno, ale gracz może zdecydować się na niego zamiast podstawowego Shii-Cho).
-Rozbrajający cios - jako Atakujący postać może wykonać Atak trudniejszy o -5, którego celem jest zniszczenie broni przeciwnika.
+Sun Diem - jako Atakujący postać może wykonać Atak trudniejszy o -5, którego celem jest zniszczenie broni przeciwnika.
 Zamach Sarlacca - zamaszyste cięcie, które pozwala zaatakować kilka osób dookoła postaci z karą -2
 
 Kary:
