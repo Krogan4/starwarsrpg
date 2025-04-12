@@ -4,11 +4,7 @@
 
 Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 kredytów na wybór rzeczy na start. To, czego nie wydasz, zachowaj na karcie chipowej. Poniżej znajduje się jedynie zestawienie przedmiotów. Ich dokładny opis znajdziesz w dalszej części podręcznika.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Pasted image 20241222010957.png](/img/user/6%20Obrazy/Pasted%20image%2020241222010957.png)Pssst… Brakuje kredytów? Nic prostszego! Zacznij przygodę z galaktycznym 25% długiem u jednej z pomocnych organizacji takich jak InterGalaktyczny Klan Bankowy, syndykat przestępczy, międzyplanetarna korporacja czy partia polityczna. Pożyczka na start może wynieść maksymalnie 20 000 kredytów i to MG decyduje u jakiej organizacji możesz ją zaciągnąć. Gdzie w tym haczyk? Kredyt musisz spłacić w ciągu tego roku! |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
- 
+![Pasted image 20250412132032.png](/img/user/Pasted%20image%2020250412132032.png)
 
 |                                                                           |                    |                                     |               |
 | :-----------------------------------------------------------------------: | :----------------: | :---------------------------------: | :-----------: |
