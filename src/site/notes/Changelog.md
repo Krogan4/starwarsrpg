@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 10.04.2025
+- Walka: Uproszczono zasady Form walki mieczem świetlnym i dodano szereg unikalnych zdolności do poszczególnych form. 
+- Wyposażenie: Zaktualizowano Punkty Przebicia, amunicję, obrażenia niektórych broni. Dodano adnotacje dotyczące broni ręcznej konwencjonalnej i miotaczy pocisków.
 ## 16.03.2025
 - Walka: Tury - Zmieniono system walki. Teraz podstawową jednostką czasu jest Tura, w czasie której można wykonać do 3 Segmentów Akcji.
 - Walka: Wyzwalacze - Utworzono mechaniczną możliwość zaplanowania Akcji, która po osiągnięciu określonych warunków, przerwie ruch innej postaci uczestniczącej w Walce, by zostać zrealizowaną.

@@ -3,9 +3,9 @@
 ---
 
 ![Pasted image 20241222022049.png](/img/user/6%20Obrazy/Pasted%20image%2020241222022049.png)
-Walka między dwoma osobami dzierżącymi miecz świetlny, które znają co najmniej jedną Technikę Walki odbywa się na podobnych zasadach co zwyczajna walka wręcz.
+Walka między dwoma osobami dzierżącymi miecz świetlny, które znają co najmniej jedną Technikę Walki odbywa się na podobnych zasadach co zwyczajna walka wręcz z tą różnicą, że o Sukcesie mówimy dopiero, gdy jedna ze stron zdobyła co najmniej 3 Punkty Przewagi.
 
-Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, trafił i zadał cios. Jeżeli osiągnął 1 Sukces więcej niż przeciwnik, zadał Ranę Lekką, jeżeli osiągnął 2 Sukcesy więcej niż przeciwnik, zadał Ranę Ciężką. Jeżeli osiągnął 3 Sukcesy więcej niż przeciwnik, zadał Ranę Krytyczną. Lokalizację trafienia może wybrać z kości, którymi wygrał .
+Jeżeli **Atakujący** zdobył więcej Sukcesów niż **Obrońca**, trafił i zadał cios. Jeżeli osiągnął 1 Sukces więcej niż przeciwnik, zadał Ranę Lekką, jeżeli osiągnął 2 Sukcesy więcej niż przeciwnik, zadał Ranę Ciężką. Jeżeli osiągnął 3 Sukcesy więcej niż przeciwnik, zadał Ranę Krytyczną. Lokalizację trafienia może wybrać z kości, którymi wygrał.
 
 Jeżeli **Obrońca** zdobył co najmniej 2 Sukcesy więcej niż **Atakujący**, zdołał się obronić i przejął inicjatywę. Teraz on jest **Atakującym**. 
 

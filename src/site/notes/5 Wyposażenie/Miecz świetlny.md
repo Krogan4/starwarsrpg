@@ -20,7 +20,7 @@ Poniżej zaprezentowano klasyczne warianty miecza świetlnego.
 ![Pasted image 20241222013533.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013533.png)
 **Miecz świetlny, zakrzywiony**
 ![Pasted image 20241222013527.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013527.png)
-[[4 Walka/6 Formy i Techniki Walki Mieczem#^edfc2f\|Makashi]]
+[[4 Walka/6 Formy i Techniki Walki Mieczem (LEGACY)#^edfc2f\|Makashi]]
 **Miecz świetlny, shoto obronne**
 ![Pasted image 20241222013521.png](/img/user/6%20Obrazy/Pasted%20image%2020241222013521.png)
 **Bicz świetlny**

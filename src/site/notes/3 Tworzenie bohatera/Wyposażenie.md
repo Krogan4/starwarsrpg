@@ -19,11 +19,11 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                      **Pistolet blasterowy, ciężki**                      |        750         |       20% (tylko dla wojska)        |       2       |
 |                     **Pistolet blasterowy, sportowy**                     |        300         |                 70%                 |       1       |
 |                         **Karabinek blasterowy**                          |        850         |                 30%                 |      2,2      |
-|                     **Karabinek blasterowy, ciężki**                      |        920         |       20% (tylko dla wojska)        |       3       |
-|                       **Karabin blasterowy, lekki**                       |        950         | 30% (legalny w niektórych światach) |      4,5      |
+|                    **Szturmowy karabinek blasterowy**                     |        920         |       20% (tylko dla wojska)        |       3       |
+|                     **Kompaktowy karabin blasterowy**                     |        950         | 30% (legalny w niektórych światach) |      4,5      |
 |                          **Karabin blasterowy**                           |       1 000        |       20% (tylko dla wojska)        |       5       |
-|                    **Karabin blasterowy, precyzyjny**                     |       1 100        | 30% (legalny w niektórych światach) |       4       |
-|                  **Ciężki karabin blasterowy wsparcia**                   |       3 000        |       10% (tylko dla wojska)        |       8       |
+|                     **Precyzyjny karabin blasterowy**                     |       1 100        | 30% (legalny w niektórych światach) |       4       |
+|                 **Stacjonarny ciężki karabin blasterowy**                 |       3 000        |       10% (tylko dla wojska)        |       8       |
 |                          **Strzelba blasterowa**                          |       1 100        |       20% (tylko dla wojska)        |       4       |
 |                          **Strzelba odłamkowa**                           |        275         |   30% (legalny z amunicją kulową)   |       5       |
 |                                **Obrzyn**                                 |        200         |   40% (legalny z amunicją kulową)   |      2,5      |
