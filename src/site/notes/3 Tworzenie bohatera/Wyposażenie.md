@@ -4,41 +4,41 @@
 
 Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 kredytów na wybór rzeczy na start. To, czego nie wydasz, zachowaj na karcie chipowej. Poniżej znajduje się jedynie zestawienie przedmiotów. Ich dokładny opis znajdziesz w dalszej części podręcznika.
 
-![Pasted image 20250412132032.png](/img/user/Pasted%20image%2020250412132032.png)
+![Pasted image 20250412132649.png](/img/user/6%20Obrazy/Pasted%20image%2020250412132649.png)
 
-|                                                                           |                    |                                     |               |
-| :-----------------------------------------------------------------------: | :----------------: | :---------------------------------: | :-----------: |
 |                                 **Nazwa**                                 | **Cena (kredyty)** |           **Dostępność**            | **Waga (kg)** |
-|                          **[[5 Wyposażenie/Broń dystansowa\|Broń dystansowa]]**                          |                    |                                     |               |
+| :-----------------------------------------------------------------------: | :----------------: | :---------------------------------: | :-----------: |
+|                          **[[5 Wyposażenie/Broń dystansowa\|Broń dystansowa]]**                          | <                  | <                                   |       <       |
 |                          **Pistolet blasterowy**                          |        500         |                 50%                 |       1       |
 |                    **Pistolet blasterowy, podręczny**                     |        250         |          40% (nielegalny)           |      0,5      |
 |                      **Pistolet blasterowy, ciężki**                      |        750         |       20% (tylko dla wojska)        |       2       |
 |                     **Pistolet blasterowy, sportowy**                     |        300         |                 70%                 |       1       |
-|                         **Karabinek blasterowy**                          |        850         |                 30%                 |      2,2      |
-|                    **Szturmowy karabinek blasterowy**                     |        920         |       20% (tylko dla wojska)        |       3       |
-|                     **Kompaktowy karabin blasterowy**                     |        950         | 30% (legalny w niektórych światach) |      4,5      |
-|                          **Karabin blasterowy**                           |       1 000        |       20% (tylko dla wojska)        |       5       |
-|                     **Precyzyjny karabin blasterowy**                     |       1 100        | 30% (legalny w niektórych światach) |       4       |
-|                 **Stacjonarny ciężki karabin blasterowy**                 |       3 000        |       10% (tylko dla wojska)        |       8       |
-|                          **Strzelba blasterowa**                          |       1 100        |       20% (tylko dla wojska)        |       4       |
-|                          **Strzelba odłamkowa**                           |        275         |   30% (legalny z amunicją kulową)   |       5       |
+|                         **Karabinek blasterowy**                          |        850         |                 30%                 |       3       |
+|                    **Szturmowy karabinek blasterowy**                     |        920         |       20% (tylko dla wojska)        |      3,5      |
+|                     **Kompaktowy karabin blasterowy**                     |        950         | 30% (legalny w niektórych światach) |       4       |
+|                          **Karabin blasterowy**                           |       1 000        |       20% (tylko dla wojska)        |      4,5      |
+|                     **Precyzyjny karabin blasterowy**                     |       1 100        | 30% (legalny w niektórych światach) |       5       |
+|                 **Stacjonarny ciężki karabin blasterowy**                 |       3 000        |       10% (tylko dla wojska)        |      12       |
+|                          **Strzelba blasterowa**                          |       1 100        |       20% (tylko dla wojska)        |      4,5      |
+|                          **Strzelba odłamkowa**                           |        275         |   30% (legalny z amunicją kulową)   |      4,5      |
 |                                **Obrzyn**                                 |        200         |   40% (legalny z amunicją kulową)   |      2,5      |
 |                       **Ręczne działo blasterowe**                        |       5 000        |       10% (tylko dla wojska)        |       8       |
-|                     **Karabin snajperski blasterowy**                     |       2 000        |       30% (tylko dla wojska)        |      4,5      |
-|                     **Karabin snajperski pociskowy**                      |        800         |          10% (nielegalny)           |      4,5      |
-|                            **Kusza Wookiech**                             |     900-1 500      |                 10%                 |       8       |
-|                            **Karabin jonowy**                             |        800         |                 30%                 |       3       |
+|                     **Karabin snajperski blasterowy**                     |       2 000        |       30% (tylko dla wojska)        |      5,5      |
+|                     **Karabin snajperski pociskowy**                      |        800         |          10% (nielegalny)           |       6       |
+|                            **Kusza Wookiech**                             |     900-1 500      |                 10%                 |       9       |
+|                            **Karabin jonowy**                             |        800         |                 30%                 |      3,5      |
 |                            **Pistolet jonowy**                            |        250         |                 30%                 |       1       |
 |                         **Pistolet ogłuszający**                          |        300         |                 30%                 |       1       |
-|                          **Wyrzutnia granatów**                           |        900         |       10% (tylko dla wojska)        |      6,5      |
-|                             **Dezintegrator**                             |       4 000        |        10% (**nielegalny**)         |       6       |
-|                      **[[5 Wyposażenie/Broń do walki w zwarciu\|Broń do walki w zwarciu]]**                      |                    |                                     |               |
-|                              **Wibroostrze**                              |        250         |                 70%                 |       1       |
-|                              **Wibrokastet**                              |        200         |          60% (nielegalny)           |       1       |
-|                              **Wibromiecz**                               |        450         | 30% (legalny w niektórych światach) |       2       |
-|                              **Wibrotopór**                               |        500         |          20% (nielegalny)           |       2       |
-|                              **Wibrolanca**                               |        500         | 20% (legalny w niektórych światach) |      1,5      |
-|                           **Pałka elektryczna**                           |         50         |                 70%                 |      1,8      |
+|                          **Wyrzutnia granatów**                           |        900         |       10% (tylko dla wojska)        |       7       |
+|                             **Dezintegrator**                             |       4 000        |        10% (**nielegalny**)         |      6,5      |
+|                                                                           | <                  | <                                   |       <       |
+|                      **[[5 Wyposażenie/Broń do walki w zwarciu\|Broń do walki w zwarciu]]**                      | <                  | <                                   |       <       |
+|                              **Wibroostrze**                              |        250         |                 70%                 |      0,5      |
+|                              **Wibrokastet**                              |        200         |          60% (nielegalny)           |      0,5      |
+|                              **Wibromiecz**                               |        450         | 30% (legalny w niektórych światach) |      1,5      |
+|                              **Wibrotopór**                               |        500         |          20% (nielegalny)           |      2,5      |
+|                              **Wibrolanca**                               |        500         | 20% (legalny w niektórych światach) |       3       |
+|                           **Pałka elektryczna**                           |         50         |                 70%                 |      1,5      |
 |                               **Wibrobicz**                               |        450         |                 30%                 |       2       |
 |                            **Bicz neuronowy**                             |        700         |          20% (nielegalny)           |       2       |
 |            **[[5 Wyposażenie/Miecz świetlny\|Miecz świetlny, standardowy]]**            |       3 000        |        10% (tylko dla Jedi)         |       2       |
@@ -58,13 +58,15 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                          **Detonator termiczny**                          |       2 000        |          20% (nielegalny)           |       1       |
 |                            **Granat błyskowy**                            |        200         |                 30%                 |      0,5      |
 |                           **Granat wypalający**                           |        400         |       20% (tylko dla wojska)        |      0,5      |
-|                               **Amunicja**                                |                    |                                     |               |
+|                                                                           | <                  | <                                   |       <       |
+|                               **Amunicja**                                | <                  | <                                   |       <       |
 |                          **Ogniwo energetyczne**                          |         15         |                 90%                 |               |
 |     **Pakiet energetyczny (ogniwo energetyczne + zbiornik z gazem)**      |         40         |                 70%                 |               |
 |                      **Pocisk odłamkowy, 1 sztuka**                       |         1          |                                     |               |
 |        **Pakiet ogniwo energetyczne + pocisk z plazmą, 10 sztuk**         |        400         |                                     |               |
 |                      **Nabój standardowy, 10 sztuk**                      |         5          |                                     |               |
-|                            **Towary handlowe**                            |                    |                                     |               |
+|                            **Towary handlowe**                            | <                  | <                                   |       <       |
+|                                                                           | <                  | <                                   |       <       |
 |                          **Zwierzę, pospolite**                           |        100         |                                     |               |
 |                          **Zwierzę, egzotyczne**                          |       2 000        |                                     |               |
 |                         **Zwierzę, gospodarcze**                          |        500         |                                     |               |
@@ -81,7 +83,8 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                       **Przyprawa (narkotyk), 1kg**                       |       1 000        |                                     |               |
 |                             **Tekstylia, 1m**                             |         10         |                                     |               |
 |                               **Woda, 1kg**                               |         10         |                                     |               |
-|                         **[[5 Wyposażenie/Inne wyposażenie\|Inne wyposażenie]]**                          |                    |                                     |               |
+|                                                                           | <                  | <                                   |       <       |
+|                         **[[5 Wyposażenie/Inne wyposażenie\|Inne wyposażenie]]**                          | <                  | <                                   |       <       |
 |                  **Płaszcz ochronny przed temperaturą**                   |        100         |                 30%                 |      1,5      |
 |                     **Aparat do oddychania pod wodą**                     |        350         |                 40%                 |      0,2      |
 |                          **Maska do oddychania**                          |        200         |                 40%                 |       2       |
@@ -155,7 +158,7 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
-|                                **Usługi**                                 |                    |                                     |               |
+|                                **Usługi**                                 | <                  | <                                   |       <       |
 |                    **Wyżywienie, dobre (za posiłek)**                     |         50         |                                     |       -       |
 |                  **Wyżywienie, pospolite (za posiłek)**                   |         15         |                                     |       -       |
 |                   **Wyżywienie, kiepskie (za posiłek)**                   |         5          |                                     |       -       |
@@ -172,5 +175,5 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
-|                             **[[5 Wyposażenie/Pancerze\|Pancerze]]**                              |                    |                                     |               |
-|                        **[[5 Wyposażenie/Tarcze energetyczne\|Tarcze energetyczne]]**                        |                    |                                     |               |
+|                             **[[5 Wyposażenie/Pancerze\|Pancerze]]**                              | <                  | <                                   |       <       |
+|                        **[[5 Wyposażenie/Tarcze energetyczne\|Tarcze energetyczne]]**                        | <                  | <                                   |       <       |
