@@ -176,4 +176,4 @@ Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 
 |                                                                           |                    |                                     |               |
 |                                                                           |                    |                                     |               |
 |                             **[[5 Wyposażenie/Pancerze\|Pancerze]]**                              |                    |                                     |               |
-|                        **[[5 Wyposażenie/Tarcze energetyczne\|Tarcze energetyczne]]**                        |                    |                                     |               |
+|                          **[[5 Wyposażenie/Tarcze osobiste\|Tarcze osobiste]]**                          |                    |                                     |               |
