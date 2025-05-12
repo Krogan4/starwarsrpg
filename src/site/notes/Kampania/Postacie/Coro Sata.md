@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/kampania/postacie/coro-sata/","dgPassFrontmatter":true}
+---
+
+Mistrz Jedi, który zebrał ważny dowód w sprawie tajnego ugrupowania [[Kampania/Grupy/Spiskowcy\|Spiskowców]]. Mistrz Kinsatopa. Zginął zestrzelony przez [[Kampania/Postacie/Czerwony Baron\|Czerwonego Barona]], który ścigał go z rozkazu [[Kampania/Grupy/Czarne Słońce\|Czarnego Słońca]]. Coro Sata miał dostać pomoc od tajemniczej [[Kampania/Grupy/Grupa Phobos\|Grupy Phobos]] - organizacji, która z ukrycia walczyła z władzą. Jeżeli wizja, której doświadczył Kinsatop na [[Kampania/Planety/Ziost\|Ziost]] była prawdziwa, Coro Sata odkrył istnienie spisku, w który zaangażowani byli Jedi i skorumpowani politycy, ale za prawdziwe zagrożenie uważa tych, którzy za wszelką cenę starają się to ujawnić i w rzeczywistości zamierzał ich zinfiltrować.

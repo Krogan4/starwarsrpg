@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/kampania/postacie/alisave-skyale/","dgPassFrontmatter":true}
+---
+
+Była uczennica [[Kampania/Postacie/Forgar Shetur\|Forgara Shetura]]. Z Mallgarem znała się pobieżnie. Zaginęła w tym samym czasie, w którym zaginął mistrz Shetur. Mallgar z Cordiusem przez lata próbowali dowiedzieć się czegokolwiek o stanie i lokalizacji Alisave. Ich śledztwo prowadziło do tajemniczej [[Kampania/Grupy/Grupa Phobos\|Grupy Phobos]], która miałaby walczyć ze skorumpowanym rządem, ale z którą nigdy nie udało im się skontaktować. Niedawno wyszło na jaw, że tajemnicza liderka [[Kampania/Grupy/Bractwo Dai'th\|Bractwa Dai'th]] nazywa się tak samo. Mallgar widział Alisave w swojej wizji na planecie [[Kampania/Planety/Ziost\|Ziost]], w której przepełniała ją złość i zapowiadała czas zemsty.
+
+Wedle zeznań [[Kampania/Postacie/Mszczuj\|Mszczuja]] oraz braci spotkanych na Troxidii i Ziost, Alisave pojawiła się zupełnie niespodziewanie. Towarzyszyło jej pokraczne, latające stworzenie. Wyzwała mistrza Bractwa na pojedynek, w którym pokonała go nie wyciągając broni. Unikała ciosów, potem przechwyciła jego broń i zabiła go na miejscu. Kilku oddanych sług zabitego mistrza rzuciło się na nią, a ta uniosła ich wszystkich w powietrze i siłą Mocy zmiażdżyła im czaszki. Została przyjęta jako nowa liderka grupy i natychmiast ją totalnie zmodernizowała - przeszkoliła i wyposażyła jej członków, zorganizowała ich działania, tworząc prawdziwą armię. Poprowadziła również podbój cywilizowanej, zaawansowanej technologicznie planety [[Kampania/Planety/Listehol\|Listehol]].
+
+Bracia pokonani przez was na [[Kampania/Planety/Ziost\|Ziost]] twierdzili, że według plotek, Alisave zdobyła swoją siłę na Ziost właśnie.

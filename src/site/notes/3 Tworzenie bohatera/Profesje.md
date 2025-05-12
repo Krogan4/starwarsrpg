@@ -21,4 +21,4 @@ Poniżej przedstawiono wybrane profesje, które są jedynie formą archetypu pos
 [[2 Profesje/Poskramiacz bestii\|Poskramiacz bestii]]
 [[2 Profesje/Artysta\|Artysta]]
 [[2 Profesje/Złodziej\|Złodziej]]
-[[2 Profesje/Jedi\|Jedi]]
+[[2 Profesje/Jedi\|2 Profesje/Jedi]]

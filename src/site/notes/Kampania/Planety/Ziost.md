@@ -2,3 +2,13 @@
 {"dg-publish":true,"permalink":"/kampania/planety/ziost/","dgPassFrontmatter":true}
 ---
 
+![Pasted image 20250512235812.png](/img/user/Pasted%20image%2020250512235812.png)
+
+Ziost to planeta niezwykle przesiąknięta ciemnością. Znajduje się daleko od znanych i rozwiniętych części galaktyki, dzięki czemu była świetnym miejscem do rozwoju umiejętności władania ciemną stroną Mocy. Z czasem jej rdzenni mieszkańcy zostali podbici przez wydalonych z Zakonu upadłych Jedi. Massassi służyli mrocznym Jedi i wyjawiali im swoje sekretne rytuały, które z kolei na przestrzeni wielu setek i tysięcy lat przerodziły się we wspólne tradycje. To właśnie ci Mroczni Jedi, którzy zostali wygnani stali się późniejszymi Sithami i zbudowali pierwsze Imperium Sithów. Ziost była stolicą tego Imperium, a nie Korriban, choć w późniejszym okresie to uległo częściowej zmianie. Planeta po ujawnieniu się Odrodzonego Imperium Sithów została ponownie zajęta przez Sithów. W końcu padła ofiarą okrutnego rytuału, który całkowicie unicestwił życie na planecie.
+
+W momencie, gdy przybyliście na Ziost, życie na planecie powoli odradzało się, ale mimo to czuliście, że cały glob wciąż przesiąknięty jest Ciemną Stroną Mocy.
+Trafiliście tu zgodnie z namiarami pozostawionymi w statku [[Kampania/Postacie/Coro Sata\|Coro Saty]] rozbitym w lodowej rozpadlinie na [[Kampania/Planety/Hoth\|Hoth]]. Na planecie znajdują się liczne ruiny świątyń Sith. W podziemiach jednej z nich, odnaleźliście olbrzymie podziemne jezioro, w którym zamieszkują niezliczone ilości Primus Legari - mikroorganizmów, które łącząc się zyskują świadomość, w tym świadomość Mocy. Opowiadał wam o tym tajemniczy [[Kampania/Postacie/Carius\|Carius]], który podawał się za świeckiego badacza kultury Jedi oraz Sith. Carius wręczył wam słownik sithiańskiego, który pomógł wam dostać się do świątyni. W czasie waszej rozmowy z mężczyzną, wyszło na jaw, że jest zjawą lub projekcją Mocy, po czym się rozpłynął. Luksusowy, ciężkozbrojny jacht, którym przybył na planetę odleciał zaraz potem.
+
+To tutaj także zmierzyliście się po raz pierwszy z członkami [[Kampania/Grupy/Bractwo Dai'th\|Bractwa Dai'th]], którzy zdezerterowali i przybyli tu, by szukać potęgi. Według ich zeznań, ich nowa liderka - [[Kampania/Postacie/Alisave Skyale\|Alisave Skyale]] - zdobyła swoją siłę właśnie tu.
+
+W wyniku kąpieli w podziemnym jeziorze, Amon-Set wpadł w posiadanie potężnego kryształu miecza świetlnego, Kinsatop mógł porozmawiać ze swoim zmarłym mistrzem, który wskazał [[Kampania/Planety/Listehol\|Listehol]] jako następny punkt podróży dla drużyny, a sam odleciał na Coruscant.
