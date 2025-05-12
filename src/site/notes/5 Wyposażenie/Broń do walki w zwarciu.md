@@ -3,24 +3,30 @@
 ---
 
 **Pięści**
-![Pasted image 20241222011258.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011258.png)
-**Wibrokastet**
-![Pasted image 20250412123605.png](/img/user/6%20Obrazy/Pasted%20image%2020250412123605.png)
-**Wibroostrze**
-![Pasted image 20250412123621.png](/img/user/6%20Obrazy/Pasted%20image%2020250412123621.png)
-**Wibromiecz**
-![Pasted image 20250412123642.png](/img/user/6%20Obrazy/Pasted%20image%2020250412123642.png)
-**Wibrotopór**
-![Pasted image 20250412123709.png](/img/user/6%20Obrazy/Pasted%20image%2020250412123709.png)
-**Wibrolanca**
-![Pasted image 20241222011531.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011531.png)
+![Pasted image 20250503001134.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001134.png)
+**Kastet**
+![Pasted image 20250503001144.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001144.png)
+**Nóż**
+![Pasted image 20250503001204.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001204.png)
+**Miecz**
+![Pasted image 20250503001250.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001250.png)
+**Topór**
+![Pasted image 20250503001553.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001553.png)
+**Glewia**
+![Pasted image 20250503001338.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001338.png)
+**Włócznia**
+![Pasted image 20250503001403.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001403.png)
+**Kij**
+![Pasted image 20250503001738.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001738.png)
+**Tarcza**
+![Pasted image 20250503001746.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001746.png)
 **Pałka elektryczna**
-![Pasted image 20241222011640.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011640.png)
+![Pasted image 20250503001757.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001757.png)
 [[4 Walka/3 Efekty#^5d700f\|Porażenie]]
 **Wibrobicz**
-![Pasted image 20241222011649.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011649.png)
+![Pasted image 20250503001831.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001831.png)
 **Bicz neuronowy**
-![Pasted image 20241222011656.png](/img/user/6%20Obrazy/Pasted%20image%2020241222011656.png)
+![Pasted image 20250503001846.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001846.png)
 [[4 Walka/3 Efekty#^5d700f\|Porażenie]]^184b24
 
 
