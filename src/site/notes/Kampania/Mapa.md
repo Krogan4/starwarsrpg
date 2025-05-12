@@ -9,20 +9,20 @@
 
 ## Text Elements
 ## Element Links
-TQO0lrwd: [[Kampania/Planety/Coruscant\|Coruscant]]
+fGGY1aCF: [[Kampania/Planety/Coruscant\|Coruscant]]
 
-6pVpn0wZ: [[Hoth\|Hoth]]
+Qlxq5UrV: [[Taris\|Taris]]
 
-6UeKQuvU: [[Taris\|Taris]]
+xMDmWal1: [[Mandalore\|Mandalore]]
 
-wIUQjww7: [[Mandalore\|Mandalore]]
+YnfoJmum: [[Kampania/Planety/Listehol\|Listehol]]
 
-VDLWuVo6: [[Kampania/Planety/Listehol\|Listehol]]
+GlSjKFXx: [[Kampania/Planety/Ziost\|Ziost]]
 
-kX0Vp0VL: [[Kampania/Planety/Ziost\|Ziost]]
+UsVy26vk: [[Kampania/Planety/Ryloth\|Ryloth]]
 
-7oRSrNkz: [[Kampania/Planety/Ryloth\|Ryloth]]
+8Zt3LDSP: [[Hoth\|Hoth]]
 
 ## Embedded Files
-7e983d9d3b42715ba55f03bc06f84c78b411d258: [[Star wars map sesja.png]]
+a65ac5654670eb942d99ee66beb959904f4d3ccf: [[Star wars map sesja.png]]
 
