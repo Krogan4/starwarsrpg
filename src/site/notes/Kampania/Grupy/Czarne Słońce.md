@@ -10,5 +10,5 @@ Za pośrednictwem różnych pomniejszych organizacji - przede wszystkim przestę
 
 Znacie:
 - [[Kampania/Postacie/Hryl Xylman\|Hryl Xylman]] - vigo zasiadający na [[Kampania/Planety/Taris\|Taris]], który został przez was zabity. Współpracował ze [[Kampania/Grupy/Spiskowcy\|Spiskowacami]].
-- [[Kampania/Postacie/Czerwony Baron\|Czerwony Baron]] - najzdolniejszy pilot myśliwca w całej Galaktyce. Zabił żonę [[Kampania/Postacie/Benjamin Johnsohn\|Benjamina]] oraz [[Kampania/Postacie/Coro Sata\|Coro Satę]].
+- [[Kampania/Postacie/Czerwony Baron\|Czerwony Baron]] - najzdolniejszy pilot myśliwca w całej Galaktyce. Zabił żonę [[Kampania/Postacie/Benjamin Johnson\|Benjamina]] oraz [[Kampania/Postacie/Coro Sata\|Coro Satę]].
 - [[Kampania/Postacie/Hugo Reaves\|Hugo Reaves]] - sponsor zespołu w Gwiezdnych Regatach, który liczy na to, że wkrótce zostanie vigo w miejsce Hryla.
