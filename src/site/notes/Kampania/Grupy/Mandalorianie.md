@@ -6,6 +6,8 @@ Wielorasowy lud oparty na zasadach klanowych, istniejący od niemal 7 tysięcy l
 
 Ostatnio słyszeliście, że zaczęli podbijać graniczne planety Republiki co nie spotkało się z militarnym odzewem ze strony Republiki.
 
+Wojskowość Mandalory opiera się obecnie na klanach, ale struktury wprowadzone podczas panowania prorepublikańskiego rządu pozostały sprawiając, że wojska Mandalorian to dziwna hybryda klasycznego klanowego systemu wartości oraz wojskowych struktur dowodzenia.
+
 Znani Mandalorianie:
 - [[Kampania/Postacie/Aerion Vevut (Mandalor Sprawiedliwy)\|Aerion Vevut (Mandalor Sprawiedliwy)]]
 - [[Kampania/Postacie/Arth Loenard\|Arth Loenard]] z klanu Vevut

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/planety/mandalora/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250512233831.png](/img/user/Pasted%20image%2020250512233831.png)
+![Pasted image 20250512233831.png](/img/user/6%20Obrazy/Pasted%20image%2020250512233831.png)
 
 Mandalora jest ojczystym światem wojowniczego ludu [[Kampania/Grupy/Mandalorianie\|Mandalorian]], którzy wojowali niegdyś z Republiką oraz Zakonem Jedi. Około 200 lat temu doszło do tzw. Wycięcia Mandalorian, które było kontrowersyjną operacją polegającą na zbombardowaniu całej planety, w wyniku czego życie straciła niezliczona ilość Mandalorian, a władzę nad sektorem objął marionetkowy pro republikański rząd Nowych Mandalorian.
 

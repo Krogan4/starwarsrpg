@@ -35,27 +35,32 @@ Kiedy postać posługująca się dwiema broniami do walki wręcz stanie przeciwk
 
 ## Dystans w walce
 
-Bronie do walki wręcz dzielą się na kilka kategorii według ich długości. Jeśli któryś z walczących ma broń dłuższą niż jego przeciwnik, dostaje Bonus +1 do Testów w walce. Kategorie to: Dotyk, Bardzo Krótki, Krótki, Średni, Długi, Bardzo Długi.
+Bronie do walki wręcz dzielą się na kilka kategorii według ich długości. Jeśli któryś z walczących ma broń dłuższą niż jego przeciwnik, dostaje Bonus +1 do Testów w walce. Kategorie to: 
+Dotyk, Bardzo Krótki, Krótki, Średni, Długi, Bardzo Długi.
 
 Korzystanie z długiej broni może wiązać się z dodatkowymi karami podczas walki w tłoku lub w ciasnych pomieszczeniach. Wówczas bronie tracą modyfikator do Zręczności w Obronie oraz dostają kary: Średni -2, Długi -4, Bardzo długi -8.
 
 Istoty również są podzielone na kategorie według ich wielkości.
 
+## Uniki
+
+Postać może użyć Akrobatyki zamiast umiejętności walki do Testów wykonywanych jako Obrońca. Wówczas nie otrzymuje żadnych bonusów do Zręczności wynikających z trzymanej broni.
+
 ## Użycie broni dystansowej w walce
 
-Postać trzymająca broń dystansową w czasie walki wręcz może spróbować użyć jej do trafienia przeciwnika. Gracz testuje wówczas Umiejętność Walki Wręcz (lub odpowiedniej broni ręcznej, jeśli reguła specjalna broni na to pozwala). Bronie dystansowe nie zapewniają zwykle ułatwień do Zręczności w walce w zwarciu.
+Postać trzymająca broń dystansową w czasie walki wręcz może spróbować użyć jej do trafienia przeciwnika. Gracz testuje wówczas Umiejętność Walki Wręcz (lub odpowiedniej broni ręcznej, jeśli reguła specjalna broni na to pozwala). Bronie dystansowe nie zapewniają zwykle ułatwień do Zręczności w walce w zwarciu. W tym wypadku również należy rozpatrzyć wszystkie trzy Testy. Różnica w ilości Sukcesów na korzyść Atakującego nie ma znaczenia pod kątem obrażeń, ale może oferować lepsze możliwości wyboru lokalizacji trafienia.
 
 ## Dodatkowe reguły w walce
 
 Poniżej opisano dodatkowe działania w walce oraz Sztuczki, na które mogą zdecydować się walczący.
 
-**Odstąpienie** – Atakujący może bez problemu odstąpić od walki.
+**Odstąpienie** – Atakujący może odstąpić od walki i bez przeszkód wykonać ruch. Broniący się może to zrobić, ale wtedy przyjmuje atak przeciwnika, którego siła zależy od ilości zdobytych przez niego Sukcesów.
 
-**Powalenie** – Atakujący może spróbować powalić swojego przeciwnika, nie zadając mu obrażeń. Odbywa się to za pomocą Przeciwstawnego Testu Budowy Agresora konta Budowy/Zręczności Obrońcy. Wybór należy do Obrońcy. Skutkuje efektem **Powalenie** u Obrońcy.
+**Powalenie** – Atakujący może spróbować powalić swojego przeciwnika, nie zadając mu obrażeń. Odbywa się to za pomocą Przeciwstawnego Testu Budowy Agresora konta Budowy/Zręczności Obrońcy. Wybór należy do Obrońcy. Skutkuje efektem **[[4 Walka/3 Efekty#^7905a9\|Powalenie]]** u Obrońcy.
 
 **Strzał** – jeśli Atakujący trzyma broń, której wystrzelenie wymaga 1 Segmentu, jest w stanie zrobić to w tym momencie na zasadach opisanych w poprzednim punkcie.
 
-**Piach w oczy** – Atakujący może podjąć próbę zdezorientowania przeciwnika lub otępienia jego zmysłów, ciskając w niego przedmiotami, które znalazły się pod ręką lub wykonując skomplikowane finty. Wymaga wygrania Przeciwstawnego Testu Zręczności. Jeśli Atakujący go przegra, traci Inicjatywę. Jeśli wygra, Obrońca ma karę -1 przez 1k6 tur. Musi być odpowiednio uargumentowana.
+**Piach w oczy** – Atakujący może podjąć próbę zdezorientowania przeciwnika lub otępienia jego zmysłów, ciskając w niego przedmiotami, które znalazły się pod ręką lub wykonując skomplikowane finty. Wymaga wygrania Przeciwstawnego Testu Zręczności. Jeśli Atakujący go przegra, traci Inicjatywę. Jeśli wygra, Obrońca ma karę -1 przez 1k6 tur. Działanie musi być odpowiednio przedstawione i dozwolone przez MG.
 
 **Sztuczka** – Atakujący może użyć dowolnej Sztuczki lub techniki Mocy, zapewniającą mu dodatkowe możliwości w czasie walki.
 

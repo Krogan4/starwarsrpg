@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/planety/ziost/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250512235812.png](/img/user/Pasted%20image%2020250512235812.png)
+![Pasted image 20250512235812.png](/img/user/6%20Obrazy/Pasted%20image%2020250512235812.png)
 
 Ziost to planeta niezwykle przesiąknięta ciemnością. Znajduje się daleko od znanych i rozwiniętych części galaktyki, dzięki czemu była świetnym miejscem do rozwoju umiejętności władania ciemną stroną Mocy. Z czasem jej rdzenni mieszkańcy zostali podbici przez wydalonych z Zakonu upadłych Jedi. Massassi służyli mrocznym Jedi i wyjawiali im swoje sekretne rytuały, które z kolei na przestrzeni wielu setek i tysięcy lat przerodziły się we wspólne tradycje. To właśnie ci Mroczni Jedi, którzy zostali wygnani stali się późniejszymi Sithami i zbudowali pierwsze Imperium Sithów. Ziost była stolicą tego Imperium, a nie Korriban, choć w późniejszym okresie to uległo częściowej zmianie. Planeta po ujawnieniu się Odrodzonego Imperium Sithów została ponownie zajęta przez Sithów. W końcu padła ofiarą okrutnego rytuału, który całkowicie unicestwił życie na planecie.
 

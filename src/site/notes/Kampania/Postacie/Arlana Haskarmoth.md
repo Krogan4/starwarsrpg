@@ -2,3 +2,4 @@
 {"dg-publish":true,"permalink":"/kampania/postacie/arlana-haskarmoth/","dgPassFrontmatter":true}
 ---
 
+Arlana była córką [[Kampania/Postacie/Arkhon Haskarmoth\|Arkhona Haskarmotha]] - herszta załogi Wesołych Kanonierów. Odeszła z ugrupowania wraz z [[Kampania/Postacie/Humek Potki\|Humkiem]], z którym założyła grupę najemników [[Kampania/Grupy/Pustynne Czerwie\|Pustynne Czerwie]]. Pracowali m.in. dla [[Kampania/Grupy/Czarne Słońce\|Czarnego Słońca]]. Arlana starała się wspomóc swojego przyjaciela [[Kampania/Postacie/Yoro Manaa\|Yoro Manaa]] i zdobyć dla niego dowody współpracy między Czarnym Słońcem a rządem Republiki Galaktycznej. Ostatecznie vigo Czarnego Słońca na Taris - [[Kampania/Postacie/Hryl Xylman\|Hryl Xylman]] - przejrzał jej podstęp i wysłał [[Kampania/Postacie/Czerwony Baron\|Czerwonego Barona]], który ją zestrzelił.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/planety/coruscant/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250512232826.png](/img/user/Pasted%20image%2020250512232826.png)
+![Pasted image 20250512232826.png](/img/user/6%20Obrazy/Pasted%20image%2020250512232826.png)
 
 Coruscant przez tysiąclecia była najważniejszym politycznie i strategicznie światem. Jest stolicą Republiki i siedzibą najważniejszych organów, w tym [[Kampania/Grupy/Zakon Jedi\|Zakonu Jedi]]. Cała powierzchnia planety jest zabudowana miastem - wyjątek to szczyt gór Manarai oraz okolice czap polarnych na biegunach. Coruscant jest domem dla miliardów istot, a że przebiega przez nią duża ilość szlaków handlowych, znajdują się na niej w siedziby wielu korporacji, firm i organizacji.
 

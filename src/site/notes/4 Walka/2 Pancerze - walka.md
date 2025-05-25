@@ -21,10 +21,10 @@ Każda otrzymana Rana Ciężka obniża Wytrzymałość pancerza o 1, a Rana Kryt
 
 Kary za pancerz kumulują się i pozornie mogą wydawać się dość duże, jednak wysoka Budowa jest w stanie zmniejszać kary wynikające z pancerza.
 
-Głowa: Zmysły, Strzelanie
-Ręce: Strzelanie, Walka wręcz, Akrobatyka
-Nogi: Walka wręcz, Akrobatyka
-Tułów: Walka wręcz, Akrobatyka
+**Głowa**: Zmysły, Strzelanie
+**Ręce**: Strzelanie, Walka wręcz, Akrobatyka
+**Nogi**: Walka wręcz, Akrobatyka
+**Tułów**: Walka wręcz, Akrobatyka
 
 Wysoka Budowa pozwala zmniejszyć Kary z noszenia pancerza. Budowa 14 +0,5, Budowa 16 +1, Budowa 18 +2 – należy pamiętać, aby rozpatrywać każdy fragment pancerza osobno, a nie kary łączne.
 

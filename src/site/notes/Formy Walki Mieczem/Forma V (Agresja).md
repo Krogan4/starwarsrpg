@@ -10,14 +10,14 @@ Forma V jest jedną z siedmiu form walki na miecze świetlne, której podstawą 
 - **Djem** **So** – rozwinięcie Shien, które kładzie większy nacisk na walkę z pojedynczym przeciwnikiem. Właściwie nie różni się specjalnie od tego, czym była klasyczna technika Formy Piątej w starożytności, jest więc względnie prosta do opanowania dzięki zastąpieniu finezji przez walory fizyczne. Technika ta jest zatem stylem odpowiednim dla tych, którzy uważali Soresu za styl zbyt pasywny, a Makashi mało praktyczny. Można jedynie zauważyć, że został wzbogacony o kilka manewrów mających skuteczniej wykorzystać siłę wojownika. W porównaniu ze współczesną Shien będzie to więc technika oparta przede wszystkim na potężnych, silnych uderzeniach.
 
 
-Bonusy:
-Obrażenia o poziom wyższe
-+2 do odbijania pocisków
-+3 do Testów Siłowania
-+1 do Zręczności w walce z Formą II i IV
-Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
-Odbijające cięcie - w przypadku odbicia pocisku w czasie, gdy walczący znajduje się w walce w zwarciu, może zaatakować (niezależnie od tego czy był Atakującym) swój cel z bonusem +3 do Zręczności
+**Bonusy**:
+- Obrażenia o poziom wyższe
+- +2 do odbijania pocisków
+- +3 do Testów Siłowania
+- +1 do Zręczności w walce z Formą II i IV
+- Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
+- Odbijające cięcie - w przypadku odbicia pocisku w czasie, gdy walczący znajduje się w walce w zwarciu, może zaatakować (niezależnie od tego czy był Atakującym) swój cel z bonusem +3 do Zręczności
 
-Kary:
--1 do Zręczności
-Wymaga co najmniej 13 Budowy
+**Kary**:
+- -1 do Zręczności
+- Wymaga co najmniej 13 Budowy

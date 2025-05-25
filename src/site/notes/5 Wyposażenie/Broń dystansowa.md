@@ -11,6 +11,15 @@
 ![Pasted image 20250503001957.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001957.png)
 **Pistolet blasterowy, sportowy**
 ![Pasted image 20250503002005.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002005.png)
+**Pistolet jonowy**
+![Pasted image 20250503002316.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002316.png)
+[[4 Walka/0 Walka#^b115bd\|Broń jonowa]]
+**Pistolet ogłuszający**
+![Pasted image 20250503002326.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002326.png)
+[[4 Walka/3 Efekty#^46404c\|Ogłuszenie]] [[4 Walka/3 Efekty#^5d700f\|Porażenie]]
+Pistolet repulsorowy
+![Pasted image 20250525213521.png](/img/user/6%20Obrazy/Pasted%20image%2020250525213521.png)
+[[6 Moc/Telekineza/Telekineza Podstawowe/Pchnięcie Mocy\|Pchnięcie Mocy]]
 # Pistolety maszynowe
 **Karabinek blasterowy**
 ![Pasted image 20250503002014.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002014.png)
@@ -50,12 +59,9 @@
 **Karabin jonowy**
 ![Pasted image 20250503002308.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002308.png)
 [[4 Walka/0 Walka#^b115bd\|Broń jonowa]]
-**Pistolet jonowy**
-![Pasted image 20250503002316.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002316.png)
-[[4 Walka/0 Walka#^b115bd\|Broń jonowa]]
-**Pistolet ogłuszający**
-![Pasted image 20250503002326.png](/img/user/6%20Obrazy/Pasted%20image%2020250503002326.png)
-[[4 Walka/3 Efekty#^46404c\|Ogłuszenie]] [[4 Walka/3 Efekty#^5d700f\|Porażenie]]
+**Karabin repulsorowy**
+![Pasted image 20250525213454.png](/img/user/6%20Obrazy/Pasted%20image%2020250525213454.png)
+[[6 Moc/Telekineza/Telekineza Podstawowe/Pchnięcie Mocy\|Pchnięcie Mocy]]
 **Wyrzutnia granatów**
 ![Pasted image 20241222012610.png](/img/user/6%20Obrazy/Pasted%20image%2020241222012610.png)
 **Dezintegrator**

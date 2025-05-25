@@ -9,10 +9,12 @@ Istnieje tylko jedna technika walki w tej formie, znana jako Shii-Cho.
 
 - **Shii-Cho** – podstawowa technika walki mieczem świetlnym spośród studiowanych przez rycerzy Jedi. Ze względu na prostotę formy, z reguły nauczana jest jako pierwsza. Posiada także wariant walki biczem świetlnym.
 
-Bonusy: 
-Brak; brak kar za walkę biczem świetlnym (wariant nauczany osobno, ale gracz może zdecydować się na niego zamiast podstawowego Shii-Cho).
-Rozbrajający cios - jako Atakujący postać może wykonać Atak trudniejszy o -5, którego celem jest zniszczenie broni przeciwnika.
-Zamach Sarlacca - zamaszyste cięcie, które pozwala zaatakować kilka osób dookoła postaci z karą -2
+**Bonusy**: 
+- Brak; brak kar za walkę biczem świetlnym (wariant nauczany osobno, ale gracz może zdecydować się na niego zamiast podstawowego Shii-Cho).
 
-Kary:
-Brak
+- **Rozbrajający cios** - jako Atakujący postać może wykonać Atak trudniejszy o -5, którego celem jest zniszczenie broni przeciwnika.
+
+- **Zamach Sarlacca** - zamaszyste cięcie, które z karą -2 pozwala zaatakować dowolną ilość osób dookoła postaci. Obszar cięcia to łuk o dowolnym kącie.
+
+**Kary**:
+- Brak

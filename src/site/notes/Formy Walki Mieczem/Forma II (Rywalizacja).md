@@ -10,15 +10,15 @@ Forma II była jedną z form walki na miecze świetlne, koncentrującą się na 
 
 
 Bonusy:
-+2/+1 do Zręczności w Ataku (Przy użyciu specjalnej broni/Bez specjalnej broni)
-+2/+1 do Zręczności w Obronie (Przy użyciu specjalnej broni/Bez specjalnej broni)
-+1 do Zręczności w walce z Formą I i III
-Wymknięcie - w Testach siłowania można użyć Zręczności zamiast Budowy.
-Styl i kontrola - w przypadku Remisu pozwala przerzucić jedną kość podczas kolejnego Testu Ataku lub Obrony
-Precyzyjne cięcie - +2 do Zręczności w ataku w czułe miejsce pancerza odpornego na miecz świetlny
-Słaby punkt - co piątą Turę spędzoną na walce z tym samym przeciwnikiem, walczący zyskuje +1 do Zręczności
-Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
+- +2/+1 do Zręczności w Ataku (Przy użyciu specjalnej broni/Bez specjalnej broni)
+- +2/+1 do Zręczności w Obronie (Przy użyciu specjalnej broni/Bez specjalnej broni)
+- +1 do Zręczności w walce z Formą I i III
+- Wymknięcie - w Testach siłowania można użyć Zręczności zamiast Budowy.
+- Styl i kontrola - w przypadku Remisu pozwala przerzucić jedną kość podczas kolejnego Testu Ataku lub Obrony
+- Precyzyjne cięcie - +2 do Zręczności w ataku w czułe miejsce pancerza odpornego na miecz świetlny
+- Słaby punkt - co piątą Turę spędzoną na walce z tym samym przeciwnikiem, walczący zyskuje +1 do Zręczności
+- Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
 
 Kary:
--4 do walki z wieloma wrogami
--3 do odbijania pocisków
+- -4 do walki z wieloma wrogami
+- -3 do odbijania pocisków

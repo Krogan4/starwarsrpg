@@ -35,6 +35,8 @@
 **Unieruchomienie** – postać nie może ruszyć się z miejsca ani wykonać żadnej Akcji.
 
 **Powalenie** – leżąca na ziemi postać ma karę do [[3 Tworzenie bohatera/Umiejętności#^93351b\|Walki wręcz]]/Broni ręcznej -3.
+{ #7905a9}
+
 
 **Odcięcie od Mocy** – postać jest niezdolna do przywołania Mocy. Jej [[3 Tworzenie bohatera/Współczynniki#^1cfd46\|Wrażliwość na Moc]] wynosi 6.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/planety/ryloth/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250512213238.png](/img/user/Pasted%20image%2020250512213238.png)
+![Pasted image 20250512213238.png](/img/user/6%20Obrazy/Pasted%20image%2020250512213238.png)
 
 Ryloth to planeta położona na Zewnętrznych Rubieżach. Leży na Szlaku Koreliańskim i jest macierzystą planetą Twi'leków. Wydobywane są tutaj duże ilości narkotycznej przyprawy zwanej ryllem.
 

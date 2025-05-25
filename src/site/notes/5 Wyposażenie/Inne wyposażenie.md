@@ -27,6 +27,8 @@
 
 
 **Papierosy/cygara** – mogą powodować uzależnienie.
+{ #ac36a3}
+
 
 **Plecak odrzutowy** – urządzenie zakładane na plecy, które pozwala na wykonywanie lotów do 2km, krótkich skoków lub unoszenia się w powietrzu. Posiadacz jetpacka może poruszać się ze swoją dwukrotną prędkością na Segment, w dowolnym kierunku lub zawisnąć w powietrzu.
 { #eb2841}
@@ -57,8 +59,12 @@
 
 
 **Torba lekarska** – zawiera w sobie zespół przyborów koniecznych do leczenia ran.
+{ #19e4d8}
+
 
 **Apteczka** – przydatna do udzielania pierwszej pomocy
+{ #106240}
+
 
 **Sok juma** – smaczny alkohol, który charakteryzuje się także właściwościami uspokajającymi i usypiającymi. Szczególnie chętnie używany przez treserów dzikich bestii.
 { #c93d1f}
@@ -98,6 +104,10 @@
 
 **Skaner krwi** - niewielkie urządzenie, które przy kontakcie z krwią pacjenta, dostarcza szeregu informacji o ogólnym stanie zdrowia, możliwych chorobach i popularnych truciznach.
 { #15f615}
+
+
+**Lokalizator** - 
+{ #2f4c5f}
 
 
 ## Trucizny

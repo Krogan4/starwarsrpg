@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/grupy/czarne-slonce/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250513003248.png](/img/user/Pasted%20image%2020250513003248.png)
+![Pasted image 20250513003248.png](/img/user/6%20Obrazy/Pasted%20image%2020250513003248.png)
 
 Czarne Słońce to jeden z większych przestępczych syndykatów w galaktyce.
 

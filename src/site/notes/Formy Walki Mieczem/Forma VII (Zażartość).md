@@ -15,13 +15,13 @@ Forma siódma zakłada taką syntezę metod walki, znanych z poprzednich stylów
 
 - **Teräs** **Käsi** - starożytna, ale niezmiennie niebezpieczna i skuteczna sztuka walki wręcz, pochodząca z planety Bunduki. Znana także jako stalowe dłonie, Teräs Käsi była stworzona i praktykowana przez Wyznawców Palawy, starożytny kult z planety Bunduki. Chociaż znana od czasów Pierwszej Wielkiej Schizmy, nie doczekała się godnej następczyni, będąc zarazem najdoskonalszym znanym sposobem obezwładnienia przeciwnika bez użycia broni. Znamienne jednak, że swego czasu rozwinęły się jej odmiany, przewidujące zastosowanie broni białej, a także mieczy świetlnych, przez co Teräs Käsi weszła w kanon Formy Siódmej. Warto nadmienić, że chociaż podstaw tej techniki uczono wszystkich padawanów w Zakonie Jedi, mało kto decydował się na opanowanie tej techniki w wariancie z użyciem miecza, zapewne ze względu na wpisaną w nią zażartość i dość duże ryzyko przejścia na ciemną stronę Mocy. Tym niemniej, Teräs Käsi jako jedyna technika poza Jar'Kai pozwala skutecznie używać wariantu walki podwójnym mieczem świetlnym, a bez wątpienia pozwalała opanować tę broń najlepiej.
 
-Bonusy:
-+1 do Zręczności w Ataku
-+1 do Zręczności w walce z Formą II
-Obrażenia o poziom wyższe
-Furia - po trzech kolejnych Testach Ataku, można przerzucić jedną kość w Ataku
-Pewny cios - raz na walkę pozwala na obniżenie poziomu obrażeń w zamian za +1 do Zręczności na czas najbliższego Testu
+**Bonusy**:
+- +1 do Zręczności w Ataku
+- +1 do Zręczności w walce z Formą II
+- Obrażenia o poziom wyższe
+- Furia - po trzech kolejnych Testach Ataku, można przerzucić jedną kość w Ataku
+- Pewny cios - raz na walkę pozwala na obniżenie poziomu obrażeń w zamian za +1 do Zręczności
 
-Kary:
--2 do odbijania pocisków
-Wezwanie Ciemnej Strony - użycie tego stylu wiąże się zdodatkowym Testem Niezłomności z karą -3.
+**Kary**:
+- -2 do odbijania pocisków
+- Wezwanie Ciemnej Strony - użycie tego stylu wiąże się zdodatkowym Testem Niezłomności z karą -3.

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 25.05.2025
+- Wyposażenie: Dodano pistolet repulsorowy oraz karabin repulsorowy - bronie działające jak Pchnięcie Mocy.
 ## 10.04.2025
 - Walka: Uproszczono zasady Form walki mieczem świetlnym i dodano szereg unikalnych zdolności do poszczególnych form. 
 - Wyposażenie: Zaktualizowano Punkty Przebicia, amunicję, obrażenia niektórych broni. Dodano adnotacje dotyczące broni ręcznej konwencjonalnej i miotaczy pocisków.
