@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/0-glowny-folder/0-spis-tresci/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![Pasted image 20241221153558.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153558.png)
+![Star Wars okładka4 1.png](/img/user/6%20Obrazy/Star%20Wars%20ok%C5%82adka4%201.png)
 [[0 Główny folder/1 Tworzenie bohatera\|1 Tworzenie bohatera]]
 [[3 Tworzenie bohatera/Gatunki\|Gatunki]]
 [[3 Tworzenie bohatera/Profesje\|Profesje]]

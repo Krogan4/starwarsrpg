@@ -11,12 +11,18 @@
 
 
 **Strach** – dla postaci dotkniętej Strachem wszystkie Testy są trudniejsze o -4.
+{ #3c19a1}
+
 
 **Szaleństwo** – postać zachowuje się nieprzewidywalnie, przemieszczając się z miejsca na miejsce lub atakując najbliższe osoby. Gracz nie ma na nią żadnego wpływu. Dopiero pomoc specjalisty jest w stanie usunąć efekt.
+{ #397592}
+
 
 **Duszenie się** – postać nie może złapać oddechu. Utraci przytomność po tylu Segmentach, ile wynosi jej **Kondycja**. W tym czasie wszystkie Testy trudniejsze o -3.
 
 **Płonięcie** – postać, która się pali w każdym Segmencie otrzymuje Ranę Lekką. Wszystkie wykonywane czynności muszą być związane z próbą ugaszenia ognia, chyba że postać zda w każdej turze Test [[3 Tworzenie bohatera/Umiejętności#^3083a0\|Niezłomności]] -5. Wszystkie Testy odbywają się z karą -5. Lekki ogień ugasi tarzanie się po ziemi.
+{ #035df4}
+
 
 **Zamarzanie** – zamarzająca postać porusza się z ½ normalnego dystansu, a wszystkie Testy są dla niej trudniejsze -4. W każdej turze otrzymuje Ranę Lekką.
 
