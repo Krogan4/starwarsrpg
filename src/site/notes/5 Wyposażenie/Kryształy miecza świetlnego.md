@@ -4,7 +4,7 @@
 
 Przy budowie miecza świetlnego najważniejszym elementem jest kryształ. Kryształy są naturalnymi kamieniami, występującymi w różnych miejscach w galaktyce. Niektóre z nich posiadają specyficzne właściwości, które umożliwiają leczenie ran czy też stosowanie ich w broni świetlnej. Mogą one decydować o sile, kolorze i innych cechach ostrza.
 
-![AdeganCrystals-FF119.webp](/img/user/AdeganCrystals-FF119.webp)
+![AdeganCrystals-FF119.webp](/img/user/6%20Obrazy/AdeganCrystals-FF119.webp)
 Katracyt, Relacyt, Danit - kryształy zasilające miecze treningowe, charakteryzują się słabą wiązką ostrza.
 
 Solari - połyskujący na biało artefakt Jasnej Strony, dezaktywuje się jeśli dzierżący go nie stoi po Jasnej Stronie Mocy

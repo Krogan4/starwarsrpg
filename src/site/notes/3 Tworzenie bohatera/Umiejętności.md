@@ -92,7 +92,7 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 - **Udawanie (Zm)** – umiejętność wcielania się w kogoś, kim się nie jest. Określa, jak umiejętnie dana postać jest w stanie zachowywać się jak ktoś konkretny bądź przedstawiciel jakiejś grupy, którą udaje. Taka osoba umie dopasować do siebie odpowiedni strój, sprawić, by dobrze na niej leżał, przyłożyć odpowiedni nacisk na prawidłowy chód i wyraz twarzy, a także maniery głosowe i akcenty. Nie znaczy to jednak, że bez perswazji przekona kogoś w rozmowie, że jest tym za kogo się podaje.
 
-- **Nawigacja (Zm)** – umiejętność odpowiedzialna za orientowanie się w przestrzeni kosmicznej. Pomaga w określaniu odległości, poznawaniu charakterystycznych obiektów, przewidywaniu zachowani ciał niebieskich i zapewnia bezpieczną podróż po Nadprzestrzeni.
+- **Nawigacja (Zm)** – umiejętność odpowiedzialna za orientowanie się w przestrzeni kosmicznej. Pomaga w określaniu odległości, poznawaniu charakterystycznych obiektów, przewidywaniu zachowani ciał niebieskich. Użyteczna szczególnie przy planowaniu lotów nadprzestrzennych, gdy komputer zawodzi.
 
 - **Przygotowanie pułapki (Zm)** – dotyczy przygotowania pułapek środowiskowych, dobrego kamuflowania pułapek i odpowiedniego wyczucia czasu, jeżeli wymagany. Nie ma jednak związku ze zrozumieniem działania i konstruowania pułapek opierających się o poszczególne technologie (np. bomby, pułapki elektryczne itp).
 
