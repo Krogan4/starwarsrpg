@@ -20,3 +20,10 @@ Forma Szósta jest tak w założeniach, jak i z nazwy stylem dyplomatów, stawia
 
 **Kary**:
 - Brak
+
+Dopuszczalne bronie:
+- Standardowy miecz świetlny
+- Dwa miecze świetlne
+- Podwójny miecz świetlny
+- Bicz świetlny
+- Pika świetlna

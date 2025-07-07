@@ -16,9 +16,16 @@ Bonusy:
 - Wymknięcie - w Testach siłowania można użyć Zręczności zamiast Budowy.
 - Styl i kontrola - w przypadku Remisu pozwala przerzucić jedną kość podczas kolejnego Testu Ataku lub Obrony
 - Precyzyjne cięcie - +2 do Zręczności w ataku w czułe miejsce pancerza odpornego na miecz świetlny
-- Słaby punkt - co piątą Turę spędzoną na walce z tym samym przeciwnikiem, walczący zyskuje +1 do Zręczności
-- Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
+- Niskie zużycie energii - Makashi nie wymaga trudnych Testów Kondycji
+
+
+Bonusy mistrzowskie:
+- Feinta - podczas ataku, pozwala odjąć oczka z kości, by dodać je do następnej kości (w czasie jednego ataku)
 
 Kary:
 - -4 do walki z wieloma wrogami
 - -3 do odbijania pocisków
+
+Dopuszczalne bronie:
+- Miecz standardowy
+- Miecz szermierczy

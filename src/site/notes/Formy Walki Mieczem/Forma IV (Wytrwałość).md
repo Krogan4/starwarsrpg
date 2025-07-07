@@ -16,8 +16,19 @@ Forma IV jest jedną z siedmiu form walki na miecze świetlne, koncentrującą s
 - Kontrola pola - pozwala Obrońcy decydować w którą stronę przemieszcza się walka (zwykle robi to Atakujący)
 - Skok i szarża - pozwala przerzucić jedną kość w ataku podczas pierwszego ciosu po rozbiegu
 - Wycofanie - pozwala na wycofanie się z walki i ruch po Remisie lub Wymknięciu.
-- Trudny teren - pozwala poruszać się po trudnym terenie bez dodatkowych przeszków
+- Trudny teren - pozwala poruszać się po trudnym terenie bez dodatkowych przeszkód
+- Bardzo wysokie zużycie energii - Forma IV może wiązać się z trudnymi Testami Kondycji
+
+Bonusy mistrzowskie:
+- Grad ciosów - pozwala zaatakować przeciwnika drugi raz w ciągu tej samej Tury
+{ #73cf46}
+
 
 **Kary**:
 - Obrażenia o poziom niższe
 - -2 do Zręczności w ciasnych pomieszczeniach
+
+Dopuszczalne bronie:
+- Standardowy miecz świetlny
+- Dwa miecze świetlne
+- Podwójny miecz świetlny

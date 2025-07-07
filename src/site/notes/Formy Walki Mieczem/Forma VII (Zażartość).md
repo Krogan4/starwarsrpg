@@ -20,8 +20,17 @@ Forma siódma zakłada taką syntezę metod walki, znanych z poprzednich stylów
 - +1 do Zręczności w walce z Formą II
 - Obrażenia o poziom wyższe
 - Furia - po trzech kolejnych Testach Ataku, można przerzucić jedną kość w Ataku
-- Pewny cios - raz na walkę pozwala na obniżenie poziomu obrażeń w zamian za +1 do Zręczności
+- Pewny cios - raz na walkę pozwala na obniżenie poziomu obrażeń w zamian za +2 do Zręczności
+- Wysokie zużycie energii - Forma V może wiązać się z dodatkowymi Testami Kondycji
+
+Bonusy mistrzowskie:
+- Gniew - Tylko Ciemna Strona: Pozwala zamienić 10 punktów Niezłomności na 1 do Zręczności w czasie jednego ataku.
 
 **Kary**:
 - -2 do odbijania pocisków
-- Wezwanie Ciemnej Strony - użycie tego stylu wiąże się zdodatkowym Testem Niezłomności z karą -3.
+- Wezwanie Ciemnej Strony - użycie tego stylu wiąże się z dodatkowym Testem Niezłomności z karą -3.
+
+Dopuszczalne bronie:
+- Standardowy miecz świetlny
+- Dwa miecze świetlne
+- Podwójny miecz świetlny

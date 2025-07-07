@@ -15,9 +15,20 @@ Forma V jest jedną z siedmiu form walki na miecze świetlne, której podstawą 
 - +2 do odbijania pocisków
 - +3 do Testów Siłowania
 - +1 do Zręczności w walce z Formą II i IV
+- Blasterowa kontra - pozwala odesłać pocisk blasterowy do strzelca z karą -3.
+- Wysokie zużycie energii - Forma V może wiązać się z dodatkowymi Testami Kondycji
+
+Bonusy mistrzowskie:
 - Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
-- Odbijające cięcie - w przypadku odbicia pocisku w czasie, gdy walczący znajduje się w walce w zwarciu, może zaatakować (niezależnie od tego czy był Atakującym) swój cel z bonusem +3 do Zręczności
 
 **Kary**:
 - -1 do Zręczności
 - Wymaga co najmniej 13 Budowy
+
+Dopuszczalne bronie:
+- Standardowy miecz świetlny
+- Shoto
+- Pika świetlna
+- Miecz szermierczy
+- Dwa miecze świetlne
+- Podwójny miecz świetlny

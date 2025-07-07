@@ -15,6 +15,7 @@ Formy walki mieczem świetlnym to zbiór kodeksów filozofii walki, sankcjonują
 Próba walki mieczem świetlnym nie znając żadnej techniki wiąże się z karami do walki. Dla opanowania którejkolwiek z technik konieczne jest poznanie podstawowej Formy I. Formę walki można zmieniać w czasie swojej Tury. Należy wziąć pod uwagę, że będąc Obrońcą nie można zmienić stylu walki.
 
 Poznanie nowej szkoły walki wymaga wydania 400 PD. 
+Zdobycie mistrzostwa szkoły walki wymaga wydanie 300 PD.
 
 ![Pasted image 20250410000807.png](/img/user/6%20Obrazy/Pasted%20image%2020250410000807.png)
 
@@ -43,9 +44,11 @@ Bonusy:
 - Wymknięcie - w Testach siłowania można użyć Zręczności zamiast Budowy.
 - Styl i kontrola - w przypadku Remisu pozwala przerzucić jedną kość podczas kolejnego Testu Ataku lub Obrony
 - Precyzyjne cięcie - +2 do Zręczności w ataku w czułe miejsce pancerza odpornego na miecz świetlny
+- Niskie zużycie energii - Makashi nie wymaga trudnych Testów Kondycji
+
 
 Bonusy mistrzowskie:
-- Słaby punkt - podczas ataku, pozwala odjąć oczka z kości, by dodać je do następnej kości (w czasie jednego ataku)
+- Feinta - podczas ataku, pozwala odjąć oczka z kości, by dodać je do następnej kości (w czasie jednego ataku)
 
 Kary:
 - -4 do walki z wieloma wrogami
@@ -63,6 +66,7 @@ Dopuszczalne bronie:
 - +1 do walki z wieloma wrogami
 - +1 do walki z Formą IV
 - Odbijające cięcie - w przypadku odbicia pocisku w czasie, gdy walczący znajduje się w walce w zwarciu, może zaatakować (niezależnie od tego czy był Atakującym) swój cel z bonusem +2 do Zręczności i obrażeniami o poziom wyższymi
+- Niskie zużycie energii - Soresu nie wymaga trudnych Testów Kondycji
 
 Bonusy mistrzowskie:
 - Krąg ochronny - jako Obrońca nie musi się poruszać tam gdzie chce Atakujący. Jesli stoi w miejscu, może przerzucić jedną kość w Obronie. Walczący może zdeklarować, że osłania osobę stojącą bezpośrednio za nim - wówczas ataki w nią mogą zostać wybronione przez walczącego.
@@ -85,6 +89,7 @@ Dopuszczalne bronie:
 - Skok i szarża - pozwala przerzucić jedną kość w ataku podczas pierwszego ciosu po rozbiegu
 - Wycofanie - pozwala na wycofanie się z walki i ruch po Remisie lub Wymknięciu.
 - Trudny teren - pozwala poruszać się po trudnym terenie bez dodatkowych przeszkód
+- Bardzo wysokie zużycie energii - Forma IV może wiązać się z trudnymi Testami Kondycji
 
 Bonusy mistrzowskie:
 - Grad ciosów - pozwala zaatakować przeciwnika drugi raz w ciągu tej samej Tury
@@ -107,7 +112,8 @@ Dopuszczalne bronie:
 - +2 do odbijania pocisków
 - +3 do Testów Siłowania
 - +1 do Zręczności w walce z Formą II i IV
-- Odbijające cięcie - w przypadku odbicia pocisku w czasie, gdy walczący znajduje się w walce w zwarciu, może zaatakować (niezależnie od tego czy był Atakującym) swój cel z bonusem +3 do Zręczności
+- Blasterowa kontra - pozwala odesłać pocisk blasterowy do strzelca z karą -3.
+- Wysokie zużycie energii - Forma V może wiązać się z dodatkowymi Testami Kondycji
 
 Bonusy mistrzowskie:
 - Riposta - po zdobyciu Inicjatywy, można przerzucić jedną kość podczas ataku
@@ -152,13 +158,14 @@ Dopuszczalne bronie:
 - Obrażenia o poziom wyższe
 - Furia - po trzech kolejnych Testach Ataku, można przerzucić jedną kość w Ataku
 - Pewny cios - raz na walkę pozwala na obniżenie poziomu obrażeń w zamian za +2 do Zręczności
+- Wysokie zużycie energii - Forma V może wiązać się z dodatkowymi Testami Kondycji
 
 Bonusy mistrzowskie:
 - Gniew - Tylko Ciemna Strona: Pozwala zamienić 10 punktów Niezłomności na 1 do Zręczności w czasie jednego ataku.
 
 **Kary**:
 - -2 do odbijania pocisków
-- Wezwanie Ciemnej Strony - użycie tego stylu wiąże się zdodatkowym Testem Niezłomności z karą -3.
+- Wezwanie Ciemnej Strony - użycie tego stylu wiąże się z dodatkowym Testem Niezłomności z karą -3.
 
 Dopuszczalne bronie:
 - Standardowy miecz świetlny
