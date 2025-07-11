@@ -6,7 +6,7 @@
 
 Czarne Słońce to jeden z większych przestępczych syndykatów w galaktyce.
 
-Za pośrednictwem różnych pomniejszych organizacji - przede wszystkim przestępczych - Czarne Słońce ma wpływy na większości bardziej znaczących planet, od Światów Jądra po Zewnętrzne Rubieże i jest uważane za najpotężniejszą grupę mafijną w Galaktyce. Organizacja posiada jednego przywódcę, zwanego księciem - z tego co wiecie obecnie jest nim [[Kampania/Postacie/Lorluz (Księżna Czarnego Słońca)\|Lorluz (Księżna Czarnego Słońca)]], poszczególnymi obszarami jej działania zarządza natomiast dziewięciu jego podwładnych zwanych vigami.
+Za pośrednictwem różnych pomniejszych organizacji - przede wszystkim przestępczych - Czarne Słońce ma wpływy na większości bardziej znaczących planet, od Światów Jądra po Zewnętrzne Rubieże i jest uważane za najpotężniejszą grupę mafijną w Galaktyce. Organizacja posiada jednego przywódcę, zwanego księciem - z tego co wiecie obecnie jest nim [[Kampania/Postacie/Lorluz (Księżna Czarnego Słońca)\|Lorluz (Księżna Czarnego Słońca)]], poszczególnymi obszarami jej działania zarządza natomiast dziewięciu jej podwładnych zwanych vigami.
 
 Znacie:
 - [[Kampania/Postacie/Hryl Xylman\|Hryl Xylman]] - vigo zasiadający na [[Kampania/Planety/Taris\|Taris]], który został przez was zabity. Współpracował ze [[Kampania/Grupy/Spiskowcy\|Spiskowacami]].

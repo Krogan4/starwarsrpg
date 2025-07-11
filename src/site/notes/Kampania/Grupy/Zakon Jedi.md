@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/kampania/grupy/zakon-jedi/","dgPassFrontmatter":true}
 ---
 
+![Pasted image 20250711205133.png](/img/user/6%20Obrazy/Pasted%20image%2020250711205133.png)
 Jaki jest, każdy widzi. Organizacja stojąca na straży porządku w Galaktyce. Wygląda na to, że w pewnym stopniu przeniknęły ją osoby o wypaczonym spojrzeniu, dla któych cel uchronienia Galaktyki przed Ciemną Stroną usprawiedliwia niemoralne środki kontroli demokratycznie wybranej władzy i zabijania opozycjonistów.
 
 Znani Jedi:
