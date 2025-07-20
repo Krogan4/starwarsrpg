@@ -48,10 +48,6 @@ Niektóre Akcje (zaznaczone w tabeli) wymagają wykonania Testu. W czasie walki 
 
 **Walka dwiema broniami:** Postać może posługiwać się broniami trzymanymi w dwóch rękach nawet jeżeli ma więcej rąk, chyba że reguła dodatkowa mówi inaczej. Wówczas postać może strzelać jednocześnie z obu broni, a więc wykorzystać dwa razy więcej kości, jednak wówczas dostaje karę -2 do broni w swojej preferowanej ręce i -4 do broni w drugiej ręce. Postać może też strzelić tylko jedną z trzymanych broni. Wówczas nie ma kary za strzał bronią trzymaną w preferowanej ręce i ma karę -2 do broni trzymanej w drugiej ręce. Należy pamiętać o zwiększonych wymaganiach dotyczących Budowy.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Przykład:<br><br>Gracz 1 i Gracz 2 znaleźli się w niebezpiecznej sytuacji. Kilku piratów ich otoczyło i ostrzelali, dlatego gracze schowali się za osłonami. Gracze ustalili między sobą, że jeden z nich postara się przebiec do innej osłony, a drugi będzie go osłaniał.<br><br>**Gracz 1:** Wychylam się (1 segment) i strzelam dwa razy (2 segmenty) do tego gnoja, który przed chwilą do mnie strzelał.<br><br>**Gracz 2**: Przebiegam do drugiej osłony 4 metry stąd (2 segmenty) i padam na ziemię (1 segment).<br><br>**MG:** Gracz 1 wychylił się z zamiarem oddania strzału, gdy Gracz 2 pędem wybiegł zza osłony. Miałeś już strzelać, gdy dostrzegłeś, że przeciwnika już tam nie ma.<br><br>**Gracz 1:** Nie strzelam! Drań na pewno się schował. Celuję tam, gdzie był ostatnio.<br><br>**MG:** Gracz 2 szczęśliwie dotarł do osłony i rzucił się na ziemię. Gracza 1 skupił się na ostatnim miejscu, w którym widział pirata, jednak ten wciąż się nie wyłonił. Nowa tura. |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 ## Utrudnienia testów strzelania
 
 Odległość:
@@ -120,17 +116,17 @@ Poza wymienionymi utrudnieniami może zdarzyć się cała masa innych czynników
 
 **Obrażenia:** Obrażenia zadawane przez każdy granat lub ładunek wybuchowy zmniejszają się stopniowo co stały odcinek promienia eksplozji równy **zasięgowi krytycznemu**. Przy każdym granacie lub ładunku wybuchowym, który zadaje obrażenia podany jest jego **zasięg krytyczny.** Jest to zasięg od epicentrum, w którym zadaje on Rany Krytyczne. Dodatkowo, z każdą jego wielokrotnością poziom zadawanych obrażeń spada. Oznacza to, że granat o zasięgu krytycznym równym 2m będzie zadawał obrażenia krytyczne w obrębie 2m od epicentrum, obrażenia ciężkie w obrębie 4m, obrażenia lekkie w obrębie 6m i draśnięcia (wraz z przewróceniem) w obrębie 8m. Jeżeli postać leży, otrzyma obrażenia poziom niższe (chyba, że jest w epicentrum wybuchu). Jeśli postać od epicentrum oddziela porządna osłona, która ulegnie zniszczeniu, również otrzyma poziom niższe obrażenia – premie kumulują się.
 
-**Uskok przed granatem**: Postać widząca nadlatujący granat może wykonać Test Czujności/Wypatrywania -5 by zorientować się w sytuacji. Następnie może wykonać Test Zręczności, by odskoczyć gdzieś obok lub Test Telekinezy -3 by granat odrzucić w losowym kierunku lub Test Telekinezy -7, by odrzucić granat tam skąd przyleciał – musi zdecydować wcześniej.
+**Uskok przed granatem**: Postać widząca nadlatujący granat może wykonać Test Czujności -5 by zorientować się w sytuacji. Następnie może wykonać Test Zręczności, by odskoczyć gdzieś obok lub Test Telekinezy -3 by granat odrzucić w losowym kierunku lub Test Telekinezy -7, by odrzucić granat tam skąd przyleciał – musi zdecydować wcześniej.
 
 ## Strzelanie serią{ #4e41c7}
 
 Niektóre bronie opisane zostały wskaźnikiem szybkostrzelności. Można nimi strzelać serią. Taki ostrzał rozpoczyna się w pierwszym segmencie ostrzeliwania i trwa do jego zakończenia.
 
-| **Rodzaj serii** | **Liczba segmentów** | **Ilość wystrzelonych promieni/pocisków** |
-| ---------------- | -------------------- | ----------------------------------------- |
-| **Seria krótka** | 1 segment            | X                                         |
-| **Seria długa**  | 2 segmenty           | 3X                                        |
-| **Ogień ciągły** | 3 segmenty           | 6X                                        |
+| **Rodzaj serii** | **Liczba segmentów** | **Ilość wystrzelonych pocisków** |
+| ---------------- | -------------------- | -------------------------------- |
+| **Seria krótka** | 1 segment            | X                                |
+| **Seria długa**  | 2 segmenty           | 3X                               |
+| **Ogień ciągły** | 3 segmenty           | 6X                               |
 
 Gdzie X oznacza wskaźnik szybkostrzelności używanej broni.
 
@@ -146,7 +142,7 @@ Do 10 metrów – Lekkie oraz Draśnięcia
 Do 20 metrów – tylko Draśnięcia
 
 Trafienie zadaje tyle Draśnięć, ile strzelec osiągnął Punktów Sukcesu. Bronie te nie posiadają w ogóle Punktów Przebicia, chyba że opis konkretnej broni mówi inaczej.
-![Pasted image 20241222021916.png](/img/user/6%20Obrazy/Pasted%20image%2020241222021916.png)
+![Pasted image 20250720233016.png](/img/user/6%20Obrazy/Pasted%20image%2020250720233016.png)
 
 ## Broń jonowa{ #b115bd}
 

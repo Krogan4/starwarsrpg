@@ -38,7 +38,7 @@ Kiedy postać posługująca się dwiema broniami do walki wręcz stanie przeciwk
 Bronie do walki wręcz dzielą się na kilka kategorii według ich długości. Jeśli któryś z walczących ma broń dłuższą niż jego przeciwnik, dostaje Bonus +1 do Testów w walce. Kategorie to: 
 Dotyk, Bardzo Krótki, Krótki, Średni, Długi, Bardzo Długi.
 
-Korzystanie z długiej broni może wiązać się z dodatkowymi karami podczas walki w tłoku lub w ciasnych pomieszczeniach. Wówczas bronie tracą modyfikator do Zręczności w Obronie oraz dostają kary: Średni -2, Długi -4, Bardzo długi -8.
+Korzystanie z długiej broni może wiązać się z dodatkowymi karami podczas walki w tłoku lub w ciasnych pomieszczeniach. Wówczas bronie tracą modyfikator do Zręczności w Obronie oraz dostają kary: Średni -1, Długi -2, Bardzo długi -4.
 
 Istoty również są podzielone na kategorie według ich wielkości.
 

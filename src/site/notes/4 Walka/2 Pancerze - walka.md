@@ -11,7 +11,7 @@ Redukcja 2: Krytyczna > Lekka; Ciężka > Draśnięcie; Lekka > Brak obrażeń
 Redukcja 3: Krytyczna > Draśnięcie; Ciężka > Brak obrażeń
 Redukcja 4: Krytyczna > Brak obrażeń
 
-Należy zauważyć, że wiele broni ma podane także **Punkty Przebicia**. Atrybut ten oznacza, o ile należy obniżyć poziom Redukcji Pancerza, zanim ten zredukuje otrzymaną ranę. Wbrew nazwie, Przebicie nie musi być związane z faktycznym przebiciem pancerze przez ciało obce. Może wynikać np. z dużej siły kinetycznej, którą pancerz przyjął.
+Należy zauważyć, że wiele broni ma podane także **Punkty Przebicia**. Atrybut ten oznacza, o ile należy obniżyć poziom Redukcji Pancerza, zanim ten zredukuje otrzymaną ranę. Wbrew nazwie, Przebicie nie musi być związane z faktycznym przebiciem pancerza przez ciało obce. Może wynikać np. z dużej siły kinetycznej, którą pancerz przyjął.
 
 **Wytrzymałość Pancerza** – materiał, który chroni jego posiadacza przed niechcianymi skutkami, przyjmuje na siebie potężną siłę uderzeń czy eksplozji, dlatego nie można oczekiwać, że pozostanie nietknięty. Trzeba go co jakiś czas zreperować lub zastąpić nowym.
 

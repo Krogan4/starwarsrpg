@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/4-walka/1-rany/","dgPassFrontmatter":true}
 ---
 
-Każde trafienie niezatrzymane przez pancerz wiąże się z otrzymaniem rany. Ranna postać mniej sprawnie wykonuje poszczególne czynności, dlatego często w walce wystarczy zranić przeciwnika, by ten stał się znacznie mniejszym zagrożeniem. Od testu [[3 Tworzenie bohatera/Umiejętności#^56ad79\|Odporności na ból]] zależy jak bardzo problematyczna okaże się dana rana. W tabeli poniżej rozpisano rodzaje ran, PT testu Odporności na Ból oraz karę, jaką za sobą niesie przy zdanym oraz niezdanym teście.
+Każde trafienie niezatrzymane przez pancerz wiąże się z otrzymaniem Rany. Ranna postać mniej sprawnie wykonuje poszczególne czynności, dlatego często w walce wystarczy zranić przeciwnika, by wyeliminować zagrożenie z jego strony. Od testu [[3 Tworzenie bohatera/Umiejętności#^56ad79\|Odporności na ból]] zależy jak bardzo problematyczna okaże się dana rana. W tabeli poniżej rozpisano rodzaje ran, PT testu Odporności na Ból oraz karę, jaką za sobą niesie przy zdanym oraz niezdanym teście.
 
-| **Rodzaj rany**    | **PT Odporności na Ból** | **Kara**                          |
-| ------------------ | ------------------------ | --------------------------------- |
-| **Draśnięcie**     | 0                        | -0,5/-1                           |
-| **Lekka rana**     | -2                       | -2/-5, strata segmentu            |
-| **Cieżka rana**    | -5                       | -5/-8, strata segmentu, powalenie |
-| **Krytyczna rana** | -                        | -15                               |
+| **Rodzaj rany**    | **PT Odporności na Ból** | **Kara**                                      |
+| ------------------ | ------------------------ | --------------------------------------------- |
+| **Draśnięcie**     | 0                        | -0,5/-1                                       |
+| **Lekka rana**     | -2                       | -2/-5, strata Segmentu                        |
+| **Cieżka rana**    | -5                       | -5 strata Segmentu/-8, strata Tury, powalenie |
+| **Krytyczna rana** | -                        | -15                                           |
 
 To czy kara powinna być stosowana dla danej czynności powinno opierać się na zdrowym rozsądku. Rana nogi nie przeszkadza w strzelaniu, ale w bieganiu już tak. Domyślnie Rany i Pancerze na głowie powodują kary do Zmysłów, Charakteru, walki.
 
@@ -26,7 +26,7 @@ Dodatkowo, trafienie w głowę lub inne miejsce witalne zwiększa poziom rany, n
 | **16, 17** | Prawa noga                        |
 | **18, 19** | Lewa noga                         |
 
-Postać, która otrzymała ranę Krytyczną umiera, jeżeli nie otrzyma pierwszej pomocy w najbliższym czasie. Czas ten można określić jako (Budowa + Odporność na Ból) * 3 minut. Dla osób z dwoma sercami lub systemem wspomagającym, może być nawet trzykrotnie dłuższy.
+Postać, która otrzymała ranę Krytyczną umiera, jeżeli nie otrzyma pierwszej pomocy w najbliższym czasie. Czas ten można określić jako Budowa + Odporność na Ból minut. Dla osób z dwoma sercami lub systemem wspomagającym, może być dwukrotnie dłuższy.
 
 Postać, która otrzymała dwie rany Krytyczne ginie od razu. Tak samo postać, która otrzymała ranę Krytyczną w głowę lub inne miejsce witalne.
 

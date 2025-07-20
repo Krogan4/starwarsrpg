@@ -28,6 +28,7 @@ Bonusy mistrzowskie:
 
 **Kary**:
 - -2 do odbijania pocisków
+- -1 do Zręczności w Obronie
 - Wezwanie Ciemnej Strony - użycie tego stylu wiąże się z dodatkowym Testem Niezłomności z karą -3.
 
 Dopuszczalne bronie:
