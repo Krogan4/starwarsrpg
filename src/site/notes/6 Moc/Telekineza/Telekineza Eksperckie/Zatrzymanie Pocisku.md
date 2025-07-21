@@ -4,7 +4,7 @@
 
 ![Pasted image 20250201014636.png](/img/user/6%20Obrazy/Pasted%20image%2020250201014636.png)**Wymagania:** Zatrzymanie osoby/przedmiotu
 **PE:** 15 za Turę
-**Test:** -12 (Inicjacja), -5 (Tura)
+**Test:** -12 (Inicjacja)
 **Użycie:** Akcja Darmowa
 
 **Opis:** Użytkownik kontruje nadlatujący pocisk, wiązkę blasterową lub inny szybko poruszający się obiekt, by chwilowo zatrzymać jej energię kinetyczną. Po określonym czasie, obiekt odzyskuje swoje właściwości i kontynuuje lot. Akcja darmowa – nie zużywa żadnego segmentu. Nie działa przy strzałach z odległości mniejszej niż 5 metrów, chyba że użytkownik przygotował się do tego zawczasu (spodziewał się wystrzału) – wówczas test trudniejszy o -3.

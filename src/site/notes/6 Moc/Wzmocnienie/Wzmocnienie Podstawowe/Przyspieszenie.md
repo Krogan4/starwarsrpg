@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/przyspieszenie/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250201192231.png](/img/user/6%20Obrazy/Pasted%20image%2020250201192231.png)
+![Pasted image 20250720235353.png](/img/user/Pasted%20image%2020250720235353.png)
 **Wymagania:** Przypływ Sił
 **PE:** 5 (Segment)
 **Test:** -4 (Tura)

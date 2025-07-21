@@ -6,9 +6,9 @@
 **Wymagania:** Nawiedzenie ●○○
 **PE:** 15 (Tura)
 **Test:** -8
-**Użycie:** 2 Segmenty
+**Użycie:** 3 Segmenty
 
-**Opis:** Pozwala użytkownikowi na stworzenie iluzorycznej projekcji siebie samego lub przedmiotu w określonym przez siebie miejscu. Iluzja jest nieodróżnialna od oryginału i mogą towarzyszyć jej dźwięki oraz zapachy (może dotyczyć także samych dźwięków lub zapachów), jednak jest nienamacalna. Każdy przypadek przeniknięcia iluzji przez jakiś obiekt może spowodować, że przeciwnicy przejrzą podstęp. Aktywacja wymaga poświęcenia 1 Tury.
+**Opis:** Pozwala użytkownikowi na stworzenie iluzorycznej projekcji siebie samego lub przedmiotu w określonym przez siebie miejscu. Iluzja jest nieodróżnialna od oryginału i mogą towarzyszyć jej dźwięki oraz zapachy (może dotyczyć także samych dźwięków lub zapachów), jednak jest nienamacalna. Każdy przypadek przeniknięcia iluzji przez jakiś obiekt może spowodować, że przeciwnicy przejrzą podstęp.
 
 | Poziom     | ○○○ | ●○○ | ●●○ | ●●● |
 | ---------- | --- | --- | --- | --- |

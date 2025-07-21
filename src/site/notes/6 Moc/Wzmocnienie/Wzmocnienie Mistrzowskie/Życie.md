@@ -8,7 +8,7 @@
 **Test:** -5
 **Użycie:** 3 Segmenty
 
-**Opis:** Użytkownik skupia wszelkie swoje siły witalne, by obniżyć poziom otrzymanej Rany. Traci Karę wynikającą ze starej Rany i automatycznie zdaje Test Odporności na Ból nowej Rany. Może użyć ponownie na Ranie, której poziom już zmniejszył.
+**Opis:** Użytkownik skupia wszelkie swoje siły witalne, by obniżyć poziom otrzymanej Rany. Obniża również karę, automatycznie zdając Test Odporności na Ból nowej rany. Może użyć ponownie na Ranie, której poziom już zmniejszył.
 
 | Poziom     | ○○○ | ●●○ | ●●● |
 | ---------- | --- | --- | --- |

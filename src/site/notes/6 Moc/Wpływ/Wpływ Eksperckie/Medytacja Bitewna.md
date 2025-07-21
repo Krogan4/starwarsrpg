@@ -6,7 +6,7 @@
 **Wymagania:** Nawiedzenie ●○○, Odwaga ●○○
 **PE:** 10 (10 minut)
 **Test:** -7 (Tura)
-**Użycie:** 2 Segmenty
+**Użycie:** 3 Segmenty
 
 **Opis:** Użytkownik skupia się na otaczającym go polu walki i wywiera wpływ na określoną liczbę walczących. Medytacja bojowa zapewnia walczącym jeden sukces w testach Morale oraz Niezłomności oraz Odporności na Ból, a także synchronizację działań bez konieczności porozumiewania się. Ponadto, zapewnia jedną porażkę przy testach Morale wśród przeciwników. Użytkownik nie może brać udziału w walce i musi osiągnąć najwyższy stopień skupienia.
 

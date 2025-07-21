@@ -8,7 +8,7 @@
 **Test:** -5
 **Użycie:** Akcja Darmowa
 
-**Opis:** Użytkownik żywi się negatywnymi emocjami innych osób, dzięki czemu odzyskuje utracone Punkty Energii. Do negatywnych emocji może należeć strach, złość lub zawiść. Użytkownik dostaje 1 Punkt Energii na Turę za każdą osobę o WnM do 10 włącznie i 2 Punkty Energii na Turę za każdą osobę o WnM powyżej 10. Użytkownik jest w stanie zdobyć nadmiarowy poziom esencji (do 20 maksymalnie), jednak traci je wraz z wypoczynkiem.
+**Opis:** Użytkownik żywi się negatywnymi emocjami innych osób, dzięki czemu odzyskuje utracone Punkty Energii. Do negatywnych emocji może należeć strach, złość lub zawiść. Użytkownik dostaje 1 Punkt Energii na Turę za każdą osobę o WnM do 10 włącznie i 2 Punkty Energii na Turę za każdą osobę o WnM powyżej 10. Użytkownik jest w stanie zdobyć nadmiarowy poziom esencji, jednak traci je wraz z wypoczynkiem.
 ![Pasted image 20250202195405.png](/img/user/6%20Obrazy/Pasted%20image%2020250202195405.png)
 
 
