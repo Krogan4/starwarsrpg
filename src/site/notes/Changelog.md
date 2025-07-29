@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 29.07.2025
+- Sabaac - dodano reguły gry w sabaka
+- Używki - dodano używki i ich działanie
+- Formy i Techniki Walki Mieczem - dodano specjalną regułę dotyczącą Budowy w Formie V - obrażenia są o poziom wyższe wyłącznie, gdy postać ma więcej Budowy niż przeciwnik
+- Okręty kosmiczne - dodano Utrzymanie Statku - informacje o kosztach paliwa i żywności
+- Okręty kosmiczne - dodano koszty i czas podróży kosmicznych
+- Okręty kosmiczne - dodano rodzaje okrętów
 ## 25.05.2025
 - Wyposażenie: Dodano pistolet repulsorowy oraz karabin repulsorowy - bronie działające jak Pchnięcie Mocy.
 ## 10.04.2025

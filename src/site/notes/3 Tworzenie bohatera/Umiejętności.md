@@ -48,6 +48,8 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 - **Zwinne dłonie (Zr)** – określa skuteczność wcielania w życie wszelkiego rodzaju zręcznych sztuczek wykonywanych dłońmi szybko lub niepostrzeżenie. Będzie to między innymi oszukiwanie w kartach czy inne sztuczki.
 
+{ #c2b451}
+
 - **Kradzież kieszonkowa (Zr)** – umiejętność odbierania innym postaciom ich podręcznych przedmiotów bez wiedzy właściciela. Dotyczy umiejętnego poruszania się w tłumie, niezwracania na siebie uwagi, znajomości złodziejskich sztuczek i zwinnych ruchów.
 
 - **Otwieranie zamków (Zr)** – umiejętność otwierania zarówno klasycznych zamków, jak i zamków elektronicznych.
@@ -106,6 +108,8 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 - **Czujność (Zm)** – określa szansę bohatera na dostrzeżenie pewnych nieoczywistych rzeczy takich jak zagrożenie, w sytuacji, gdy się tego nie spodziewa.
 
+{ #1e8556}
+
 - **Wypatrywanie (Zm)** – określa jak wiele postać może zobaczyć, gdy się na tym skupia.
 
 { #941113}
@@ -117,6 +121,8 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 - **Przeszukiwanie (Zm)** – umiejętność odnajdywania rzeczy ukrytych bądź trudnych do znalezienia. Postać cechująca się wysoką umiejętnością obstukuje ściany, by znaleźć ukryte przejścia, maca materace z nadzieją na znalezienie schowanej w nich broni lub znajduje małą kartę chip w zagraconym pokoju, mimo presji czasu.
 
 - **Wyczucie emocji (Zm)** – umiejętność dostrzegania kryjących się w postaciach pobudek i stłumionych emocji.
+{ #0a9c42}
+
 
 ### Charakter
 

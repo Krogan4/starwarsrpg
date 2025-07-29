@@ -108,7 +108,7 @@ Dopuszczalne bronie:
 ## [[Formy Walki Mieczem/Forma V (Agresja)\|Forma V (Agresja)]]
 
 **Bonusy**:
-- Obrażenia o poziom wyższe
+- Obrażenia o poziom wyższe (jeśli Budowa wyższa niż u przeciwnika)
 - +2 do odbijania pocisków
 - +3 do Testów Siłowania
 - +1 do Zręczności w walce z Formą II i IV
@@ -120,7 +120,6 @@ Bonusy mistrzowskie:
 
 **Kary**:
 - -1 do Zręczności
-- Wymaga co najmniej 13 Budowy
 
 Dopuszczalne bronie:
 - Standardowy miecz świetlny
