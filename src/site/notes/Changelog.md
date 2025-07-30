@@ -9,6 +9,7 @@
 - Okręty kosmiczne - dodano Utrzymanie Statku - informacje o kosztach paliwa i żywności
 - Okręty kosmiczne - dodano koszty i czas podróży kosmicznych
 - Okręty kosmiczne - dodano rodzaje okrętów
+- Profesje: Jedi i Użytkownik Mocy - dodano informacje o początkowych PD do wydania na Techniki Mocy.
 ## 25.05.2025
 - Wyposażenie: Dodano pistolet repulsorowy oraz karabin repulsorowy - bronie działające jak Pchnięcie Mocy.
 ## 10.04.2025

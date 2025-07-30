@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/7-pozostale-mechaniki/sabaac/","dgPassFrontmatter":true}
 ---
 
-![Pasted image 20250729213641.png](/img/user/Pasted%20image%2020250729213641.png)
+![Pasted image 20250729213641.png](/img/user/6%20Obrazy/Pasted%20image%2020250729213641.png)
 
 Sabaac to najpopularniejsza w Galaktyce gra karciana, która funkcjonuje od kilku tysięcy lat. Polega na uzyskaniu na kartach wyniku 23, -23 lub jak najbliższego do tych wartości, jednak w grze zastosowano uproszczoną wersję - dostosowaną do kilku prostych Testów.
 Odmian sabacca jest bardzo wiele.

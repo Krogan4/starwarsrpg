@@ -11,7 +11,7 @@ Brak odpowiedzialności przed Zakonem Jedi ma jednak swoje wady. Taka osoba nie 
 
 Użytkownicy Mocy zwykle są samoukami, jednak zdarza się, że poznają tajniki Mocy od innego samotnika lub wyrzutka z Zakonu albo odkrywają stare księgi i holokrony zawierające informacje o tajnikach.
 
-Zaczyna z premią do Arkana Mocy wynoszącą 5.
+Zaczyna z premią do Arkana Mocy wynoszącą 5 oraz 650 PD do wydania na Techniki Mocy.
 
 [**Do grania jako Jedi wymagane jest min. 10 Wrażliwości na Moc**]
 
