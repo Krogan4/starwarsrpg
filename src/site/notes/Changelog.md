@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 02.08.2025
+- Umiejętności: Usunięto otwieranie zamków - większość zamków jest elektronicznych i należy je otwierać przy pomocy Komputery. Klasyczne zamki można otworzyć przy pomocy Zwinnych Dłoni.
+- Umiejętności: Usunięto Psychologia - powielone z Wyczuciem Emocji.
+- Karta Postaci: Dodano kartę postaci wraz z linkiem do pobrania
 ## 29.07.2025
 - Sabaac - dodano reguły gry w sabaka
 - Używki - dodano używki i ich działanie

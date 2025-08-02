@@ -8,6 +8,7 @@
 [[3 Tworzenie bohatera/Umiejętności\|Umiejętności]]
 [[3 Tworzenie bohatera/Sztuczki\|Sztuczki]]
 [[3 Tworzenie bohatera/Wyposażenie\|Wyposażenie]]
+[[3 Tworzenie bohatera/Karta Postaci\|Karta Postaci]]
 
 W czasie gry będziesz miał możliwość wcielić się w postać świata Gwiezdnych Wojen, która od podstaw może być wymyślona przez ciebie! Każdy bohater musi zostać opisany liczbami i statystykami a pomoże ci w tym poniższy poradnik.
 

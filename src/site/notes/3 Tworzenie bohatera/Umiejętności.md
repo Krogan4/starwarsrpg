@@ -28,15 +28,31 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 ### Zręczność
 
-- **Pojazdy kosmiczne (Zr)** – umiejętność prowadzenia niewielkich statków kosmicznych, myśliwców kosmicznych i atmosferycznych (airspeedery)
+- **Akrobatyka** – ogólna zwinność ciała i koordynacja. Dotyczy m.in. skoczności, utrzymywania równowagi czy przemieszczania się w stanie nieważkości.
+{ #41a766}
 
-- **Pojazdy naziemne (Zr**) – umiejętność prowadzenia pojazdów poruszających się po ziemi za pomocą kół lub gąsienic a także lewitujących nisko nad ziemią ścigaczy (landspeedery, jumpspeedery, podracery, osobowe airspeedery)
 
 - **Broń lekka (Zr)** – dotyczy wszelkiego rodzaju broni krótkiej, takiej jak pistolety czy pistolety maszynowe. Poza blasterami, umiejętność ta odpowiada za strzelanie z tradycyjnej broni palnej lekkiej.
 
 - **Broń ciężka (Zr)** – dotyczy wszelkiego rodzaju broni długiej, takiej jak karabiny, strzelby czy stacjonarne bronie maszynowe. Poza blasterami, umiejętność ta odpowiada za strzelanie z tradycyjnej broni palnej ciężkiej.
 
 - **Broń okrętowa (Zr)** – dotyczy obsługi turbolaserów, wieżyczek okrętowych i stacji rakietowych zamontowanych na statkach i stacjach kosmicznych a także elementach fortyfikacji.
+
+- **Broń ręczna krótka (Zr)** – dotyczy broni do walki w zwarciu, której rozmiary można uznać za względnie krótkie. Będą to wszelkiego rodzaju wibronoże, wibrosztylety, inne krótkie wibroostrza i krótkie miecze świetlne, a także tradycyjne krótkie ostrza i krótka broń obuchowa.
+
+- **Broń ręczna długa (Zr)** – dotyczy broni do walki w zwarciu, której rozmiary można uznać za względnie długie. Będą to przede wszystkim miecze świetlne, ale także dłuższe wibroostrza czy długie ostrza tradycyjne lub długa broń obuchowa
+
+- **Broń ręczna egzotyczna (Zr)** – dotyczy nietypowych broni do walki w zwarciu takich jak miecze o podwójnych ostrzach, bicze, piki itp.
+
+- **Kradzież kieszonkowa (Zr)** – umiejętność odbierania innym postaciom ich podręcznych przedmiotów bez wiedzy właściciela. Dotyczy umiejętnego poruszania się w tłumie, niezwracania na siebie uwagi, znajomości złodziejskich sztuczek i zwinnych ruchów.
+
+{ #ecd097}
+
+- **Pojazdy kosmiczne (Zr)** – umiejętność prowadzenia niewielkich statków kosmicznych, myśliwców kosmicznych i atmosferycznych (airspeedery)
+
+- **Pojazdy naziemne (Zr**) – umiejętność prowadzenia pojazdów poruszających się po ziemi za pomocą kół lub gąsienic a także lewitujących nisko nad ziemią ścigaczy (landspeedery, jumpspeedery, podracery, osobowe airspeedery)
+
+- **Rzucanie (Zr/Bd)** – określa jak dobrze postać radzi sobie w rzucaniu przedmiotami. Najczęściej dotyczy granatów, noży i toporów do rzucania lub kamieni, ale mogą być to dowolne przedmioty, którymi da się rzucić. Również pierwsza faza znanego ataku rycerzy Jedi polegającego na rzucie mieczem świetlnym zależna jest od tej umiejętności.
 
 - **Skradanie się (Zr)** – umiejętność bezszelestnego przemykania obok innych istot. Osoba, która doskonali tę umiejętność może z powodzeniem oszukać zmysły czujnych strażników pozostając w cieniu lub cicho stawiając kroki.
 
@@ -46,85 +62,70 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 { #075005}
 
-- **Zwinne dłonie (Zr)** – określa skuteczność wcielania w życie wszelkiego rodzaju zręcznych sztuczek wykonywanych dłońmi szybko lub niepostrzeżenie. Będzie to między innymi oszukiwanie w kartach czy inne sztuczki.
+- **Zwinne dłonie (Zr)** – określa skuteczność wcielania w życie wszelkiego rodzaju zręcznych sztuczek wykonywanych dłońmi szybko lub niepostrzeżenie. Będzie to między innymi oszukiwanie w kartach czy otwieranie klasycznych zamków.
 
 { #c2b451}
-
-- **Kradzież kieszonkowa (Zr)** – umiejętność odbierania innym postaciom ich podręcznych przedmiotów bez wiedzy właściciela. Dotyczy umiejętnego poruszania się w tłumie, niezwracania na siebie uwagi, znajomości złodziejskich sztuczek i zwinnych ruchów.
-
-- **Otwieranie zamków (Zr)** – umiejętność otwierania zarówno klasycznych zamków, jak i zamków elektronicznych.
-
-{ #ecd097}
-
-- **Broń ręczna krótka (Zr)** – dotyczy broni do walki w zwarciu, której rozmiary można uznać za względnie krótkie. Będą to wszelkiego rodzaju wibronoże, wibrosztylety, inne krótkie wibroostrza i krótkie miecze świetlne, a także tradycyjne krótkie ostrza i krótka broń obuchowa.
-
-- **Broń ręczna długa (Zr)** – dotyczy broni do walki w zwarciu, której rozmiary można uznać za względnie długie. Będą to przede wszystkim miecze świetlne, ale także dłuższe wibroostrza czy długie ostrza tradycyjne lub długa broń obuchowa
-
-- **Broń ręczna egzotyczna (Zr)** – dotyczy nietypowych broni do walki w zwarciu takich jak miecze o podwójnych ostrzach, bicze, piki itp.
 
 - **Walka wręcz (Zr)** – dotyczy walki bez użycia broni lub za pomocą broni, której stosowanie nie odbiega od tradycyjnej walki wręcz. Jest to używanie rąk i nóg w celu pokonania przeciwnika. Do broni, którą uznaje się za broń do walki wręcz należą kastety, naręczne wibroostrza, szpikulce butów.
 
 { #93351b}
 
-- **Akrobatyka** – ogólna zwinność ciała i koordynacja. Dotyczy m.in. skoczności, utrzymywania równowagi czy przemieszczania się w stanie nieważkości.
-{ #41a766}
-
 
 ### Budowa
 { #e3b10a}
 
-
-- **Pływanie (Bd)** – określa zdolności i doświadczenie postaci w pływaniu i nurkowaniu. Dzięki niej, postać jest w stanie pływać szybciej, lepiej zarządzać siłami, stosować więcej pływackich styli, nurkować głębiej i dłużej wstrzymywać oddech.
-
-- **Wspinaczka (Bd)** – określa zdolności i doświadczenie postaci we wspinaczce. Dzięki niej, postać jest w stanie szybciej pokonywać pionowe wzniesienia, lepiej zarządzać siłami i stosować bardziej wyrafinowane techniki.
-
 - **Kondycja (Bd)** – umiejętność, od której zależy jak długo postać jest w stanie wytrzymać wysiłek fizyczny. Może być to np. długi bieg, całodzienny marsz czy ciężka praca. Test kondycji może także pojawić się obok innych umiejętności (pływanie, wspinaczka, ujeżdżanie itd.) jeżeli są one szczególnie obciążające dla organizmu.
-
-{ #6d259f}
-
-- **Ujeżdżanie (Bd)** – dosiadanie dzikich i oswojonych, acz niesfornych stworzeń. Od tej umiejętności zależy jak dobrze postać radzi sobie w siodle.
 
 - **Odporność na ból (Bd)** – określa jak wiele bólu postać jest w stanie znieść. Udany test odporności na ból sprawia, że postać otrzymuje o połowę niższe kary wynikające z obrażeń niż w przypadku niezdanego testu.
 
-{ #56ad79}
+- **Pływanie (Bd)** – określa zdolności i doświadczenie postaci w pływaniu i nurkowaniu. Dzięki niej, postać jest w stanie pływać szybciej, lepiej zarządzać siłami, stosować więcej pływackich styli, nurkować głębiej i dłużej wstrzymywać oddech.
 
-- **Rzucanie (Zr/Bd)** – określa jak dobrze postać radzi sobie w rzucaniu przedmiotami. Najczęściej dotyczy granatów, noży i toporów do rzucania lub kamieni, ale mogą być to dowolne przedmioty, którymi da się rzucić. Również pierwsza faza znanego ataku rycerzy Jedi polegającego na rzucie mieczem świetlnym zależna jest od tej umiejętności.
+- **Ujeżdżanie (Bd)** – dosiadanie dzikich i oswojonych, acz niesfornych stworzeń. Od tej umiejętności zależy jak dobrze postać radzi sobie w siodle.
+
+- **Wspinaczka (Bd)** – określa zdolności i doświadczenie postaci we wspinaczce. Dzięki niej, postać jest w stanie szybciej pokonywać pionowe wzniesienia, lepiej zarządzać siłami i stosować bardziej wyrafinowane techniki.
 
 ### Zmysły
 
-- **Udawanie (Zm)** – umiejętność wcielania się w kogoś, kim się nie jest. Określa, jak umiejętnie dana postać jest w stanie zachowywać się jak ktoś konkretny bądź przedstawiciel jakiejś grupy, którą udaje. Taka osoba umie dopasować do siebie odpowiedni strój, sprawić, by dobrze na niej leżał, przyłożyć odpowiedni nacisk na prawidłowy chód i wyraz twarzy, a także maniery głosowe i akcenty. Nie znaczy to jednak, że bez perswazji przekona kogoś w rozmowie, że jest tym za kogo się podaje.
-
-- **Nawigacja (Zm)** – umiejętność odpowiedzialna za orientowanie się w przestrzeni kosmicznej. Pomaga w określaniu odległości, poznawaniu charakterystycznych obiektów, przewidywaniu zachowani ciał niebieskich. Użyteczna szczególnie przy planowaniu lotów nadprzestrzennych, gdy komputer zawodzi.
-
-- **Przygotowanie pułapki (Zm)** – dotyczy przygotowania pułapek środowiskowych, dobrego kamuflowania pułapek i odpowiedniego wyczucia czasu, jeżeli wymagany. Nie ma jednak związku ze zrozumieniem działania i konstruowania pułapek opierających się o poszczególne technologie (np. bomby, pułapki elektryczne itp).
-
-- **Tropienie (Zm)** – określa skuteczność postaci w dostrzeganiu śladów pozostawionych przez istoty żywe.
-
-{ #e3cbc0}
-
-- **Psychologia (Zm)** – zdolność oceny charakteru, zachowań, skłonności i predyspozycji napotkanej osoby. Użyteczne, przy próbie przekonania kogoś do własnych racji lub ocenie jego prawdomówności.
-
-- **Sztuka przetrwania (Zm)** – określa zdolności survivalowe postaci, do których należy m.in. umiejętność zdobycia pożywienia, wody, znajomość gatunków i wiele innych.
-
 - **Czujność (Zm)** – określa szansę bohatera na dostrzeżenie pewnych nieoczywistych rzeczy takich jak zagrożenie, w sytuacji, gdy się tego nie spodziewa.
-
-{ #1e8556}
-
-- **Wypatrywanie (Zm)** – określa jak wiele postać może zobaczyć, gdy się na tym skupia.
-
-{ #941113}
 
 - **Nasłuchiwanie (Zm)** – określa jak wiele postać może usłyszeć, gdy się na tym skupia.
 
 { #ba32e1}
 
+
+- **Nawigacja (Zm)** – umiejętność odpowiedzialna za orientowanie się w przestrzeni kosmicznej. Pomaga w określaniu odległości, poznawaniu charakterystycznych obiektów, przewidywaniu zachowani ciał niebieskich. Użyteczna szczególnie przy planowaniu lotów nadprzestrzennych, gdy komputer zawodzi.
+
+- **Psychologia (Zm)** – 
+
 - **Przeszukiwanie (Zm)** – umiejętność odnajdywania rzeczy ukrytych bądź trudnych do znalezienia. Postać cechująca się wysoką umiejętnością obstukuje ściany, by znaleźć ukryte przejścia, maca materace z nadzieją na znalezienie schowanej w nich broni lub znajduje małą kartę chip w zagraconym pokoju, mimo presji czasu.
 
-- **Wyczucie emocji (Zm)** – umiejętność dostrzegania kryjących się w postaciach pobudek i stłumionych emocji.
-{ #0a9c42}
+- **Przygotowanie pułapki (Zm)** – dotyczy przygotowania pułapek środowiskowych, dobrego kamuflowania pułapek i odpowiedniego wyczucia czasu, jeżeli wymagany. Nie ma jednak związku ze zrozumieniem działania i konstruowania pułapek opierających się o poszczególne technologie (np. bomby, pułapki elektryczne itp).
+
+- **Sztuka przetrwania (Zm)** – określa zdolności survivalowe postaci, do których należy m.in. umiejętność zdobycia pożywienia, wody, znajomość gatunków i wiele innych.
+
+- **Tropienie (Zm)** – określa skuteczność postaci w dostrzeganiu śladów pozostawionych przez istoty żywe.
+
+{ #e3cbc0}
+
+- **Udawanie (Zm)** – umiejętność wcielania się w kogoś, kim się nie jest. Określa, jak umiejętnie dana postać jest w stanie zachowywać się jak ktoś konkretny bądź przedstawiciel jakiejś grupy, którą udaje. Taka osoba umie dopasować do siebie odpowiedni strój, sprawić, by dobrze na niej leżał, przyłożyć odpowiedni nacisk na prawidłowy chód i wyraz twarzy, a także maniery głosowe i akcenty. Nie znaczy to jednak, że bez perswazji przekona kogoś w rozmowie, że jest tym za kogo się podaje.
+
+{ #1e8556}
+
+- **Wyczucie emocji (Zm)** – umiejętność dostrzegania kryjących się w postaciach pobudek i stłumionych emocji. Zdolność oceny charakteru, zachowań, skłonności i predyspozycji napotkanej osoby. Użyteczne, przy próbie przekonania kogoś do własnych racji lub ocenie jego prawdomówności.^0a9c42
+
+- **Wypatrywanie (Zm)** – określa jak wiele postać może zobaczyć, gdy się na tym skupia.
+
+{ #941113}
 
 
 ### Charakter
+
+- **Gadanina (Ch)** – umiejętność zagadania ludzi dookoła, zdobycia zaufania, wyciągnięcia od nich informacji.
+
+- **Odwaga (Ch)** – umiejętność odzwierciedlająca opanowanie umysłu i ciała w sytuacjach skrajnego niebezpieczeństwa. Przydatna, gdy postać zostaje otoczona przez szwadron przeciwników, gdy dzika bestia usiłuje ją połknąć lub gdy mierzy się wzrokiem ze znanym łowcą nagród.
+
+{ #ee2a45}
+
 
 - **Opieka nad zwierzętami (Ch)** – umiejętność zawierania nici porozumienia z istotami niższego rzędu. Dzięki niej postać jest w stanie nawiązać przyjazne relacje z dzikimi stworzeniami.
 
@@ -132,27 +133,26 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 { #5e52ee}
 
+
 - **Niezłomność (Ch)** – psychiczny odpowiednik kondycji, który odpowiada za upór w dążeniu do zamierzonego celu. Użyteczna w sytuacji, gdy bitwa wydaje się już przegrana, podczas tortur, gdy przeciwnik chce wyciągnąć kluczowe informacje, a czasem nawet gdy ktoś próbuje nakłonić niezłomną postać do postępowania wbrew jej zasadom.
 
 { #3083a0}
 
-- **Odwaga (Ch)** – umiejętność odzwierciedlająca opanowanie umysłu i ciała w sytuacjach skrajnego niebezpieczeństwa. Przydatna, gdy postać zostaje otoczona przez szwadron przeciwników, gdy dzika bestia usiłuje ją połknąć lub gdy mierzy się wzrokiem ze znanym łowcą nagród.
 
-{ #ee2a45}
+- **Ukrycie emocji (Ch)** – umiejętność zachowania kamiennej twarzy w stresujących sytuacjach. Postać używa jej, gdy blefuje.
 
-- **Zdolności przywódcze (Ch)** – umiejętność inspirowania podopiecznych. Skuteczne przy zarządzaniu ludźmi i wydawaniu rozkazów. Dzięki tej umiejętności postać jest w stanie zapewnić dodatkowe morale i niezłomność swoim żołnierzom bądź pracownikom, a także zwiększyć swoją siłę perswazji wobec ich.
+- **Występy (Ch)** – niezależnie jaki występ przedstawia dana postać (śpiewanie, opowiadanie żartów, gra na instrumencie), ta umiejętność pokazuje jak dobrze jest w stanie zainteresować publikę tworząc odpowiednią otoczkę pod swój występ.
 
 - **Zastraszanie (Ch)** – umiejętność odzwierciedlająca zdolność przymuszania innych do wykonania rozkazu postaci. Może być kontrowana niezłomnością.
 
 { #e6c31b}
 
-- **Ukrycie emocji (Ch)** – umiejętność zachowania kamiennej twarzy w stresujących sytuacjach. Postać używa jej, gdy blefuje.
+ 
+- **Zdolności przywódcze (Ch)** – umiejętność inspirowania podopiecznych. Skuteczne przy zarządzaniu ludźmi i wydawaniu rozkazów. Dzięki tej umiejętności postać jest w stanie zapewnić dodatkowe morale i niezłomność swoim żołnierzom bądź pracownikom, a także zwiększyć swoją siłę perswazji wobec ich.
 
 { #d110dd}
 
-- **Występy (Ch)** – niezależnie jaki występ przedstawia dana postać (śpiewanie, opowiadanie żartów, gra na instrumencie), ta umiejętność pokazuje jak dobrze jest w stanie zainteresować publikę tworząc odpowiednią otoczkę pod swój występ.
 
-- **Gadanina (Ch)** – umiejętność zagadania ludzi dookoła, zdobycia zaufania, wyciągnięcia od nich informacji.
 
 ### Intelekt
 
