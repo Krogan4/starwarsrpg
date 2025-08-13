@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/5-wyposazenie/bron-do-walki-w-zwarciu/","dgPassFrontmatter":true}
 ---
 
+Wymagana budowa - kara -1 do wszystkich testów Zręczności/Budowy za każdy brakujący punkt.
+
 **Pięści**
 ![Pasted image 20250503001134.png](/img/user/6%20Obrazy/Pasted%20image%2020250503001134.png)
 **Kastet**
