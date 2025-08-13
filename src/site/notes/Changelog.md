@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 13.08.2025
+- Techniki Mocy: Usunięto "Sztuczka" - Manewrowanie Obiektem skutecznie ją zastępuje.
 ## 02.08.2025
 - Umiejętności: Usunięto otwieranie zamków - większość zamków jest elektronicznych i należy je otwierać przy pomocy Komputery. Klasyczne zamki można otworzyć przy pomocy Zwinnych Dłoni.
 - Umiejętności: Usunięto Psychologia - powielone z Wyczuciem Emocji.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/5-wyposazenie/pancerze/","dgPassFrontmatter":true}
 ---
 
-[[4 Walka/2 Pancerze - walka\|Pancerze - reguły]]
+ [[4 Walka/2 Pancerze - walka\|Pancerze - reguły]]
 Noszenie pancerza może wiązać się ze zwiększoną ślamazarnością, ciężarem i dyskomfortem, dlatego powoduje kary. Cały pancerz wpływa na Testy związane z ruchem – postać jest ograniczona i wolniejsza, dlatego ciężej jej sprawnie się poruszać, ale niektóre fragmenty pancerza wpływają tylko na określone Testy. Poniżej rozpisano najpowszechniejsze przypadki.
 
 **Głowa**: Zmysły, Strzelanie

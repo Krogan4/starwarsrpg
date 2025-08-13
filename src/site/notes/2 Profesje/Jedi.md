@@ -15,7 +15,7 @@ Główną bronią rycerzy Jedi jest miecz świetlny - broń do pełnego opanowan
 
 Podczas pierwszego etapu szkolenia na Jedi kandydat jest nazywany adeptem lub młodzikiem. Kiedy dorośnie i zostanie wyszkolony na tyle, by rozpocząć okres terminowania u konkretnego nauczyciela, zostaje mianowany padawanem. Nierzadko zdarzało się, że późno odnaleziony uczeń od razu stawał się padawanem konkretnego rycerza lub mistrza. Przyznanie tytułu rycerza oznaczało, że dany padawan jest już gotowy, by samodzielnie wypełniać stające przed nim zadania. Pasowanie na rycerza kończyło terminowanie ucznia u jego mistrza, chociaż nie kończyło jego nauki jako takiej. Rycerz Jedi mógł korzystać z dostępnych zasobów Zakonu oraz samodzielnie lub w zespołach wykonywać zadania stojące przed Zakonem Jedi. Mógł również szkolić padawanów - z reguły tylko jednego na raz, aby móc poświęcić mu potrzebną ilość czasu i uwagi. Radę Jedi możę przyznać tytył mistrza wyjątkowo doświadczonemu i charakteryzującemu się wysokim stopniem rozumienia Mocy rycerzowi. Mistrzowie obdarzani są dużym szacunkiem przez innych Jedi, dwunastu spośród nich tworzy Radę Jedi - organ zarządzający działaniami całego Zakonu.
 
-Zaczyna z podstawowym mieczem świetlnym dowolnego koloru (lub shoto) oraz szarą szatą. Zaczyna ze znajomością Shii-Cho. Zaczyna także z premią do Arkana Mocy wynoszącą 5 oraz 650 PD do wydania na Techniki Mocy.
+Zaczyna z podstawowym mieczem świetlnym dowolnego koloru (lub shoto) oraz szarą szatą. Zaczyna ze znajomością Shii-Cho. Zaczyna także z premią do Arkana Mocy wynoszącą 5 oraz 500 PD do wydania na Techniki Mocy.
 
 **Cechy** (wybierz jedną): [**Do grania jako Jedi wymagane jest min. 12 Wrażliwości na Moc**]
 

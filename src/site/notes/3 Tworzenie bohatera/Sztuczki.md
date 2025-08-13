@@ -144,7 +144,7 @@ Wymagania: Odporność na ból 4+, Budowa 12+
 ## Nim wystrzeli
 Posiadacz tej sztuczki jest w stanie dostrzec nienawistne spojrzenie, błysk w oczach i skurcz mięśni chwytających za broń nim oponent w ogóle o tym pomyśli. Postać orientuje się w sytuacji na sekundy przed tym, gdy ktoś wyjmie broń z zamiarem zaatakowania.
 
-Wymagania: Czujność 3+, Identyfikacja przeciwnika 2+, Zmysły 14+, Wrażliwość na Moc 12+
+Wymagania: Czujność 3+, Wyczucie emocji 2+, Zmysły 14+, Wrażliwość na Moc 12+
 
 
 ## Oburęczność
@@ -168,7 +168,7 @@ Wymagania: Zręczność 12+. Czujność 2+, Walka wręcz 2+
 ## Pierwsze wrażenie
 Postać ma niezwykły dar prawidłowej oceny osób, które dopiero dostrzegł. MG sam bądź na życzenie gracza wykonuje w tajemnicy test Wyczucia Emocji z bonusem +2. Gracz nie zna wyniku, więc nie może mieć pewności, że prawidłowo ocenił daną osobę. Test dostarcza jedynie prostych informacji.
 
-Wymagania: Wyczucie emocji 3+; Identyfikacja przeciwnika 2+
+Wymagania: Wyczucie emocji 3+; Wyczucie emocji 2+
 
 
 ## Poliglota
