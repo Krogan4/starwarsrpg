@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
 ---
 
+## 01.12.2025
+- Pozostałe Mechaniki: Dialog - opisano Mechanikę Dialogu.
+- Efekty - dodano Efekt "Rozchwianie Emocjonalne"
+
 ## 13.08.2025
 - Techniki Mocy: Usunięto "Sztuczka" - Manewrowanie Obiektem skutecznie ją zastępuje.
 ## 02.08.2025

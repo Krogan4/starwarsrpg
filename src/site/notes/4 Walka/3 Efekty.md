@@ -47,3 +47,6 @@
 **Odcięcie od Mocy** – postać jest niezdolna do przywołania Mocy. Jej [[3 Tworzenie bohatera/Współczynniki#^1cfd46\|Wrażliwość na Moc]] wynosi 6.
 
 **Stan nieważkości** – postać otrzymuje karę -5 do wszelkich Testów o ile nie jest specjalnie przygotowana do przebywania w stanie nieważkości (np. odpowiednio dostosowane stanowisko pracy lub buty magnetyczne). Karę można zredukować Umiejętnością [[3 Tworzenie bohatera/Umiejętności#^41a766\|Akrobatyka]], która może zapewnić postaci bonus do Umiejętności walki.
+
+**Rozchwianie emocjonalne** - postać postępuje wbrew sobie. Otrzymuje karę -1 do wszystkich Testów. Stan może być powielany.
+{ #f2516b}

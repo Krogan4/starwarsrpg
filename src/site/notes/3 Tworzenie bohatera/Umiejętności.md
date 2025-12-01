@@ -95,8 +95,6 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 - **Nawigacja (Zm)** – umiejętność odpowiedzialna za orientowanie się w przestrzeni kosmicznej. Pomaga w określaniu odległości, poznawaniu charakterystycznych obiektów, przewidywaniu zachowani ciał niebieskich. Użyteczna szczególnie przy planowaniu lotów nadprzestrzennych, gdy komputer zawodzi.
 
-- **Psychologia (Zm)** – 
-
 - **Przeszukiwanie (Zm)** – umiejętność odnajdywania rzeczy ukrytych bądź trudnych do znalezienia. Postać cechująca się wysoką umiejętnością obstukuje ściany, by znaleźć ukryte przejścia, maca materace z nadzieją na znalezienie schowanej w nich broni lub znajduje małą kartę chip w zagraconym pokoju, mimo presji czasu.
 
 - **Przygotowanie pułapki (Zm)** – dotyczy przygotowania pułapek środowiskowych, dobrego kamuflowania pułapek i odpowiedniego wyczucia czasu, jeżeli wymagany. Nie ma jednak związku ze zrozumieniem działania i konstruowania pułapek opierających się o poszczególne technologie (np. bomby, pułapki elektryczne itp).
@@ -111,9 +109,9 @@ Moc, która spaja wszelkie żywe istoty i wszelką materię we wszechświecie je
 
 { #1e8556}
 
-- **Wyczucie emocji (Zm)** – umiejętność dostrzegania kryjących się w postaciach pobudek i stłumionych emocji. Zdolność oceny charakteru, zachowań, skłonności i predyspozycji napotkanej osoby. Użyteczne, przy próbie przekonania kogoś do własnych racji lub ocenie jego prawdomówności.^0a9c42
+- **Wyczucie emocji (Zm)** – umiejętność dostrzegania kryjących się w postaciach pobudek, i stłumionych emocji. Zdolność oceny charakteru, zachowania, skłonności i predyspozycji napotkanej osoby. Użyteczne, przy próbie przekonania kogoś do własnych racji lub ocenie jego prawdomówności.^0a9c42
 
-- **Wypatrywanie (Zm)** – określa jak wiele postać może zobaczyć, gdy się na tym skupia.
+- **Wypatrywanie (Zm)** – określa jak wiele postać może zobaczyć, gdy się na tym skupia. Pozwala rozpoznać lecący w oddali statek, ale także dostarczy informacji o uzbrojeniu przeciwnika przy przelotnym spojrzeniu.
 
 { #941113}
 
