@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-tworzenie-bohatera/wspolczynniki/","dgPassFrontmatter":true}
 ---
 
-Współczynniki to sześć najważniejszych atrybutów, które opisują każdą postać w świecie Gwiednych Wojen. Należy do nich: Charakter, Budowa, Zręczność, Percepcja, Intelekt oraz Wrażliwość na Moc. Podczas tworzenia postaci, wykonaj 7 rzutów 3k20. Z każdego z nich policz średnią, a następnie odrzuć najgorszy rezultat. Pozostałe wyniki przydziel do poniższych współczynników.
+Współczynniki to sześć najważniejszych atrybutów, które opisują każdą postać w świecie Gwiednych Wojen. Należy do nich: Charakter, Budowa, Zręczność, Percepcja, Intelekt oraz Wrażliwość na Moc. Podczas tworzenia postaci, wykonaj 6 rzutów 3k20. Z każdego z nich policz średnią, a następnie odrzuć najgorszy rezultat. Pozostałe wyniki przydziel do poniższych współczynników.
 
 **Charakter** – określa charyzmę i pewność siebie jednostki. To główna statystyka opisująca to, jak postać widzą inni. Gracz może wcielić się w mięśniaka dwa razy większego od przeciętnego człowieka, jednak brak charakteru może przeważyć o tym, że inni i tak nie będą traktować go w pełni poważnie. Charakter otwiera liczne możliwości przekonywania, manipulowania czy zastraszania, a także odporności na takie zagrywki z przeciwnej strony.
 { #66ff65}

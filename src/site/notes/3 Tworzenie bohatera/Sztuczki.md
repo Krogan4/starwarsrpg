@@ -40,7 +40,7 @@ Postać nauczyła się określać co mówią inni patrząc tylko na ich usta. Je
 Dobycie pistoletu lub noża itp. zajmuje jeden segment.
 
 Wymagania: Broń lekka 5+ lub Broń ręczna krótka 5+, Zręczność 12+
-Wymagania: Broń ręczna krótka/długa/egzotyczna 3+, Charakter 12+, Zręczność 13+
+Wymagania: Broń ręczna krótka/długa/egzotyczna 3+, Zręczność 13+
 
 
 ## Drzemka
@@ -50,7 +50,7 @@ Tej postaci wystarczy połowa standardowego czasu spędzonego na sen.
 ## Gładka gadka
 Postać zagaduję inną postać i w tym czasie może niepostrzeżenie wyciągnąć podręczny przedmiot, np. pistolet blasterowy. Sztuczka nie działa w walce.
 
-Wymagania: Intelekt 12+, Ukrycie emocji 2+, Zwinne dłonie 2+
+Wymagania: Intelekt 12+, Ukrycie emocji 1+, Zwinne dłonie 2+, Gadanina 1+
 
 
 ## Immunitet
@@ -66,7 +66,7 @@ Wymagania: Broń okrętowa 5+
 
 
 ## Jeniec
-Gdy postać podejdzie do kogoś na odległość 1-5 metrów i wyceluje w głowę to, dopóki ta odległość się nie zmieni, postać ma zapewniony jeden automatyczny sukces. Z jeńcem można rozmawiać, wędrować, prowadzić go itd. A i tak nie straci się go z „celownika”. Nie można jednak z jeńcem biegać, wspinać się itd. W dowolnej chwili, np. gdy tylko jeniec zechce się wyrwać, wystarczy wygrać test Inicjatywy, a trafienie będzie automatyczne.
+Gdy postać podejdzie do kogoś na odległość 1-5 metrów i wyceluje w głowę to, dopóki ta odległość się nie zmieni, postać ma zapewniony jeden automatyczny sukces. Z jeńcem można rozmawiać, wędrować, prowadzić go itd. a i tak nie straci się go z „celownika”. Nie można jednak z jeńcem biegać, wspinać się itd. W dowolnej chwili, np. gdy tylko jeniec zechce się wyrwać, wystarczy wygrać test Inicjatywy, a trafienie będzie automatyczne.
 
 Branie jeńca na cel nie może odbyć się w trakcie walki. W sytuacjach spornych, należy przeprowadzić test na trafienie w głowę (czasem też wcześniejszy test Inicjatywy). W przypadku sukcesu, Sztuczka zadziałała. Sztuczka dotyczy tylko pistoletów.
 
@@ -168,7 +168,7 @@ Wymagania: Zręczność 12+. Czujność 2+, Walka wręcz 2+
 ## Pierwsze wrażenie
 Postać ma niezwykły dar prawidłowej oceny osób, które dopiero dostrzegł. MG sam bądź na życzenie gracza wykonuje w tajemnicy test Wyczucia Emocji z bonusem +2. Gracz nie zna wyniku, więc nie może mieć pewności, że prawidłowo ocenił daną osobę. Test dostarcza jedynie prostych informacji.
 
-Wymagania: Wyczucie emocji 3+; Wyczucie emocji 2+
+Wymagania: Wyczucie emocji 3+
 
 
 ## Poliglota
@@ -258,7 +258,7 @@ Wymagania: Wrażliwość na Moc 15+, Wzmocnienie 6+, Niezłomność 2+
 ## Sprinter
 Ta postać jest wyjątkowo szybka. Podczas biegu i sprintu pokonuje o 1 metr więcej.
 
-Wymagania: Kondycja 5+, Akrobatyka 2+, Budowa 14+, Zręczność 12+
+Wymagania: Kondycja 4+, Akrobatyka 2+, Budowa 14+, Zręczność 12+
 
 
 ## Strzelec kieszonkowy
@@ -284,7 +284,7 @@ Wymagania: Wrażliwość na Moc 13+, Intelekt 12+
 
 
 ## Szybkie przeładowanie
-Zmniejsza czas przeładowania broni o jeden segment. Sztuczka nabywana osobno dla Broni Lekkiej i Ciężkiej.
+Zmniejsza czas przeładowania broni o jeden Segment. Sztuczka nabywana osobno dla Broni Lekkiej i Ciężkiej.
 
 Wymagania: Broń lekka 4+ lub Broń ciężka 4+, Zwinne dłonie 3+
 
@@ -328,7 +328,7 @@ Wymagania: Wypatrywanie 5+
 ## Wytrych
 Postać potrafi zrobić wytrych z dowolnego niemal dowolnego przedmiotu. Nie dostaje żadnych kar za użycie nieprofesjonalnego narzędzia.
 
-Wymagania: Otwieranie zamków 4+, Zręczność 12+
+Wymagania: Zwinne dłonie 4+, Zręczność 12+
 
 
 ## Zapędzony w róg
