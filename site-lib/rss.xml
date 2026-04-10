@@ -1,4 +1,27 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Star Wars]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Star Wars</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 10 Apr 2026 20:51:59 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 10 Apr 2026 20:51:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[No title]]></title><link>0-walka.html</link><guid isPermaLink="false">4 Walka/0 Walka.md</guid></item><item><title><![CDATA[Broń do walki w zwarciu]]></title><description><![CDATA[Wymagana budowa - kara -1 do wszystkich testów Zręczności/Budowy za każdy brakujący punkt.Pięści
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Star Wars]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Star Wars</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 10 Apr 2026 20:59:09 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 10 Apr 2026 20:59:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Energia]]></title><description><![CDATA[<img alt="Pasted image 20250202184024.png" src="9999/6-obrazy/pasted-image-20250202184024.png" target="_self">
+Wymagania: Światło
+PE: 4
+Test: -5
+Użycie: 1 SegmentOpis: Użytkownik uwalnia jasny impuls nieszkodliwej energii, która emanuje potężnym blaskiem oślepiając cele organiczne w pobliżu użytkownika. Nieprzygotowane cele doznają -5 do Umiejętności opartych na wzrok na 3 Tury. Zdolność nie wpływa na osoby, które odwrócą wzrok zawczasu (towarzysze) a także użytkownika. Rozbłysk uszkadza również wrażliwe kamery.OślepienieWymagania: -
+PE: 10
+Test: Zależny od choroby
+Użycie: 9 SegmentówOpis: Użytkownik skupia się na energii życiowej celu (może nim być on sam) i rozpoznaje jakie zmiany zachodzą w organizmie. Udany Test pomaga w rozpoznaniu choroby bądź trucizny i zmniejsza trudność Testu Leczenia Chorób (o +3 lub +6) zastosowanego w celu identyfikacji choroby.Identyfikacja ChorobyWymagania: -
+PE: 5 (30 minut)
+Test: -3
+Użycie: 2 SegmentyOpis: Pozwala użytkownikowi ogrzać cel. Przyjemna energia cieplna przepływająca na cel sprawia, że mróz jest niestraszny dla dotkniętej osoby. Nie można użyć na siebie. Przez czas dwukrotnie dłuższy niż używana była zdolność, użytkownik będzie otrzymywał 1 automatyczną Porażkę w Testach Kondycji.OgrzanieWymagania: -
+PE: 5 (Tura)
+Test: -4
+Użycie: Akcja DarmowaOpis: Pozwala dzierżącemu miecz świetlny użytkownikowi, osłabić jego działanie, by nie zadawało śmiertelnych ran.Osłabienie Ostrza<br><img alt="Pasted image 20250202184303.png" src="9999/6-obrazy/pasted-image-20250202184303.png" target="_self">
+Wymagania: -
+PE: 7
+Test: -5
+Użycie: Udany atak pięściąOpis: Użytkownik skupia w dłoni Moc i konwertuje ją w energię elektryczną. Trafiając przeciwnika wręcz, może go porazić co skutkuje Lekką Raną i Porażeniem.PorażenieWymagania: -
+PE: 2 (10 minut)
+Test: -2
+Użycie: 1 SegmentOpis: Pozwala użytkownikowi zamanifestować energię Mocy w formie świetlnej kuli, która może posłużyć za pochodnię. Kula pozostaje przy dłoni użytkownika, jednak może zostać posłana w określonym kierunku do 50 metrów (Akcja Darmowa).ŚwiatłoWymagania: -
+PE: 4
+Test: -3
+Użycie: 2 SegmentyOpis: Użytkownik obniża karę za Ranę o 1. Może zastosować na sobie. Nie można używać wielokrotnie na jednej ranie.Ukojenie]]></description><link>energia.html</link><guid isPermaLink="false">6 Moc/Energia.canvas</guid><pubDate>Fri, 10 Apr 2026 20:57:39 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>0-walka.html</link><guid isPermaLink="false">4 Walka/0 Walka.md</guid></item><item><title><![CDATA[Broń do walki w zwarciu]]></title><description><![CDATA[Wymagana budowa - kara -1 do wszystkich testów Zręczności/Budowy za każdy brakujący punkt.Pięści
 <img alt="Piesc.png" src="9999/6-obrazy/piesc.png" target="_self">
 Kastet<br>
 <img alt="Kastet.png" src="9999/6-obrazy/kastet.png" target="_self">
