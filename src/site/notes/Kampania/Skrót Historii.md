@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/skrot-historii/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/skrot-historii/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Spisek w Senacie

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/sabaac/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/sabaac/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250729213641.png](/img/user/6%20Obrazy/Pasted%20image%2020250729213641.png)

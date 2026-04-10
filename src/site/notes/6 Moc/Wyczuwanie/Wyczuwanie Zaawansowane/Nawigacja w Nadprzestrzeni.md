@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-zaawansowane/nawigacja-w-nadprzestrzeni/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-zaawansowane/nawigacja-w-nadprzestrzeni/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Przewidywanie Przyszłości

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-podstawowe/oslabienie-ostrza/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-podstawowe/oslabienie-ostrza/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** -

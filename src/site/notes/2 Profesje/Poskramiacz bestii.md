@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/poskramiacz-bestii/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/poskramiacz-bestii/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Nie bójcie się. On nie skrzywdziłby nawet muchy. Przynajmniej, dopóki go o to nie poproszę.*”

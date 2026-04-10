@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/miecz-swietlny/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/miecz-swietlny/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Zasady walki mieczem świetlnym opisano [[4 Walka/5 Walka mieczem świetlnym\|tutaj]].

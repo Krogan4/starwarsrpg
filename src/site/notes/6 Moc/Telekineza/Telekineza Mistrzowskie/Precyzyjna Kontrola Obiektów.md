@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/precyzyjna-kontrola-obiektow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/precyzyjna-kontrola-obiektow/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250201020245.png](/img/user/6%20Obrazy/Pasted%20image%2020250201020245.png)

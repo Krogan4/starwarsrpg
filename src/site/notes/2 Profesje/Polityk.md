@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/polityk/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/polityk/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 “*Nie zapominaj, że jest politykiem. Im nie wolno ufać.*”

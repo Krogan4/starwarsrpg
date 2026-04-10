@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/hryl-xylman/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/hryl-xylman/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Calculation_XWM.webp](/img/user/6%20Obrazy/Calculation_XWM.webp)

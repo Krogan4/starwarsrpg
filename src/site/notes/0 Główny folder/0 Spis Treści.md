@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/0-glowny-folder/0-spis-tresci/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/0-glowny-folder/0-spis-tresci/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Star Wars okładka4 1.png](/img/user/6%20Obrazy/Star%20Wars%20ok%C5%82adka4%201.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/bron-do-walki-w-zwarciu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/bron-do-walki-w-zwarciu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Wymagana budowa - kara -1 do wszystkich testów Zręczności/Budowy za każdy brakujący punkt.

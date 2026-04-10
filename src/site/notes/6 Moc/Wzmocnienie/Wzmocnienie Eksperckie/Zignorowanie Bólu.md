@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/zignorowanie-bolu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/zignorowanie-bolu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250202144307.png](/img/user/6%20Obrazy/Pasted%20image%2020250202144307.png)

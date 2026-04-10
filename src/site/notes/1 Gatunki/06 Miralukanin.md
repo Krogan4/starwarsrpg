@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/06-miralukanin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/06-miralukanin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

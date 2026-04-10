@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/planety/coruscant/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/planety/coruscant/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250512232826.png](/img/user/6%20Obrazy/Pasted%20image%2020250512232826.png)

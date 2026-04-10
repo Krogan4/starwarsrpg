@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/mormhon-koon/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/mormhon-koon/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250711211058.png](/img/user/6%20Obrazy/Pasted%20image%2020250711211058.png)

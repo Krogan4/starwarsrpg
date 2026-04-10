@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/zlodziej/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/zlodziej/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Ta szmaragdowa spinka w ogóle nie pasowała do twoich włosów. Za to na mnie leży wyśmienicie. Wierz mi, wyświadczam ci przysługę.*”

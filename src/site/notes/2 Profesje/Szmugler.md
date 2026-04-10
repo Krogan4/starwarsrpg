@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/szmugler/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/szmugler/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Niezła sztuka, nie? I będzie cię kosztowała coś ekstra.*”

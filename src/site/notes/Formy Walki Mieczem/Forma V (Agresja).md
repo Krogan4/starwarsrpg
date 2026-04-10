@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/formy-walki-mieczem/forma-v-agresja/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/formy-walki-mieczem/forma-v-agresja/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250410003151.png](/img/user/6%20Obrazy/Pasted%20image%2020250410003151.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/mechanik/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/mechanik/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Przykręcimy parę śrubek i będzie jak nowy. A te rupiecie są wam zupełnie niepotrzebne. Prawdę mówiąc, statek łatwiej się prowadzi bez tego zawodnego wspomagania*.”

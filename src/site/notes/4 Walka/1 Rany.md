@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/1-rany/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/1-rany/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Każde trafienie niezatrzymane przez pancerz wiąże się z otrzymaniem Rany. Ranna postać mniej sprawnie wykonuje poszczególne czynności, dlatego często w walce wystarczy zranić przeciwnika, by wyeliminować zagrożenie z jego strony. Od testu [[3 Tworzenie bohatera/Umiejętności#^56ad79\|Odporności na ból]] zależy jak bardzo problematyczna okaże się dana rana. W tabeli poniżej rozpisano rodzaje ran, PT testu Odporności na Ból oraz karę, jaką za sobą niesie przy zdanym oraz niezdanym teście.

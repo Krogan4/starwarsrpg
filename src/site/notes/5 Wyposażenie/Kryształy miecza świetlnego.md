@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/krysztaly-miecza-swietlnego/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/krysztaly-miecza-swietlnego/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Przy budowie miecza świetlnego najważniejszym elementem jest kryształ. Kryształy są naturalnymi kamieniami, występującymi w różnych miejscach w galaktyce. Niektóre z nich posiadają specyficzne właściwości, które umożliwiają leczenie ran czy też stosowanie ich w broni świetlnej. Mogą one decydować o sile, kolorze i innych cechach ostrza.

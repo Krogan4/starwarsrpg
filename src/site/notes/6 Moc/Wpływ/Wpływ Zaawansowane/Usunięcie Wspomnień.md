@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-zaawansowane/usuniecie-wspomnien/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-zaawansowane/usuniecie-wspomnien/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Ślamazarność, Wezwanie Ciemnej Strony

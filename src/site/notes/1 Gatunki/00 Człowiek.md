@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/00-czlowiek/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/00-czlowiek/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

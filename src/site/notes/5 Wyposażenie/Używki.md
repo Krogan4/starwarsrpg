@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/uzywki/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/uzywki/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Większość narkotyków określanych w Galaktyce mianem **przypraw** to substancje psychoaktywne i rozluźniające, które cieszą się niesamowitym zainteresowaniem w półświatku. Poniżej wypisano używki, których działanie w sposób znaczący różni się od reszty.

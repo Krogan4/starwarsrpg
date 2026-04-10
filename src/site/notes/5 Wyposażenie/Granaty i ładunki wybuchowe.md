@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/granaty-i-ladunki-wybuchowe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/granaty-i-ladunki-wybuchowe/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Zasady walki granatami i ładunkami wybuchowymi opisano [[4 Walka/0 Walka#^66b935\|tutaj]]

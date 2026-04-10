@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/6-formy-i-techniki-walki-mieczem/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/6-formy-i-techniki-walki-mieczem/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 [[Formy Walki Mieczem/Forma I (Determinacja)\|Forma I (Determinacja)]]

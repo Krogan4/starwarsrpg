@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/10-trandoshanin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/10-trandoshanin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20241221153853.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153853.png)

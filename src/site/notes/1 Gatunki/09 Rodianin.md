@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/09-rodianin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/09-rodianin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20241221153838.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153838.png)

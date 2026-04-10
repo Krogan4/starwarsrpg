@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/4-walka-wrecz/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/4-walka-wrecz/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20241222021410.png](/img/user/6%20Obrazy/Pasted%20image%2020241222021410.png)

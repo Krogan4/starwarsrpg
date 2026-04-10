@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/yargo-marr/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/yargo-marr/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250711210055.png](/img/user/6%20Obrazy/Pasted%20image%2020250711210055.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-mistrzowskie/pomniejsza-bomba-mysli/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-mistrzowskie/pomniejsza-bomba-mysli/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Strach ●●○, Kontrola Umysłu ●●○, Wyssanie Wiedzy, Tylko Ciemna Strona

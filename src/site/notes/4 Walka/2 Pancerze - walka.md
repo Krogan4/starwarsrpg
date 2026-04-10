@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/2-pancerze-walka/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/2-pancerze-walka/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Osoby chcące uchronić się przed negatywnymi skutkami ostrzału lub uderzenia często decydują się na założenie pancerza. Mogą być to zupełnie różne elementy na poszczególne części ciała (głowa, tułów, ręka lewa, ręka prawa, noga lewa, noga prawa). Pancerze cechują się konkretnym współczynnikiem **Redukcji Obrażeń**, **Kary** za noszenie i **Wytrzymałością**.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/yatto-batualdurm-plolrath/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/yatto-batualdurm-plolrath/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Yatto.jpg](/img/user/6%20Obrazy/Yatto.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/pirat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/pirat/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Nie interesujesz nas. Bierzemy tylko ten statek, a ty możesz odejść wolno, jasne? Powiedzmy, że masz na to pięć minut. Ej, nie ruszaj tej kapsuły! Już ją wliczyłem do łupów.*”

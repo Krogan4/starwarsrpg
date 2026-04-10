@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/artysta/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/artysta/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Och, więc mówisz, że umiesz szybko zarobić, ale tylko gdy masz przy sobie swój drogocenny sprzęt? Cóż, właśnie to nas od siebie różni.*”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/zolnierz/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/zolnierz/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*To, że trochę postrzelałeś nie oznacza, że znasz się na fachu. Podstawą jest codzienna marszruta. Jeśli nie mogę zaufać, że będziesz dbał o swoje przygotowanie, jak mogę powierzyć ci swoje plecy?*”

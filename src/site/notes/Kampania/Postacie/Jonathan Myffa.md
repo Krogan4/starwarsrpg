@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/jonathan-myffa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/jonathan-myffa/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250528234000.jpg](/img/user/6%20Obrazy/Pasted%20image%2020250528234000.jpg)

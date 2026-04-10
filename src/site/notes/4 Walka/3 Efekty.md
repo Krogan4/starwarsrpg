@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/3-efekty/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/3-efekty/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Porażenie** – porażona postać dostaje Karę -1 do wszystkich Testów na czas (20 – **Budowa**) Segmentów. Musi zdać Test [[3 Tworzenie bohatera/Umiejętności#^56ad79\|Odporności na Ból]] -3. Jeśli zda, traci Segment. Jeśli nie zda, traci Turę i, jeśli został trafiony w rękę, którą trzymał jakiś przedmiot, upuszcza go, a jeśli znajdował się w powietrzu, spada. Efekty Porażenia kumulują się i resetują odmierzanie czasu. Jeśli postać otrzyma efekt Porażenia 3 razy, zostanie **Ogłuszona**. Można skontrować przy pomocy Wessania Energii.

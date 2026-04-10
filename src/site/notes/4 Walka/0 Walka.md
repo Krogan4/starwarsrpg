@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-walka/0-walka/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-walka/0-walka/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Inicjatywa**

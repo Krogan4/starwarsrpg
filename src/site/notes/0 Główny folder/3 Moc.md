@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-glowny-folder/3-moc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/0-glowny-folder/3-moc/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250201011116.png](/img/user/6%20Obrazy/Pasted%20image%2020250201011116.png)

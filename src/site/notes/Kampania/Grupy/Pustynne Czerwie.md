@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/pustynne-czerwie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/pustynne-czerwie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Niesławna grupa najemników założona przez Arlanę Haskarmoth. Przez wiele lat działali dla różnych zleceniodawców, głównie dla [[Kampania/Grupy/Czarne Słońce\|Czarnego Słońca]].

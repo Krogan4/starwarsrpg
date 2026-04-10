@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-zaawansowane/przewidywanie-przyszlosci/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-zaawansowane/przewidywanie-przyszlosci/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Wzrok Mocy ●●●, Przeczucie

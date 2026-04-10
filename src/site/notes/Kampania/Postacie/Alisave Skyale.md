@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/alisave-skyale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/alisave-skyale/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Była uczennica [[Kampania/Postacie/Forgar Shetur\|Forgara Shetura]]. Z Mallgarem znała się pobieżnie. Zaginęła w tym samym czasie, w którym zaginął mistrz Shetur. Mallgar z Cordiusem przez lata próbowali dowiedzieć się czegokolwiek o stanie i lokalizacji Alisave. Ich śledztwo prowadziło do tajemniczej [[Kampania/Grupy/Grupa Phobos\|Grupy Phobos]], która miałaby walczyć ze skorumpowanym rządem, ale z którą nigdy nie udało im się skontaktować. Niedawno wyszło na jaw, że tajemnicza liderka [[Kampania/Grupy/Bractwo Dai'th\|Bractwa Dai'th]] nazywa się tak samo. Mallgar widział Alisave w swojej wizji na planecie [[Kampania/Planety/Ziost\|Ziost]], w której przepełniała ją złość i zapowiadała czas zemsty.

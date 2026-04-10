@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/sensory/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/sensory/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Identyfikacja

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/czlowiek-interesow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/czlowiek-interesow/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Jeżeli rzeczywiście jesteś tak rozsądny jak mówią, mam 20 tysięcy powodów, które sprawią, że zmienisz swoje zdanie w tej kwestii.*”

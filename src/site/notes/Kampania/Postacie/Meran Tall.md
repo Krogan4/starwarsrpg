@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/meran-tall/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/meran-tall/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwcdv8xyffqaa5x4vppa6etc_1748468946_img_1.webp](/img/user/6%20Obrazy/assets_task_01jwcdv8xyffqaa5x4vppa6etc_1748468946_img_1.webp)

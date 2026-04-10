@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-mistrzowskie/sciana-swiatla/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-mistrzowskie/sciana-swiatla/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Światło Mocy

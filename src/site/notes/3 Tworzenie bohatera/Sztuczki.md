@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/sztuczki/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/sztuczki/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Sztuczki to wyjątkowe atuty przypominające cechy z Profesji. Podobnie jak Umiejętności, będziesz je mógł kupować za PD. Póki co, jeżeli gracz człowiekiem, wybierz sobie jedną Sztuczkę, której wymagania spełniasz. W przeciwnym razie, pomiń ten rozdział.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/jedi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/jedi/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Nie ma emocji - jest spokój.*

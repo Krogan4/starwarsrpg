@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-mistrzowskie/tlumienie-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-mistrzowskie/tlumienie-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Nawiedzenie ●○○

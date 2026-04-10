@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/cordius/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/cordius/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250528233507.png](/img/user/6%20Obrazy/Pasted%20image%2020250528233507.png)

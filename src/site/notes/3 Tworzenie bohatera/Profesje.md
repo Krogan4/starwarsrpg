@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/profesje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/profesje/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Poniżej przedstawiono wybrane profesje, które są jedynie formą archetypu postaci. Nie muszą być jej rzeczywistą pracą, a mogą być czymś najbardziej zbliżonym lub pracą wykonywaną w przeszłości. Wybierz profesję, która pokrywa się z wymyśloną przez ciebie historią postaci, a następnie wybierz jedną z dwóch cech dostępnych dla każdej z profesji. Zwróć także uwagę na dodatkowe wyposażenie i zniżki na wyposażenie, z którym postać będzie mogła wyruszyć w świat przygód.

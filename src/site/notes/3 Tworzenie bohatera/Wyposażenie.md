@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/wyposazenie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/wyposazenie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Twoja postać nie pojawiła się znikąd, dlatego możesz wydać wirtualne 2000 kredytów na wybór rzeczy na start. To, czego nie wydasz, zachowaj na karcie chipowej. Poniżej znajduje się jedynie zestawienie przedmiotów. Ich dokładny opis znajdziesz w dalszej części podręcznika.

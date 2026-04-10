@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/lowca-nagrod/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/lowca-nagrod/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Mój czas jest cenny. Nie interesuje mnie czemu chcesz go dopaść, chyba że zapłacisz mi ekstra za słuchanie tych bzdur. Głowę przyniosę ci tak czy inaczej.*”

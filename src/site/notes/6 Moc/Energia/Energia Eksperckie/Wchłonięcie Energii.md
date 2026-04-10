@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/wchloniecie-energii/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/wchloniecie-energii/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** -

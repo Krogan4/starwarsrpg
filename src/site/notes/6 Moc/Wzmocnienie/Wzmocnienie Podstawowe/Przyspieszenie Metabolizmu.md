@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/przyspieszenie-metabolizmu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/przyspieszenie-metabolizmu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Tapas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/bractwo-dai-th/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/bractwo-dai-th/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Grupa użytkowników Ciemnej Strony Mocy. Nie znacie szczegółów co do ich początków, ale wiecie, że byli pospolitymi bandziorami, którzy posługiwali się Mocą. Nie mieli wielkich ambicji, w swoich działaniach przypominali zwyczajnych piratów i łotrów. Często zmieniali lokalizację. Czasami wcielali do swojej grupy rekrutów z planety [[Kampania/Planety/Troxidia\|Troxidia]], gdzie ludzie byli wyjątkowo uzdolnieni.

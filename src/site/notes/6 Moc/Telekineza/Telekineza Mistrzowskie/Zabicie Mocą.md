@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zabicie-moca/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zabicie-moca/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Duszenie Mocą, Tylko Ciemna Strona

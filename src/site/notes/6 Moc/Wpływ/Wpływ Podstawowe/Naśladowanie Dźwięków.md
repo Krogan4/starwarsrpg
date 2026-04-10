@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-podstawowe/nasladowanie-dzwiekow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-podstawowe/nasladowanie-dzwiekow/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** -

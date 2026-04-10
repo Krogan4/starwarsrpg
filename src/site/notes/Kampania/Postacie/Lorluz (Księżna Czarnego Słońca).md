@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/lorluz-ksiezna-czarnego-slonca/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/lorluz-ksiezna-czarnego-slonca/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Niegdysiejsza vigo Czarnego Słońca. Według Cordiusa, to ona może być obecną tajemniczą Księżną organizacji.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/spiskowcy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/spiskowcy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Tajemnicza frakcja w Senacie, która kontroluje rząd od kilku kadencji. Uważają, że chronią Galaktykę przed wielką rzezią. Pozostają bierni na zaczepki ze strony Mando, nie pozwalają na rozwój technologii wątpliwych moralnie, ograniczają wojska planet członkowskich Republiki. Chętnie zobaczą postaci graczy martwymi.

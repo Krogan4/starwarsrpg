@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/mandalorianie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/mandalorianie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250711204518.png](/img/user/6%20Obrazy/Pasted%20image%2020250711204518.png)

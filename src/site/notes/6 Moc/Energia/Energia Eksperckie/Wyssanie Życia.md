@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/wyssanie-zycia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/wyssanie-zycia/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250202190635.png](/img/user/6%20Obrazy/Pasted%20image%2020250202190635.png)

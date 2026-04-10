@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-podstawowe/wyczucie-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-podstawowe/wyczucie-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250202150332.png](/img/user/6%20Obrazy/Pasted%20image%2020250202150332.png)

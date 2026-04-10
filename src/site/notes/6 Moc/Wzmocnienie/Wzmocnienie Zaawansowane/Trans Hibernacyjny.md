@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-zaawansowane/trans-hibernacyjny/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-zaawansowane/trans-hibernacyjny/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Przyspieszenie Metabolizmu

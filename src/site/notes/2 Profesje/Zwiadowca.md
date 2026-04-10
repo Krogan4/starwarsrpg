@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/zwiadowca/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/zwiadowca/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Odchody są jeszcze ciepłe, ale ślady są zbyt nierównomierne jak na rankora. Nie obracajcie się, ale zdajcie sobie sprawę, że jesteśmy ciągnięci w pułapkę.*”

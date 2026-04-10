@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/02-zabrak/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/02-zabrak/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

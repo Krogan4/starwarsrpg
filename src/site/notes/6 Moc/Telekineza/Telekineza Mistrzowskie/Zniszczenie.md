@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zniszczenie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zniszczenie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250201192251.png](/img/user/6%20Obrazy/Pasted%20image%2020250201192251.png)

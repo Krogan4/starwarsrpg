@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/techniki-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/techniki-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6v-ccdvTZMTcs0a8nHzbXVcqKp9AdjiU3pzELjCXg15Lk7khr_wyHbtygNo9Xf6bt-b7_oPUWWJ5dIzCtW_hebqhn0j-sEsS8p70gsDke0wRDim5Rg9fC9f0Q6n8TNlrsnjEtUV4P4j-7XMir1L8jXCu7?key=T3-QZLJMydwdELCftaUgv_J6)**

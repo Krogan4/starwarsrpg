@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/tarcze-osobiste/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/tarcze-osobiste/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20241222022937.png](/img/user/6%20Obrazy/Pasted%20image%2020241222022937.png)

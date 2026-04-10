@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/inne-wyposazenie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/inne-wyposazenie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Dwójnóg** – montowany do broni długiej. Montaż zajmuje 3 segmenty. Strzelanie z broni podpartej o dwójnóg zapewnia +10 do testów strzelania. Strzelanie z nieopartej broni, na której zamontowany jest dwójnóg zapewnia karę -5 do testów strzelania.

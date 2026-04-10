@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/hugo-reaves/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/hugo-reaves/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Hugo Reaves 2.png](/img/user/6%20Obrazy/Hugo%20Reaves%202.png)

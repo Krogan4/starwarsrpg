@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/uzytkownik-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/uzytkownik-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Nie pysznij się zbytnio swoim terrorem technologicznym. Zdolność zniszczenia planety jest niczym wobec potęgi Mocy.*”

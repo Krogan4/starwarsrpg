@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/maitou-anaryseu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/maitou-anaryseu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwce3b6mfbz9ejcv40xbxwqs_1748469218_img_1.webp](/img/user/6%20Obrazy/assets_task_01jwce3b6mfbz9ejcv40xbxwqs_1748469218_img_1.webp)

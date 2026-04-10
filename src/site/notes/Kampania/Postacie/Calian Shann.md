@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/calian-shann/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/calian-shann/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwccybnfftjr57czxaet7kp3_1748468012_img_0.webp](/img/user/6%20Obrazy/assets_task_01jwccybnfftjr57czxaet7kp3_1748468012_img_0.webp)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/umiejetnosci/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/umiejetnosci/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Umiejętności określają bardziej szczegółowe czynności oparte o Współczynniki. Ich poziom określa jak łatwo dana postać radzi sobie z konkretnymi wyzwaniami. 

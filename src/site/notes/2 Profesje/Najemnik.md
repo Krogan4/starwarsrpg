@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/najemnik/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/najemnik/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Słuchaj, nie jestem tu dla twojej rewolucji ani dla ciebie, księżniczko. Oczekuję, że dostanę sowite wynagrodzenie. Jestem tu dla twoich pieniędzy.*”

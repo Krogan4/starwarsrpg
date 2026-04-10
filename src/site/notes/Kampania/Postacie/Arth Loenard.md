@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/arth-loenard/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/arth-loenard/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwbfbyygfv0tytf4f7j6z64s_1748436997_img_0.webp](/img/user/6%20Obrazy/assets_task_01jwbfbyygfv0tytf4f7j6z64s_1748436997_img_0.webp)

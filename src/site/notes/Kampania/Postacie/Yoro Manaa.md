@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/yoro-manaa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/yoro-manaa/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwcdr6stfj6awj3hf5qzbzp0_1748468860_img_0.webp](/img/user/6%20Obrazy/assets_task_01jwcdr6stfj6awj3hf5qzbzp0_1748468860_img_0.webp)

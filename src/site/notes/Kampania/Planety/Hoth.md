@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/planety/hoth/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/planety/hoth/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250513001117.png](/img/user/6%20Obrazy/Pasted%20image%2020250513001117.png)

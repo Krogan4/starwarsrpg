@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-glowny-folder/4-punkty-doswiadczenia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/0-glowny-folder/4-punkty-doswiadczenia/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Zdobywanie

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/dialog/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/dialog/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20251201161241.png](/img/user/6%20Obrazy/Pasted%20image%2020251201161241.png)

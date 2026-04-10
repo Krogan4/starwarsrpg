@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-eksperckie/zatrzymanie-pocisku/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-eksperckie/zatrzymanie-pocisku/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250201014636.png](/img/user/6%20Obrazy/Pasted%20image%2020250201014636.png)**Wymagania:** Zatrzymanie osoby/przedmiotu

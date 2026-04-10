@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-glowny-folder/1-tworzenie-bohatera/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/0-glowny-folder/1-tworzenie-bohatera/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 [[3 Tworzenie bohatera/Gatunki\|Gatunki]]

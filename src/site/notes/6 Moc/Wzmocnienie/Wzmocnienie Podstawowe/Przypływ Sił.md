@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/przyplyw-sil/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/przyplyw-sil/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** -

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-zaawansowane/neutralizacja-trucizny/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-zaawansowane/neutralizacja-trucizny/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Identyfikacja Choroby

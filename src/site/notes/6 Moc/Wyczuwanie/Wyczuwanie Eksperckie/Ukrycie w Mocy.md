@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-eksperckie/ukrycie-w-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-eksperckie/ukrycie-w-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** -

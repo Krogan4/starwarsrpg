@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-mistrzowskie/nietykalnosc/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-mistrzowskie/nietykalnosc/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #### Nietykalność

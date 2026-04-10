@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/kanu-miles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/kanu-miles/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![assets_task_01jwcdqs63fpds2j24bbkxcc7d_1748468834_img_0.webp](/img/user/6%20Obrazy/assets_task_01jwcdqs63fpds2j24bbkxcc7d_1748468834_img_0.webp)

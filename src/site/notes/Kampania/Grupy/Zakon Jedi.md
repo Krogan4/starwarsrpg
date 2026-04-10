@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/zakon-jedi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/zakon-jedi/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250711205133.png](/img/user/6%20Obrazy/Pasted%20image%2020250711205133.png)

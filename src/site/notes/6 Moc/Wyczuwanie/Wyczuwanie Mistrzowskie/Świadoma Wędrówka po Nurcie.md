@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-mistrzowskie/swiadoma-wedrowka-po-nurcie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-mistrzowskie/swiadoma-wedrowka-po-nurcie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Wędrówka po Nurcie

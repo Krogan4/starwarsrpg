@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/planety/daltonia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/planety/daltonia/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Ekskluzywna stacja kosmiczna stanowiąca neutralną przestrzeń, na której spotykają się przedstawiciele różnych syndykatów i gangów, by wspólnie zmagać się w Kosmicznych Regatach - wyścigach po polach asteroid.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-wyposazenie/pancerze/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-wyposazenie/pancerze/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
  [[4 Walka/2 Pancerze - walka\|Pancerze - reguły]]

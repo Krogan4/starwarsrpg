@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/grupy/czarne-slonce/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/grupy/czarne-slonce/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250513003248.png](/img/user/6%20Obrazy/Pasted%20image%2020250513003248.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/koszty-i-czas-podrozy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/koszty-i-czas-podrozy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Koszty podróży (kredyty)

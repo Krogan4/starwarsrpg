@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-eksperckie/wedrowka-po-nurcie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wyczuwanie/wyczuwanie-eksperckie/wedrowka-po-nurcie/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Odnalezienie Osoby, Wzrok Mocy ●●●

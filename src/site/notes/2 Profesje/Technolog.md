@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/technolog/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/technolog/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Naprawdę chcieliście zaufać tej starej maszynie w kwestii podróży w hiperprzestrzeni? Gdyby nie moje obliczenia, dawno bylibyście martwi.*”

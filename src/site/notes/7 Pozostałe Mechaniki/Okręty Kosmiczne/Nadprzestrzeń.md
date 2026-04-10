@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/nadprzestrzen/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/nadprzestrzen/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Nadprzestrzeń jest osobnym wymiarem. Podróżowanie przez nią pozwala na pokonywanie niespotykanych dystansów w krótkim czasie. Okręty lecące po nadprzestrzeni nie mogą wejść w interakcje z obiektami fizycznymi w przestrzeni realnej (np. uderzyć w inny statek). Natomiast wszystko w przestrzeni realnej pozostawia cień masy, który zakłóca podróże w nadprzestrzeni. Szczególnie cienie gwiazd i planet są niebezpieczne.

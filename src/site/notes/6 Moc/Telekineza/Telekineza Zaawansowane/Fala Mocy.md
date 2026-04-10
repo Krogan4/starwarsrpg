@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-zaawansowane/fala-mocy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-zaawansowane/fala-mocy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20250201013456.png](/img/user/6%20Obrazy/Pasted%20image%2020250201013456.png)

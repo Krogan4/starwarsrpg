@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/medyk/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/medyk/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 „*Bez obaw, to nawet nie zaboli. Chyba.*”

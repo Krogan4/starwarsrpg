@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/tapas-utrzymanie-temperatury/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-podstawowe/tapas-utrzymanie-temperatury/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Przypływ Sił

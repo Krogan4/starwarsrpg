@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/powrot/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/powrot/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Większe Wzmocnienie Atrybutu, Zignorowanie Bólu

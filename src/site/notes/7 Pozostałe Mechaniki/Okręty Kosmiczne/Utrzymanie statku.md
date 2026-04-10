@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/utrzymanie-statku/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/7-pozostale-mechaniki/okrety-kosmiczne/utrzymanie-statku/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Paliwo

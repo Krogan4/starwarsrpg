@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/blyskawica-lancuchowa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/energia/energia-eksperckie/blyskawica-lancuchowa/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Błyskawice Mocy

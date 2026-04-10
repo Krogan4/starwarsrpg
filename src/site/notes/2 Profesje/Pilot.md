@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-profesje/pilot/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-profesje/pilot/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 "*Grawitacja? Od pięciu lat nie miałem z nią do czynienia.*”

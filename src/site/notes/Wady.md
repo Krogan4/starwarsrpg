@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wady/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/wady/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 - Uzależnienie - postać jest uzależniona od narkotyku, który musi codziennie zażywać. W przeciwnym razie otrzymuje karę -3 do wszelkich Testów, póki nie zażyje narkotyku.

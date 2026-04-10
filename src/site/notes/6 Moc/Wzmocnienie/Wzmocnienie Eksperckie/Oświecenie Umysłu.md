@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/oswiecenie-umyslu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wzmocnienie/wzmocnienie-eksperckie/oswiecenie-umyslu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Wzmocnienie Atrybutu ●●○

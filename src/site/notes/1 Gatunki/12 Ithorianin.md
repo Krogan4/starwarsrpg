@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-gatunki/12-ithorianin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/1-gatunki/12-ithorianin/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![Pasted image 20241221153933.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153933.png)

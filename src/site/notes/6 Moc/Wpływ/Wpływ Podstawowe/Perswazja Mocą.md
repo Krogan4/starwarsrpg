@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-podstawowe/perswazja-moca/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/wplyw/wplyw-podstawowe/perswazja-moca/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

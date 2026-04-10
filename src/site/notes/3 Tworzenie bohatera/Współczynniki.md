@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/wspolczynniki/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-tworzenie-bohatera/wspolczynniki/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Współczynniki to sześć najważniejszych atrybutów, które opisują każdą postać w świecie Gwiezdnych Wojen. Należy do nich: Charakter, Budowa, Zręczność, Percepcja, Intelekt oraz Wrażliwość na Moc. Podczas tworzenia postaci, wykonaj 6 rzutów 2k10, a następnie rozdziel je dowolnie do Współczynników, a później dodaj do nich modyfikatory odpowiednio dla każdego gatunku według tabeli podanej na końcu strony.

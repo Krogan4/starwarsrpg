@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zatrzymanie-czasu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-moc/telekineza/telekineza-mistrzowskie/zatrzymanie-czasu/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Wymagania:** Teleportacja, Zatrzymanie Pocisku

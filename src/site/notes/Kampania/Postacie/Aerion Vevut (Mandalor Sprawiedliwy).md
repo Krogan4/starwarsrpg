@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/aerion-vevut-mandalor-sprawiedliwy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/aerion-vevut-mandalor-sprawiedliwy/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/kampania/postacie/soczomaw/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/kampania/postacie/soczomaw/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 

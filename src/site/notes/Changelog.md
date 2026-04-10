@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/changelog/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## 01.12.2025
