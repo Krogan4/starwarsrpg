@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/1-gatunki/11-chagrianin/","dgPassFrontmatter":true}
 ---
 
-+1 **Charakter**
 ![Pasted image 20241221153918.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153918.png)
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 40 | 2k10 + 30         |
 
 Chagrianie to humanoidalna, ziemnowodna rasa zamieszkująca planetę Champalę. Chagrianie są wysoką, z reguły potężnie zbudowaną rasą. Ich najbardziej charakterystyczną cechą są rogi. U obu płci występują ruchorogi, które wyrastają z wyrostków znajdujących się po obu stronach głowy. Mogą one rosnąć do znacznych długości, a z wiekiem stają się coraz twardsze. Mężczyźni posiadają dodatkową parę rogów wyrastającą z czaszki, której używali w dawnych czasach w walkach o samicę. Kobiety natomiast mają w tym miejscu długi grzebień, który zaczyna się u czubka głowy i kończy u podstawy szyi. Skóra Chagrian przybiera różne odcienie błękitu, podobnie jak ich krew.
 
@@ -15,9 +18,9 @@ Typowy Chagrianin jest osobą ściśle przestrzegającą prawa i spokojną, czas
 
 - **Widzenie w ciemności** – kary z tego tytuły mniejsze o ¾.
 
-- +1 do **[[3 Tworzenie bohatera/Umiejętności#^5e52ee\|Perswazji]]**
+- +5 do **[[3 Tworzenie bohatera/Umiejętności#^5e52ee\|Perswazji]]**
 
-- +2 do **[[3 Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
+- +5 do Spostrzegawczości
 
 - **Wysoka odporność na promieniowanie**
 

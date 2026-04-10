@@ -2,8 +2,13 @@
 {"dg-publish":true,"permalink":"/1-gatunki/04-quarren/","dgPassFrontmatter":true}
 ---
 
-+1 **Intelekt**
 ![Pasted image 20241221153650.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153650.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 40 | 2k10 + 30 | 2k10 + 30         |
+
 Quarrenowie to humanoidalana, wodna rasa zamieszkująca Kalamar.
 
 Quarrenowie mają pomarańczowo-biała skórę i turkusowe oczy. Ich palce zakończone są przyssawkami, a ich twarze mają przynajmniej cztery macki, co nadaje im wygląd podobny do kałamarnic. Quarrenowie posiadają zdolność zmiany koloru skóry podczas rytuału dobierania się w pary. Średnia długość życia wśród Quarrenów wynosi 79 standardowych lat. Mogą schodzić na głębokość do 300 metrów bez potrzeby używania aparatu tlenowego, jednakże przy schodzeniu poniżej 50 metrów muszą spędzić tyle samo czasu na dekompresji, ile spędzili przebywając na głębokości poniżej 50 metrów.

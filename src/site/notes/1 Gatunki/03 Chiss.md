@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/03-chiss/","dgPassFrontmatter":true}
 ---
 
-+1 **Intelekt**
 ![Pasted image 20241221144637.png](/img/user/6%20Obrazy/Pasted%20image%2020241221144637.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 35 | 2k10 + 40 | 2k10 + 30 | 2k10 + 25         |
 
 Chissowie to błękitnoskóre, czarnowłose i czerwonookie istoty. Przypuszcza się, iż taki kolor skóry zawdzięczają przemianom chemicznym zachodzącym w ich organizmach pod wpływem dużych ilości tlenu. Ich rdzenną planetą była Csilla.
 
@@ -13,7 +17,7 @@ Chissowie są inteligentni i tajemniczy. Wykazują wielkie zainteresowanie sztuk
 
 - **Widzenie w podczerwieni** – Chiss jest w stanie dostrzec promieniowanie cieplne emitowane przez żywe organizmy.
 
-- +1 do **[[3 Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
+- +5 do **[[3 Tworzenie bohatera/Umiejętności#^941113\|Wypatrywania]]**
 
 | **Chissowie**                |                                                    |
 | ---------------------------- | -------------------------------------------------- |

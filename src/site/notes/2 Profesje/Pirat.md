@@ -9,10 +9,10 @@ Piraci to grupa osobników rabujących transporty i konwoje, nie gardząca też 
 
 Piraci kosmiczni korzystają zazwyczaj z lekkich frachtowców, ponieważ są dość dobrze uzbrojone i mają dużą ładowność. Piraci kryją się w niezamieszkanych systemach słonecznych lub w pasach asteroid. Jako baz używają naturalnych zagłębień terenu lub starych statków kosmicznych. Sporadycznie okrętami pirackimi zostają korwety lub fregaty. Często pracują jako najemnicy.
 
-Pirat zaczyna z 20% zniżką na broń ręczną, lekki blaster i granaty. Zaczyna także z premią do Znajomości półświatka wynoszącą 5.
+Pirat zaczyna z 20% zniżką na broń ręczną, lekki blaster i granaty. Zaczyna także z premią do Wiedza (Półświatek) wynoszącą 10%.
 
 **Cechy** (wybierz jedną):
 
-- **Odważny czy głupi?** – Nikt nie jest w stanie przestraszyć pirata, który wybrał tę cechę. Przynajmniej do czasu, aż poważnie go rani. Po prostu pirat nie jest w stanie uwierzyć, że ktoś mógłby mu podskoczyć. Dostaje jeden automatyczny sukces we wszystkich testach [[3 Tworzenie bohatera/Umiejętności#^e6c31b\|Zastraszania]] i [[3 Tworzenie bohatera/Umiejętności#^ee2a45\|Odwaga]].
+- **Odważny czy głupi?** – Nikt nie jest w stanie przestraszyć pirata, który wybrał tę cechę. Przynajmniej do czasu, aż poważnie go rani. Po prostu pirat nie jest w stanie uwierzyć, że ktoś mógłby mu podskoczyć. Dostaje +30%  we wszystkich testach [[3 Tworzenie bohatera/Umiejętności#^e6c31b\|Zastraszania]] i [[3 Tworzenie bohatera/Umiejętności#^ee2a45\|Odwaga]].
 
-- **Do abordażu!** – Pirat z tą cechą jest mistrzem szturmowania na przeciwnika. Nauczył się zwinnie unikać nadlatujących pocisków i samemu sprawniej odpowiadać ogniem. W czasie biegu kara za strzelanie zmniejsza się o 1 (z -2 do -1) oraz kara przeciwnika do trafienia biegnącego pirata zwiększa się o 1 (z -1 do -2).
+- **Do abordażu!** – Pirat z tą cechą jest mistrzem szturmowania na przeciwnika. Nauczył się zwinnie unikać nadlatujących pocisków i samemu sprawniej odpowiadać ogniem. W czasie biegu kara za strzelanie zmniejsza się o 5% (z -10% do -5%) oraz kara przeciwnika do trafienia biegnącego pirata zwiększa się o 5% (z -5% do -10%).

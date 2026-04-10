@@ -2,23 +2,23 @@
 {"dg-publish":true,"permalink":"/5-wyposazenie/inne-wyposazenie/","dgPassFrontmatter":true}
 ---
 
-**Dwójnóg** – montowany do broni długiej. Montaż zajmuje 3 segmenty. Strzelanie z broni podpartej o dwójnóg zapewnia +2 do testów strzelania. Strzelanie z nieopartej broni, na której zamontowany jest dwójnóg zapewnia karę -1 do testów strzelania.
+**Dwójnóg** – montowany do broni długiej. Montaż zajmuje 3 segmenty. Strzelanie z broni podpartej o dwójnóg zapewnia +10 do testów strzelania. Strzelanie z nieopartej broni, na której zamontowany jest dwójnóg zapewnia karę -5 do testów strzelania.
 { #34b0be}
 
 
-**Celownik holograficzny** – zapewnia dodatkowe +1 do testów strzelania za każdy segment odłożony na celowanie.
+**Celownik holograficzny** – zapewnia dodatkowe +10 do testów strzelania za każdy segment odłożony na celowanie.
 { #83b290}
 
 
-**Luneta optyczna** – zapewnia +3 do testów strzelania, jednak samo przycelowanie trwa 3 segmenty.
+**Luneta optyczna** – zapewnia +30 do testów strzelania, jednak samo przycelowanie trwa 3 segmenty.
 { #3d4356}
 
 
-**Baton energetyczny** – zapewnia +1 do testów kondycji na 5 godzin.
+**Baton energetyczny** – zapewnia +10 do testów kondycji na 5 godzin.
 { #aa224a}
 
 
-**Środek energetyczny** – zapewnia +2 do testów kondycji na 10 godzin.
+**Środek energetyczny** – zapewnia +20 do testów kondycji na 10 godzin.
 { #4a97c5}
 
 

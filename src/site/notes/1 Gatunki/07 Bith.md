@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/07-bith/","dgPassFrontmatter":true}
 ---
 
-+1 **Intelekt**
 ![Pasted image 20241221153745.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153745.png)
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 45 | 2k10 + 30 | 2k10 + 25         |
+
 Bithowie są rasą rozumną wywodzącą się z planety Clak'dor VII.
 
 Mają wielkie czaszki i równie duże mózgi. Swój rozwój zawdzięczają wielu wiekom świadomej hodowli, dzięki której wyjątkowo dobrze rozwinęły się u nich fragmenty mózgu odpowiadające za funkcje wyższego rzędu, zaś części odpowiadające za instynkty takie jak strach czy agresja, prawie wcale. Ponieważ Bithowie nie sypiają, ich oczy nie mają powiek. Narządy powonienia znajdują się w fałdach skóry policzków. Ich organ węchu jest bardzo czuły, toteż wyczuwają nawet najmniejsze zmiany składu chemicznego w atmosferze. Na Clak'dorze VII, planecie, z której pochodzą, urodziło się wielu wybitnych myślicieli i artystów galaktyki. Bithowie nie znoszą przemocy i bardzo powściągliwie wyrażają uczucia. Ponadto, Bithowie rozmnażają się wyłącznie przy pomocy technologii.
@@ -12,7 +16,7 @@ Mają wielkie czaszki i równie duże mózgi. Swój rozwój zawdzięczają wielu
 
 - **Medytacja** – Bithowie nie odczuwają potrzeby snu. Zamiast tego medytują. 4 godzinna medytacja pozwala wypocząć im w taki sam sposób jak 8 godzinny sen innym rasom. Przy tym, w czasie medytacji pozostają czujni.
 
-- **Czuły węch** – Bithowie mają doskonale rozwinięty węch. Testy [[3 Tworzenie bohatera/Współczynniki#^f66138\|Zmysłów]] oparte o węch są łatwiejsze o 3.
+- **Czuły węch** – Bithowie mają doskonale rozwinięty węch. Testy Spostrzegawczości oparte o węch są łatwiejsze o 15.
 
 | **Bithowie**                 |                                                     |
 | ---------------------------- | --------------------------------------------------- |

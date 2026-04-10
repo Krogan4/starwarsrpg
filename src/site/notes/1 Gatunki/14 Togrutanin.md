@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/14-togrutanin/","dgPassFrontmatter":true}
 ---
 
-+1 **Wrażliwość na Moc**
 ![Pasted image 20241221154005.png](/img/user/6%20Obrazy/Pasted%20image%2020241221154005.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 40         |
 
 Togrutanie to humanoidalna rasa wywodząca się z planety Shili, lecz zamieszkująca też inne światy, na przykład Kiros. Ich najbardziej charakterystyczną cechą były montrale, umożliwiające zdolność pasywnej echolokacji. Togrutanie wsławili się swoją oddaną służbą jako Jedi, która trwała praktycznie od początku założenia Zakonu.
 
@@ -19,7 +23,7 @@ Togrutanie byli ludem spokojnym i pokojowym, lecz w walce byli godnymi przeciwni
 
 - **Lekku** – Togrutanin może skrycie porozumiewać się z innym przedstawicielem rasy, jednak lekku jest także jego słabym punktem. Łatwo go za nie złapać, a uszkodzenie może doprowadzić do śmierci.
 
-- +1 do **[[3 Tworzenie bohatera/Umiejętności#^ba32e1\|Nasłuchiwania]]**.
+- +10 do Spostrzegawczości opartej o słuch.
 
 | **Togrutanie**               |                                                                       |
 | ---------------------------- | --------------------------------------------------------------------- |

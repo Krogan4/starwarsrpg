@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/10-trandoshanin/","dgPassFrontmatter":true}
 ---
 
-+1 **Zręczność**
 ![Pasted image 20241221153853.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153853.png)
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 40 | 2k10 + 35 | 2k10 + 35 | 2k10 + 25 | 2k10 + 30 | 2k10 + 25         |
+
 
 Trandoshanie są rasą gadopodobnych dwunożnych istot, słynących z bardzo gwałtownego charakteru. Mają człekokształtną budowę ciała, a samych siebie nazywają T'doshokami. Rasa ta zasłynęła w galaktyce jako nieustraszeni wojownicy. Podobnie jak większość gadów, Trandoshanie to istoty zimnokrwiste. Ich ciała pokryte były łuskowatą skórą, którą zmieniali raz do roku. Ich pomarańczowe oczy są wyjątkowo wrażliwe na widzenie w podczerwieni. Dopóki istoty nie osiągną średniego wieku, potrafią regenerować utracone kończyny. Ich dłonie i stopy są zakończone trzema ostrymi szponami, które służyły im jako broń podczas walki, ale przeszkadzały w trzymaniu przedmiotów. Przedstawiciele tej rasy mocno przeciągają głoskę "s". Istoty słyną z okrucieństwa i zamiłowania do przemocy. Uważają, iż sens życia polega na polowaniu i tropieniu istot słabszych od siebie.
 

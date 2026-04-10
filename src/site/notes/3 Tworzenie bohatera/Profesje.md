@@ -12,7 +12,7 @@ Poniżej przedstawiono wybrane profesje, które są jedynie formą archetypu pos
 [[2 Profesje/Polityk\|Polityk]]
 [[2 Profesje/Zwiadowca\|Zwiadowca]]
 [[2 Profesje/Pilot\|Pilot]]
-[[2 Profesje/Kierowca\|Kierowca]]
+[[Kierowca\|Kierowca]]
 [[2 Profesje/Medyk\|Medyk]]
 [[2 Profesje/Człowiek interesów\|Człowiek interesów]]
 [[2 Profesje/Technolog\|Technolog]]
@@ -22,3 +22,6 @@ Poniżej przedstawiono wybrane profesje, które są jedynie formą archetypu pos
 [[2 Profesje/Artysta\|Artysta]]
 [[2 Profesje/Złodziej\|Złodziej]]
 [[2 Profesje/Jedi\|Jedi]]
+
+
+[[3 Tworzenie bohatera/Współczynniki\|Współczynniki]]

@@ -11,12 +11,12 @@ Brak odpowiedzialności przed Zakonem Jedi ma jednak swoje wady. Taka osoba nie 
 
 Użytkownicy Mocy zwykle są samoukami, jednak zdarza się, że poznają tajniki Mocy od innego samotnika lub wyrzutka z Zakonu albo odkrywają stare księgi i holokrony zawierające informacje o tajnikach.
 
-Zaczyna z premią do Arkana Mocy wynoszącą 5 oraz 500 PD do wydania na Techniki Mocy.
+Zaczyna z premią do Wiedza (Arkana Mocy) wynoszącą 20% oraz 500 PD do wydania na Techniki Mocy.
 
 [**Do grania jako Jedi wymagane jest min. 10 Wrażliwości na Moc**]
 
 **Cechy** (wybierz jedną):
 
-- **Ukrycie** – użytkownik Mocy, który opanował cechę Ukrycie starał się nie chwalić na lewo i prawo tym, że jest w stanie kontrolować Moc, dlatego zaczyna z pierwszym poziomem umiejętności [[3 Tworzenie bohatera/Umiejętności#^7e3f02\|Wyczucie]], a także dostaje jeden automatyczny sukces we wszystkich Testach ukrywania Mocy.
+- **Ukrycie** – użytkownik Mocy, który opanował cechę Ukrycie starał się nie chwalić na lewo i prawo tym, że jest w stanie kontrolować Moc, dlatego zaczyna z 5% [[3 Tworzenie bohatera/Umiejętności#^7e3f02\|Wyczucie]], a także dostaje +30% sukces we wszystkich Testach ukrywania Mocy.
 
 - **Zero przypadków** – użytkownik Mocy z tą cechą oparł każdy aspekt swojego życia na Mocy i wykluczył z niego przypadki. Dwa razy na sesję może przerzucić dowolny Test.

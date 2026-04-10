@@ -159,7 +159,7 @@ Postać posiadająca tę sztuczkę jest w stanie zapamiętać wszelkie szczegó�
 Wymagania: Wypatrywanie 5+, Intelekt 13+
 
 
-## Pierwotny instynkt
+## Pamięć mięśniowa
 Posiadacz tej sztuczki bez względu na sytuację testuje Zręczność podczas testu Inicjatywy.
 
 Wymagania: Zręczność 12+. Czujność 2+, Walka wręcz 2+

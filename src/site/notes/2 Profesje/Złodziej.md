@@ -7,10 +7,10 @@
 
 Złodziej to osoba, która utrzymuje się poprzez okradanie innych. Może być prostym kieszonkowcem obierającym na cel losowe osoby w zatłoczonym tłumie, może specjalizować się w otwieraniu sejfów, a nawet w precyzyjnie zaplanowanych włamaniach do najbardziej strzeżonych obiektów. Złodzieje muszą poruszać się niepostrzeżenie i znać się na zabezpieczeniach, a przy tym być niezwykle zręcznym. Część złodziei specjalizuje się w pokonywaniu cyfrowych zabezpieczeń i zwykle nazywani są hakerami.
 
-Złodziej zaczyna wyposażony w zestaw wytrychów i latarkę fuzyjną oraz 20% zniżką na lornetkę elektroniczną, wyrzutnię linki z hakiem, urządzenie hakujące, zakłócacz sygnałów audio i zestaw sensorów. Zaczyna także z premią do Znajomości półświatka wynoszącą 5.
+Złodziej zaczyna wyposażony w zestaw wytrychów i latarkę fuzyjną oraz 20% zniżką na lornetkę elektroniczną, wyrzutnię linki z hakiem, urządzenie hakujące, zakłócacz sygnałów audio i zestaw sensorów. Zaczyna także z premią do Wiedza (Półświatek) wynoszącą 10%.
 
 **Cechy** (wybierz jedną):
 
-- **Kot** – złodziej z tą cechą jest tak skuteczny, że w czasie wykonywania testów [[3 Tworzenie bohatera/Umiejętności#^deb32c\|Skradania]] lub [[3 Tworzenie bohatera/Umiejętności#^075005\|Ukrywania się]], próbujący go wykryć przeciwnik dostaje jedną automatyczną porażkę podczas Testu Wypatrywania lub Nasłuchiwania u przeciwnika.
+- **Kot** – złodziej z tą cechą jest tak skuteczny, że w czasie wykonywania testów [[3 Tworzenie bohatera/Umiejętności#^deb32c\|Skradania]] lub [[3 Tworzenie bohatera/Umiejętności#^075005\|Ukrywania się]], próbujący go wykryć przeciwnik dostaje -10% podczas Testu Spostrzegawczości.
 
-- **Haker** – ten złodziej skupia bardziej się na pokonywaniu cyfrowych zabezpieczeń niż fizycznych przeszkód. Za każdym razem, gdy wykonuje test [[3 Tworzenie bohatera/Umiejętności#^dbc096\|Elektroniki]] lub [[3 Tworzenie bohatera/Umiejętności#^ecd097\|Otwierania zamków]] elektronicznych, dostaje na czas testu 3 punkty Intelektu.
+- **Haker** – ten złodziej opanował pokonywanie cyfrowych przeszkód na tyle, że za każdym razem, gdy próbuje otworzyć zamek elektroniczny, może użyć Złodziejstwa zamiast umiejętności Technika/Komputery.

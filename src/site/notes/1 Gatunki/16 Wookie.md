@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/16-wookie/","dgPassFrontmatter":true}
 ---
 
-+2 **Budowa**
 ![Pasted image 20241221154039.png](/img/user/6%20Obrazy/Pasted%20image%2020241221154039.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 50 | 2k10 + 35 | 2k10 + 35 | 2k10 + 20 | 2k10 + 20         |
 
 Wookiee to rasa rozumna zamieszkująca planetę Kashyyyk. Są to ponad dwumetrowe, pokryte sierścią humanoidalne istoty, mające ostre, chowane pazury, dzięki którym bardzo sprawnie poruszają się po drzewach. Aby zyskać ich zaufanie, trzeba udowodnić im, że nie miało się co do nich złych zamiarów. Kobiety rasy Wookiee są tylko nieco niższe od mężczyzn. Po standardowym roku ciąży, przychodzi na świat mały Wookiee, który miał ponad metr wzrostu.
 

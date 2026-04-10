@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/09-rodianin/","dgPassFrontmatter":true}
 ---
 
-+1 **Zmysły**
 ![Pasted image 20241221153838.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153838.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 40 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30         |
 
 Rodianie to istoty pochodzące z planety Rodia, umiejscowionej w układzie Tyrius.
 
@@ -15,7 +19,7 @@ Na ich ojczystej planecie żyje wiele niebezpiecznych stworzeń, stąd Rodianie 
 
 - **Widzenie w podczerwieni** – Rodianin jest w stanie dostrzec promieniowanie cieplne emitowane przez żywe organizmy.
 
-- +1 do **[[3 Tworzenie bohatera/Umiejętności#^6d259f\|Kondycji]]**
+- +5 do **[[3 Tworzenie bohatera/Umiejętności#^6d259f\|Kondycji]]**
 
 | **Rodianie**                 |                                                                   |
 | ---------------------------- | ----------------------------------------------------------------- |

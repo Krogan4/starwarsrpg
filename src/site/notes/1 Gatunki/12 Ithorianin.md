@@ -2,10 +2,14 @@
 {"dg-publish":true,"permalink":"/1-gatunki/12-ithorianin/","dgPassFrontmatter":true}
 ---
 
-+1 **Wrażliwość na Moc**
 ![Pasted image 20241221153933.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153933.png)
 
- Ithorianie są pokojowo nastawioną rasą, podążającą ideami Republiki, demokracją i sprawiedliwością. Ich macierzystą planetą jest pokryty w większości dżunglą Ithor. Przedstawiciele tej rasy bardzo związali się z naturą, dzięki czemu często zatrudnia się ich jako ekologów, ogrodników czy specjalistów do odradzania zniszczonej fauny i flory. Swoimi umiejętnościami w tej dziedzinie wykazali się na planecie Telos IV. Skolonizowali oni Felucję pod ochroną Nowej Republiki.
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 40         |
+ 
+ 
+ Ithorianie są pokojowo nastawioną rasą, podążającą ideami Republiki, demokracją i sprawiedliwością. Ich macierzystą planetą jest pokryty w większości dżunglą Ithor. Przedstawiciele tej rasy bardzo związali się z naturą, dzięki czemu często zatrudnia się ich jako ekologów, ogrodników czy specjalistów do odradzania zniszczonej fauny i flory. Swoimi umiejętnościami w tej dziedzinie wykazali się na planecie Telos IV. Skolonizowali oni Felucję pod ochroną Nowej Republiki.
 
 By nie zakłócać równowagi Ithora, zamieszkali w latających wysoko nad powierzchnią planety statkach-miastach, zwanych oazami lub stadami. Co pięć lat Ithorianie spotykają się na tak zwanym Wielkim spotkaniu, gdzie odpoczywają, rozmawiają i decydują o sprawach dotyczących wszystkich mieszkańców planety. Budując latające miasta, Ithorianie starali się naśladować naturalne środowisko. Stąd też na ich pokładach występują sztuczne deszcze, hoduje się rośliny i dzikie zwierzęta.
 
@@ -15,7 +19,7 @@ Ithorian często bywają nazywani młotogłowymi lub młotami ze względu na cha
 
 - **Wydawanie stereofonicznych dźwięków**
 
-- **Obezwładnianie dźwiękiem** – Ithorianin jest w stanie wydać z siebie potężny krzyk, który powoduje -3 do wszystkich testów osób dookoła na okres 3 tur. Jeżeli istota ma czuły słuch, kara wynosi -5. Dodatkowo, jeżeli Ithorianin jest biegły w Mocy, może spróbować wzmocnić swój krzyk ([[3 Tworzenie bohatera/Umiejętności#^047d6c\|Wzmocnienie]] -4) by za pomocą dźwięku odrzucić wszystko dookoła i uszkodzić nawet elementy zrobione ze wzmacnianej stali.
+- **Obezwładnianie dźwiękiem** – Ithorianin jest w stanie wydać z siebie potężny krzyk, który powoduje -15 do wszystkich testów osób dookoła na okres 3 Tur. Jeżeli istota ma czuły słuch, kara wynosi -25. Dodatkowo, jeżeli Ithorianin jest biegły w Mocy, może spróbować wzmocnić swój krzyk ([[3 Tworzenie bohatera/Umiejętności#^047d6c\|Wzmocnienie]] -20) by za pomocą dźwięku odrzucić wszystko dookoła i uszkodzić nawet elementy zrobione ze wzmacnianej stali.
 
 | **Ithorianie**           |                                  |
 | ------------------------ | -------------------------------- |

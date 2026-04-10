@@ -11,6 +11,6 @@ Mechanik zaczyna wyposażony w zestaw narzędzi a także z 20% zniżką na dowol
 
 **Cechy** (wybierz jedną):
 
-- **Kłopotliwy nadmiar** – za każdym razem, gdy Mechanik rozbiera jakiś element może wykonać test [[3 Tworzenie bohatera/Umiejętności#^c1c6d7\|Mechaniki]] lub [[3 Tworzenie bohatera/Umiejętności#^dbc096\|Elektroniki]] -5. Jeżeli zda test, zostanie mu garść części o wartości 20% całego urządzenia.
+- **Kłopotliwy nadmiar** – za każdym razem, gdy Mechanik rozbiera jakiś element może wykonać Test Techniki -25%. Jeżeli zda Test, zostanie mu garść części o wartości 20% całego urządzenia.
 
-- **Droidziarz** – darmowy Sukces podczas wszystkich operacje dotyczące budowania, naprawy i programowania droidów.
+- **Droidziarz** – +30% podczas wszystkich operacji dotyczących budowania, naprawy i programowania droidów.

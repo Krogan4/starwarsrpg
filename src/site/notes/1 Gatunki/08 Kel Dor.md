@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/1-gatunki/08-kel-dor/","dgPassFrontmatter":true}
 ---
 
-+1 **Wrażliwość na Moc**, +1 **Zręczność**, -1 **Budowa**
 ![Pasted image 20241221153757.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153757.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 25 | 2k10 + 30 | 2k10 + 35 | 2k10 + 30 | 2k10 + 40         |
 
 Kel Dorowie to humanoidalna rasa wywodząca się z planety Dorin. Kel Dorowie osiągają wzrost od 140 do 200 centymetrów oraz wagę około 70-100 kilogramów. Mężczyźni zazwyczaj są wyżsi i lepiej zbudowani niż kobiety. Osobnicy tej rasy posiadają pozbawioną owłosienia skórę o odcieniach od pomarańczy do mocnej czerwieni, niemal zawsze pokrytą cienkimi, nieco jaśniejszymi liniami. Jama nosowa oraz ustna są zrośnięte w jeden narząd pozbawiony uzębienia, za to wyposażony w dwie pary szczękoczułek. Ze względu na gęstą atmosferę Dorinu, Kel Dorowie nie są w stanie wydawać z siebie głośnych dźwięków bez głębszego wysiłku. Wpłynęło to na ich narządy głosowe, które w znacznym stopniu zanikły. Z tego powodu Kel Dorowie wykształcili dobrze rozwinięty słuch wyczulony na najcichsze dźwięki ich świata. Ich wrażliwe na niektóre gamy światła oczy najczęściej mają kolor czarny, choć czasami rodzili się osobnicy posiadający srebrny kolor tęczówek. Uważano to za przejaw silnej wrażliwości na Moc, chociaż ta cecha występowała dość często wśród przedstawicieli tej rasy. Kel Dorowie posiadali niespotykaną odporność pozwalającą im przez pewien czas przetrwać w warunkach panujących w próżni.
 
@@ -17,7 +21,7 @@ Kel Dorowie miewają tendencję do bycia stosunkowo cichymi, ale troskliwymi stw
 
 - **Oddychanie oparte na helu** – skład powietrza przystępny dla większości gatunków dla Kel Dorów jest zabójczy
 
-- + 2 do **[[3 Tworzenie bohatera/Umiejętności#^ba32e1\|Nasłuchiwania]]**
+- + 5 do Spostrzegawczości
 
 | **Kel Dorowie**              |                                                                                                         |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------- |

@@ -21,3 +21,6 @@ Galaktykę zamieszkuje ponad 20 milionów gatunków istot rozumnych. W podręczn
 [[1 Gatunki/14 Togrutanin\|14 Togrutanin]]
 [[1 Gatunki/15 Zeltronin\|15 Zeltronin]]
 [[1 Gatunki/16 Wookie\|16 Wookie]]
+
+
+[[3 Tworzenie bohatera/Profesje\|Profesje]]

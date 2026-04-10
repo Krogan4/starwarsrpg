@@ -2,8 +2,13 @@
 {"dg-publish":true,"permalink":"/1-gatunki/05-kalmaranin/","dgPassFrontmatter":true}
 ---
 
-+1 **Charakter**
 ![Pasted image 20241221153710.png](/img/user/6%20Obrazy/Pasted%20image%2020241221153710.png)
+
+
+| Zręczność | Budowa    | Zmysły    | Intelekt  | Charakter | Wrażliwość na Moc |
+| --------- | --------- | --------- | --------- | --------- | ----------------- |
+| 2k10 + 30 | 2k10 + 30 | 2k10 + 30 | 2k10 + 35 | 2k10 + 35 | 2k10 + 30         |
+
 
 Kalamarianie to istoty pochodzące z planety Kalamar. Są pacyfistami, słyną z łagodnego zachowania, uprzejmości i sprawiedliwych sądów. To właśnie ze środowiska Kalamarian wywodzi się wielu znamienitych przywódców, rzeczników i dyplomatów. Kalamarianie są istotami ziemnowodnymi, mieli skórę łososiowatego koloru, wysokie czaszki z wyłupiastymi oczami po bokach głowy i płetwiaste dłonie. Większość swojego czasu spędzają pod wodą. Potrafią oddychać zarówno pod wodą, jak i tlenem atmosferycznym. Kalamarianie poczynili niewielkie odkrycia techniczne - pierwsze dotyczyły hodowli ryb i ochrony środowiska, aż do czasu zaoferowania pomocy ze strony innej rasy zamieszkujących ich planetę – Quarrenów, oraz odkrycia planety przez Republikę. Wtedy bardzo rozwinęli technikę budowy statków bojowych, posiadających charakterystyczne opływowe kształty. Jednak komputery, stanowiska i wygląd pomieszczeń dostosowano do specyficznej budowy ciała Kalamarian. Także monitory dostosowane były do zakresu częstotliwości, na jakie wrażliwe są oczy przedstawicieli tej rasy. Przez to istoty innych ras miewali czasami problemy z przystosowaniem się do warunków statków.
 
