@@ -14,5 +14,3 @@
 [[4 Walka/4 Walka wręcz\|4 Walka wręcz]]
 [[4 Walka/5 Walka mieczem świetlnym\|5 Walka mieczem świetlnym]]
 [[0 Główny folder/3 Moc\|3 Moc]]
-
-TEST
